@@ -1,0 +1,185 @@
+{
+  "topic": "勇敢的小兔去森林探险",
+  "script": "薄荷绿连帽短外套的小兔蹦蹦，长耳微翘，手插兜，狡黠一笑：“我去森林探险，看看有没有秘密！”他背上小水壶，尾巴绒球一抖就出发了。\n\n进了森林，松果滚到脚边，蹦蹦用门牙轻轻一顶：“嘿，像保龄球！”突然“咔嚓”一声，前面的小木桥断了两块。蹦蹦大圆眼一亮，眉毛上挑：“难不倒我！”他把树枝摆成小阶梯，又找来藤蔓当扶手，小心迈过去。\n\n刚过桥，听见“呜呜”声——原来小松鼠被藤蔓缠住了。蹦蹦放下手，认真地用小树枝挑开结：“别急，深呼吸。”松鼠得救了，送他一颗亮亮的橡果当“勇敢勋章”。\n\n回家路上，蹦蹦摸摸粉鼻头笑了：“勇敢不是瞎闯，是会想办法，还会帮忙。”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783105382_fb67aa88-ac4a-4174-be64-3af321801635.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783406043_bd3de8fb-b14c-4bdb-93cc-87e6f524b9e3.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783653082_0cdd9041-2585-44f4-84e7-29ba122a79d7.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783653095_bd3ace23-7a66-4d80-9d3f-17414353c5ef.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783879564_2a6f6c51-f6ab-4155-a253-76405e791893.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783879572_c5ae6224-5537-4ca3-8dc9-5efae3a03a6e.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779784180052_9a8772cc-e296-438a-b859-5a18890fddce.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783105382_fb67aa88-ac4a-4174-be64-3af321801635.png",
+      "text": "《勇敢的小兔去森林探险》",
+      "prompt": "儿童绘本封面，主题：勇敢的小兔去森林探险\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783406043_bd3de8fb-b14c-4bdb-93cc-87e6f524b9e3.png",
+      "text": "薄荷绿连帽短外套的小兔蹦蹦，长耳微翘，手插兜，狡黠一笑：“我去森林探险，看看有没有秘密",
+      "prompt": "儿童绘本内页，主题：勇敢的小兔去森林探险\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783653082_0cdd9041-2585-44f4-84e7-29ba122a79d7.png",
+      "text": "家门口/小路边，薄荷绿连帽短外套的小兔蹦蹦长耳微翘，双手插兜，狡黠一笑对观众说：“我去森林探险，看看有没有秘密！”随后把小水壶背到身上，尾巴绒球一抖，转身出发。",
+      "prompt": "Anthropomorphic little rabbit (age 6-8), small agile body, long ears slightly upturned, fluffy pom-pom tail, big round eyes with catchlights, pink nose, slightly visible buck teeth, light blush cheeks; wearing mint-green hooded short jacket, creamy white T-shirt, orange-yellow shorts, sneakers, small water canteen on back. He stands at the path near home, hands in pockets with a mischievous grin, speaks to camera, then straps the canteen and starts walking, tail wiggles. Bright soft daylight, cheerful urban cartoon 3D with realistic fur (not scary), clean colors, shallow depth of field, 4k, cinematic lighting, medium shot, smooth dolly-in then gentle lateral follow, masterpiece.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "家门口/小路边，薄荷绿连帽短外套的小兔蹦蹦长耳微翘，双手插兜，狡黠一笑对观众说：“我去森林探险，看看有没有秘密！”随后把小水壶背到身上，尾巴绒球一抖，转身出发。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783653095_bd3ace23-7a66-4d80-9d3f-17414353c5ef.png",
+      "text": "森林入口处到林间小道，蹦蹦小跑进入森林，脚边一颗松果滚来。他停下，俯身用门牙轻轻一顶松果，像在推保龄球一样让松果向前滚，嘴里轻快地说：“嘿，像保龄球！”",
+      "prompt": "Wide shot in a sunny forest trail. Same anthropomorphic rabbit boy (6-8) with mint-green hoodie jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen on back; big round eyes, pink nose, buck teeth slightly visible, blush cheeks, long ears slightly upturned. A pinecone rolls to his feet; he crouches and gently nudges it forward with his front teeth like bowling, saying a playful line. Low-angle tracking following the rolling pinecone then framing the rabbit, bright soft light through trees, vivid colors, urban cartoon 3D realistic fur style, 4k, cinematic lighting, smooth gimbal movement, masterpiece.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "森林入口处到林间小道，蹦蹦小跑进入森林，脚边一颗松果滚来。他停下，俯身用门牙轻轻一顶松果，像在推保龄球一样让松果向前滚，嘴里轻快地说：“嘿，像保龄球！”"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783879564_2a6f6c51-f6ab-4155-a253-76405e791893.png",
+      "text": "前方小木桥处，“咔嚓”一声，桥板断了两块。蹦蹦停在断口前，大圆眼一亮、眉毛上挑，露出门牙自信一笑：“难不倒我！”他迅速把树枝摆成小阶梯，伸手试稳，准备过桥。",
+      "prompt": "Medium shot at a small wooden bridge in the forest; two planks snapped with a clear break (non-violent). The same rabbit child hero: mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen; big round eyes with highlights, pink nose, slight buck teeth, blush cheeks, long ears slightly upturned. He reacts to a 'crack' sound, eyebrows raised, confident mischievous grin, says 'Nothing can stop me!' then quickly arranges sticks into small steps, testing stability with his paw. Bright soft daylight, clean urban cartoon 3D realistic fur, 4k, cinematic lighting, fast dolly-in to face then tilt down to obstacle, masterpiece.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "前方小木桥处，“咔嚓”一声，桥板断了两块。蹦蹦停在断口前，大圆眼一亮、眉毛上挑，露出门牙自信一笑：“难不倒我！”他迅速把树枝摆成小阶梯，伸手试稳，准备过桥。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779783879572_c5ae6224-5537-4ca3-8dc9-5efae3a03a6e.png",
+      "text": "过桥动作镜头：蹦蹦用藤蔓当扶手，一手握藤蔓，一脚一脚踩着树枝阶梯，小心翼翼跨过断桥到对岸，耳朵微动、神情专注，落地后松一口气。",
+      "prompt": "Wide side view of the broken wooden bridge in a bright forest. Same anthropomorphic rabbit boy (6-8) with mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen. He uses a vine as a handrail, carefully steps across stick-made stairs over the gap, focused expression, ears subtly twitch, then reaches the other side and exhales in relief. Smooth lateral tracking (side dolly), natural soft sunbeams, colorful urban cartoon 3D realistic fur look, 4k, cinematic lighting, stable composition, masterpiece.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "过桥动作镜头：蹦蹦用藤蔓当扶手，一手握藤蔓，一脚一脚踩着树枝阶梯，小心翼翼跨过断桥到对岸，耳朵微动、神情专注，落地后松一口气。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-26_30a5685d-df84-4d84-9a91-430620742fde/img_1779784180052_9a8772cc-e296-438a-b859-5a18890fddce.png",
+      "text": "对岸林间，传来“呜呜”声。蹦蹦循声走近，发现藤蔓把一只小松鼠缠住。蹦蹦立刻放下手里东西，神情认真，用小树枝细心挑开藤蔓结，一边安慰：“别急，深呼吸。”松鼠被解开后把一颗亮亮的橡果递给蹦蹦当“勇敢勋章”。",
+      "prompt": "Medium shot in a sunny forest clearing. Same rabbit child hero (anthropomorphic, 6-8): mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen; big round eyes, pink nose, slight buck teeth, blush cheeks, long ears slightly upturned. He hears a soft whimper, leans in with a serious caring face, uses a small twig to carefully loosen a vine knot (gentle, non-scary), speaking calmly 'Don’t panic, take a deep breath.' After freeing, a small squirrel (friendly, cute) offers a shiny acorn medal to the rabbit; the rabbit receives it with warm focus. Slow dolly-in, bright soft lighting, urban cartoon 3D realistic fur, 4k, cinematic lighting, shallow depth of field, masterpiece.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "对岸林间，传来“呜呜”声。蹦蹦循声走近，发现藤蔓把一只小松鼠缠住。蹦蹦立刻放下手里东西，神情认真，用小树枝细心挑开藤蔓结，一边安慰：“别急，深呼吸。”松鼠被解开后把一颗亮亮的橡果递给蹦蹦当“勇敢勋章”。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "勇敢的小兔去森林探险",
+    "visualAnchor": "物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔（拟人化）/年龄感：6~8岁童趣/体态：小巧灵活、长耳微翘、尾巴绒球/脸部特征：大圆眼高光、粉鼻头、门牙微露、脸颊淡腮红/服装配色：薄荷绿连帽短外套+奶油白T+橙黄短裤，运动鞋/表情气质：狡黠笑、眉毛上挑，手插兜像要搞恶作剧/风格与禁用项：都市卡通3D拟真毛发、明快柔光；禁用恐怖写实、血腥、过度性感、直接复刻特定IP角色。",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/2026-05-26/picturebook/character-assets/b5456678-04f2-43a6-bd9c-049086ede4d1/img_1779781484880_7eb88617-ea8c-4a9e-9073-06b6abc3821e.png"
+  },
+  "qualityGate": {
+    "status": "FAIL",
+    "score": 83,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": false,
+        "detail": "生成 7/10 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "勇敢的小兔去森林探险 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包未通过基础质量门禁，建议补图或重跑失败页。"
+  },
+  "shots": [
+    {
+      "description": "家门口/小路边，薄荷绿连帽短外套的小兔蹦蹦长耳微翘，双手插兜，狡黠一笑对观众说：“我去森林探险，看看有没有秘密！”随后把小水壶背到身上，尾巴绒球一抖，转身出发。",
+      "shotType": "medium",
+      "cameraMovement": "轻微推近后平移跟随起步",
+      "characters": [
+        "小兔蹦蹦"
+      ],
+      "duration": 8,
+      "videoPrompt": "Anthropomorphic little rabbit (age 6-8), small agile body, long ears slightly upturned, fluffy pom-pom tail, big round eyes with catchlights, pink nose, slightly visible buck teeth, light blush cheeks; wearing mint-green hooded short jacket, creamy white T-shirt, orange-yellow shorts, sneakers, small water canteen on back. He stands at the path near home, hands in pockets with a mischievous grin, speaks to camera, then straps the canteen and starts walking, tail wiggles. Bright soft daylight, cheerful urban cartoon 3D with realistic fur (not scary), clean colors, shallow depth of field, 4k, cinematic lighting, medium shot, smooth dolly-in then gentle lateral follow, masterpiece."
+    },
+    {
+      "description": "森林入口处到林间小道，蹦蹦小跑进入森林，脚边一颗松果滚来。他停下，俯身用门牙轻轻一顶松果，像在推保龄球一样让松果向前滚，嘴里轻快地说：“嘿，像保龄球！”",
+      "shotType": "wide",
+      "cameraMovement": "低机位跟随松果滚动并带到主角",
+      "characters": [
+        "小兔蹦蹦"
+      ],
+      "duration": 9,
+      "videoPrompt": "Wide shot in a sunny forest trail. Same anthropomorphic rabbit boy (6-8) with mint-green hoodie jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen on back; big round eyes, pink nose, buck teeth slightly visible, blush cheeks, long ears slightly upturned. A pinecone rolls to his feet; he crouches and gently nudges it forward with his front teeth like bowling, saying a playful line. Low-angle tracking following the rolling pinecone then framing the rabbit, bright soft light through trees, vivid colors, urban cartoon 3D realistic fur style, 4k, cinematic lighting, smooth gimbal movement, masterpiece."
+    },
+    {
+      "description": "前方小木桥处，“咔嚓”一声，桥板断了两块。蹦蹦停在断口前，大圆眼一亮、眉毛上挑，露出门牙自信一笑：“难不倒我！”他迅速把树枝摆成小阶梯，伸手试稳，准备过桥。",
+      "shotType": "medium",
+      "cameraMovement": "快速推近到表情后稍微下摇展示断桥与树枝",
+      "characters": [
+        "小兔蹦蹦"
+      ],
+      "duration": 10,
+      "videoPrompt": "Medium shot at a small wooden bridge in the forest; two planks snapped with a clear break (non-violent). The same rabbit child hero: mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen; big round eyes with highlights, pink nose, slight buck teeth, blush cheeks, long ears slightly upturned. He reacts to a 'crack' sound, eyebrows raised, confident mischievous grin, says 'Nothing can stop me!' then quickly arranges sticks into small steps, testing stability with his paw. Bright soft daylight, clean urban cartoon 3D realistic fur, 4k, cinematic lighting, fast dolly-in to face then tilt down to obstacle, masterpiece."
+    },
+    {
+      "description": "过桥动作镜头：蹦蹦用藤蔓当扶手，一手握藤蔓，一脚一脚踩着树枝阶梯，小心翼翼跨过断桥到对岸，耳朵微动、神情专注，落地后松一口气。",
+      "shotType": "wide",
+      "cameraMovement": "侧向平移跟随他跨越断桥",
+      "characters": [
+        "小兔蹦蹦"
+      ],
+      "duration": 10,
+      "videoPrompt": "Wide side view of the broken wooden bridge in a bright forest. Same anthropomorphic rabbit boy (6-8) with mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen. He uses a vine as a handrail, carefully steps across stick-made stairs over the gap, focused expression, ears subtly twitch, then reaches the other side and exhales in relief. Smooth lateral tracking (side dolly), natural soft sunbeams, colorful urban cartoon 3D realistic fur look, 4k, cinematic lighting, stable composition, masterpiece."
+    },
+    {
+      "description": "对岸林间，传来“呜呜”声。蹦蹦循声走近，发现藤蔓把一只小松鼠缠住。蹦蹦立刻放下手里东西，神情认真，用小树枝细心挑开藤蔓结，一边安慰：“别急，深呼吸。”松鼠被解开后把一颗亮亮的橡果递给蹦蹦当“勇敢勋章”。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近强调解结与递橡果动作",
+      "characters": [
+        "小兔蹦蹦"
+      ],
+      "duration": 12,
+      "videoPrompt": "Medium shot in a sunny forest clearing. Same rabbit child hero (anthropomorphic, 6-8): mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen; big round eyes, pink nose, slight buck teeth, blush cheeks, long ears slightly upturned. He hears a soft whimper, leans in with a serious caring face, uses a small twig to carefully loosen a vine knot (gentle, non-scary), speaking calmly 'Don’t panic, take a deep breath.' After freeing, a small squirrel (friendly, cute) offers a shiny acorn medal to the rabbit; the rabbit receives it with warm focus. Slow dolly-in, bright soft lighting, urban cartoon 3D realistic fur, 4k, cinematic lighting, shallow depth of field, masterpiece."
+    },
+    {
+      "description": "回家路上/夕阳暖光的林间小道，蹦蹦一边走一边把亮亮的橡果举在胸前看，另一只手摸摸粉鼻头，露出满足的笑，对观众总结：“勇敢不是瞎闯，是会想办法，还会帮忙。”他继续轻快前行。",
+      "shotType": "closeup",
+      "cameraMovement": "轻柔推近并微微跟随前进",
+      "characters": [
+        "小兔蹦蹦"
+      ],
+      "duration": 9,
+      "videoPrompt": "Close-up moving shot on a forest path with warm late-afternoon golden light. Same anthropomorphic rabbit boy (6-8), small agile, long ears slightly upturned, fluffy pom-pom tail (hinted), big round eyes with catchlights, pink nose, slight buck teeth, blush cheeks; mint-green hooded short jacket, cream T-shirt, orange-yellow shorts, sneakers, canteen. He walks forward, holds a shiny acorn at chest level, gently taps/rubs his pink nose with the other paw, smiles and speaks a reflective line about bravery. Soft dolly-in with subtle forward follow, golden-hour soft glow, urban cartoon 3D realistic fur, 4k, cinematic lighting, clean background bokeh, masterpiece."
+    }
+  ]
+}
