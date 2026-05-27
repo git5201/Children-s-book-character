@@ -1,0 +1,125 @@
+{
+  "topic": "《淘气小兔：哭一哭也没什么》：橙色小围巾的小兔子把委屈装进“眼泪小云朵”，在温柔故事里学会表达情绪、安抚自己再重新出发。",
+  "script": "橙色小围巾的小兔子穿着薄荷绿背带短裤和奶油白T恤，眨眼坏笑，蹦蹦跳跳去搭积木城堡。  \n“啪！”长耳一高一低的小兔子一用力，城堡倒了，门牙微露，小鼻子一酸：“我好笨！”  \n\n这时，窗外飘来一朵软软的“眼泪小云朵”。小兔子把委屈轻轻放进去，“嗒嗒嗒”几滴眼泪掉下来，云朵立刻变得更蓬松，还像棉花糖一样抱住它。  \n\n小兔子学着深呼吸：吸——闻闻围巾的橙子香；呼——把难过吹远一点。它对云朵说：“我生气，也可以哭一哭。”  \n\n云朵“噗”地放出一小阵彩色雨点：叮叮当当，把散落的积木推回身边。小兔子擦擦眼睛，眼睛又亮起来：“再来一次！这次我慢一点。”  \n城堡又搭好了，小兔子冲云朵挥手：哭一哭没什么，我还能重新出发。",
+  "aspectRatio": "3:4",
+  "imageCount": 0,
+  "images": [],
+  "referenceImages": [],
+  "pages": [],
+  "characterBible": {
+    "protagonist": "《淘气小兔：哭一哭也没什么》：橙色小围巾的小兔子把委屈装进“眼泪小云朵”，在温柔故事里学会表达情绪、安抚自己再重新出发。",
+    "visualAnchor": "物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/2026-05-27/picturebook/character-assets/29bdba08-b31a-47e2-93c6-4441e5172a70/img_1779861765115_e0d2c39d-7d8e-4a17-82e9-4c25ebd38329.png"
+  },
+  "qualityGate": {
+    "status": "FAIL",
+    "score": 50,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": false,
+        "detail": "生成 0/10 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": false,
+        "detail": "已生成 0 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "《淘气小兔：哭一哭也没什么》：橙色小围巾的小兔子把委屈装进“眼泪小云朵”，在温柔故事里学会表达情绪、安抚自己再重新出发。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": false,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包未通过基础质量门禁，建议补图或重跑失败页。"
+  },
+  "shots": [
+    {
+      "description": "【室内-白天】小兔子（橙色小围巾、薄荷绿背带短裤、奶油白T恤）在地板上蹦蹦跳跳靠近彩色积木，眨眼坏笑、眉毛上挑，准备搭建积木城堡。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随，轻微低角度，带一点弹跳感的跟拍",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. A small chubby toddler bunny (4-6 years old), short limbs, strong bouncy posture, big eyes with highlights, pink nose, slight buck teeth, one ear up one ear down. Wearing mint-green overall shorts, cream-white T-shirt, orange small scarf. Indoor cozy playroom daylight, colorful building blocks on the floor. The bunny hops toward the blocks, winks with a mischievous grin, eyebrows raised. Wide shot, slight low angle, smooth tracking pan, 4k, cinematic lighting, masterpiece, no logos, non-realistic."
+    },
+    {
+      "description": "【室内-白天】小兔子专注搭建积木城堡，双手把积木对齐，身体前倾，小耳朵一高一低晃动，脸上仍带点淘气认真劲儿。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近，保持画面稳定",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 7,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Same toddler bunny character: small round body, short limbs, big sparkling eyes, pink nose, buck teeth slightly visible, one ear up one ear down, mint-green overall shorts, cream T-shirt, orange scarf. The bunny carefully stacks colorful blocks into a small castle, hands aligning pieces, leaning forward with focused playful expression. Medium shot, slow dolly-in, shallow depth of field look, 4k, cinematic lighting, masterpiece."
+    },
+    {
+      "description": "【室内-白天】“啪！”小兔子用力一按，城堡瞬间倒塌，积木四散。小兔子愣住，门牙微露，小鼻子发酸，眼眶泛泪，小声说：“我好笨！”",
+      "shotType": "closeup",
+      "cameraMovement": "快速推近后轻微震动，表现塌落冲击",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Same toddler bunny (4-6), small chubby body, short limbs, big eyes with highlights, pink nose, buck teeth slightly visible, one ear up one ear down, mint-green overalls, cream T-shirt, orange scarf. Closeup: blocks collapse in foreground with motion blur, bunny freezes then looks hurt, watery eyes, trembling mouth, whispers 'I am so silly' (subtitle). Quick dolly-in with slight camera shake, 4k, cinematic lighting, masterpiece."
+    },
+    {
+      "description": "【室内-白天/窗边】窗外飘来一朵软软的“眼泪小云朵”。小兔子把委屈轻轻“放进”云朵里，几滴眼泪“嗒嗒嗒”落下；云朵立刻更蓬松，像棉花糖一样轻轻抱住小兔子。",
+      "shotType": "medium",
+      "cameraMovement": "轻柔摇摄从窗外云朵到小兔子，再微微推近",
+      "characters": [
+        "淘气小兔",
+        "眼泪小云朵"
+      ],
+      "duration": 8,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Cozy indoor room near a window, daylight. Same toddler bunny character (small, round, short limbs, big sparkling eyes, pink nose, slight buck teeth, one ear up one ear down, mint-green overalls, cream T-shirt, orange scarf) sitting by scattered blocks. A soft fluffy 'tear cloud' floats in through the open window, pastel and friendly, like a cotton candy cloud. The bunny gently places its feelings into the cloud; a few teardrops fall 'tap tap', the cloud becomes puffier and wraps the bunny in a warm hug. Medium shot, gentle pan from window to bunny, slight dolly-in, 4k, cinematic lighting, masterpiece."
+    },
+    {
+      "description": "【室内-白天】小兔子学着深呼吸：吸——凑近闻闻橙色小围巾的橙子香；呼——把难过吹远一点。它对云朵说：“我生气，也可以哭一哭。”",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近，呼气时轻微后移，形成呼吸节奏",
+      "characters": [
+        "淘气小兔",
+        "眼泪小云朵"
+      ],
+      "duration": 8,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Closeup of the same toddler bunny: big eyes with highlights, pink nose, buck teeth slightly visible, one ear up one ear down. Wearing mint-green overalls, cream T-shirt, orange scarf. The bunny inhales deeply, nuzzling the orange scarf as if smelling citrus; then exhales gently, cheeks puffing slightly, sadness drifting away as soft air lines. The fluffy tear cloud hovers nearby, friendly and attentive. Subtitle: 'I can be angry, and I can cry too.' Slow dolly-in, slight pull-back on exhale, 4k, cinematic lighting, masterpiece."
+    },
+    {
+      "description": "【室内-白天】云朵“噗”地放出一小阵彩色雨点：叮叮当当，把散落积木推回小兔子身边。小兔子擦擦眼睛，眼睛亮起来：“再来一次！这次我慢一点。”随后城堡重新搭好，小兔子朝云朵挥手告别：哭一哭没什么，我还能重新出发。",
+      "shotType": "wide",
+      "cameraMovement": "先轻快平移展示彩色雨点推积木，再缓慢拉远定格在完成的城堡与挥手",
+      "characters": [
+        "淘气小兔",
+        "眼泪小云朵"
+      ],
+      "duration": 10,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Wide shot of the cozy playroom daylight. Same toddler bunny (small chubby body, short limbs, big sparkling eyes, pink nose, slight buck teeth, one ear up one ear down, mint-green overall shorts, cream T-shirt, orange scarf). The fluffy tear cloud releases a tiny burst of colorful raindrops that 'ding-ding' and gently push scattered blocks back toward the bunny. The bunny wipes its eyes, eyes shine bright, says (subtitle) 'Try again! This time I'll go slower.' Then the bunny calmly rebuilds the block castle successfully and waves goodbye to the cloud, confident and warm. Lively side pan following raindrops and blocks, then slow zoom-out to final tableau, 4k, cinematic lighting, masterpiece."
+    }
+  ]
+}
