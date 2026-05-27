@@ -1,0 +1,148 @@
+{
+  "topic": "《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。",
+  "script": "薄荷绿背带短裤的小兔子蹦蹦跳跳来啦！奶油白T恤上沾着点饼干屑，橙色小围巾一甩，它眨眼坏笑： “我想咬咬！”\n\n起因：小兔子看到新机关书，门牙微露，张嘴就想“啊呜”。  \n经过：它先咬书角——“不行不行，会疼也会坏。”它转转小转盘，看小胡萝卜跳舞；拉拉小拉条，粉鼻子“嗅嗅”弹出来；翻翻小窗口，大眼睛高光一闪，里面藏着“咬咬环”图案。  \n高潮：小兔子兴奋得耳朵一高一低，“我真的想咬！”它把嘴巴改成“咬咬也不坏”口令：咬安全的——咬咬环、咬咬布；不咬危险的——书角、手指、朋友的玩具。  \n结尾：它拍拍书说：“想咬的时候，先找对的东西！”然后眨眼坏笑，继续安全探索，咔哒咔哒玩机关。",
+  "aspectRatio": "3:4",
+  "imageCount": 3,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_8ed2a39c-6ccc-4144-a83f-373cadc7a5ed/img_1779870932129_2b34b48f-ac73-409b-9747-3487b9051a79.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_8ed2a39c-6ccc-4144-a83f-373cadc7a5ed/img_1779870932202_f063e53e-9132-40ed-9a5c-6f9558f821ce.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_8ed2a39c-6ccc-4144-a83f-373cadc7a5ed/img_1779871232540_44d3eacb-f095-496c-8bbc-39472f8d7a21.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_8ed2a39c-6ccc-4144-a83f-373cadc7a5ed/img_1779870932129_2b34b48f-ac73-409b-9747-3487b9051a79.png",
+      "text": "《《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。》",
+      "prompt": "儿童绘本封面，主题：《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_8ed2a39c-6ccc-4144-a83f-373cadc7a5ed/img_1779870932202_f063e53e-9132-40ed-9a5c-6f9558f821ce.png",
+      "text": "薄荷绿背带短裤的小兔子蹦蹦跳跳来啦",
+      "prompt": "儿童绘本内页，主题：《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 3,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_8ed2a39c-6ccc-4144-a83f-373cadc7a5ed/img_1779871232540_44d3eacb-f095-496c-8bbc-39472f8d7a21.png",
+      "text": "奶油白T恤上沾着点饼干屑，橙色小围巾一甩，它眨眼坏笑：“我想咬咬",
+      "prompt": "儿童绘本内页，主题：《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    }
+  ],
+  "characterBible": {
+    "protagonist": "《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。",
+    "visualAnchor": "物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/2026-05-27/picturebook/character-assets/29bdba08-b31a-47e2-93c6-4441e5172a70/img_1779861765115_e0d2c39d-7d8e-4a17-82e9-4c25ebd38329.png"
+  },
+  "qualityGate": {
+    "status": "FAIL",
+    "score": 67,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": false,
+        "detail": "生成 3/10 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 3 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "《淘气小兔的“咬咬也不坏”机关书》：薄荷绿背带裤的小兔子边眨眼坏笑边试遍每一处翻翻、拉拉、转转机关，教孩子把口欲期的“想咬”变成安全探索。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": false,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包未通过基础质量门禁，建议补图或重跑失败页。"
+  },
+  "shots": [
+    {
+      "description": "【开场】室内温暖绘本场景，小兔子穿薄荷绿背带短裤+奶油白T恤（胸前有饼干屑）+橙色小围巾，蹦蹦跳跳入画。它长耳一高一低，门牙微露，眨眼坏笑，对镜头说：“我想咬咬！”",
+      "shotType": "wide",
+      "cameraMovement": "低角度仰拍后轻微平移跟随，最后小幅度推近定格在它的坏笑眨眼",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Classic American animated picture-book style, clean line art, high saturation, warm cozy indoor playroom. A small chubby toddler rabbit (age 4-6), short limbs, bouncy motion, big eyes with sparkly highlights, pink nose, buckteeth slightly showing, one ear up and one ear down. Outfit: mint-green suspender shorts, cream-white T-shirt with a few cookie crumbs on the chest, orange small scarf flicking. The rabbit hops into frame, winks with a mischievous grin and raised eyebrows, says: 'I want to bite!' 4k, cinematic lighting, masterpiece, smooth animation, no realism, no logos."
+    },
+    {
+      "description": "【起因】桌面上出现一本色彩鲜亮的新机关书。小兔子凑近，眼睛高光闪，门牙更明显，张嘴准备“啊呜”咬下去，动作停在即将咬到书角的一瞬间。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近到书与嘴巴的距离，轻微手持感增强紧张但保持童趣",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "Classic American animated picture-book style, bright interactive board book on a table. The same small chubby toddler rabbit (4-6), mint-green suspender shorts, cream T-shirt with cookie crumbs, orange scarf, big glossy eyes, pink nose, buckteeth showing, one ear up one ear down. Medium shot: rabbit leans in toward a new interactive book, opens mouth in an 'ahh-woo' about-to-bite pose, freezes just before biting the book corner. Warm soft key light, gentle rim light, 4k, cinematic lighting, masterpiece, clean lines, high saturation."
+    },
+    {
+      "description": "【经过1】小兔子轻轻去咬书角，马上缩回嘴巴，皱一下眉又摇头，摆摆小短手自我提醒：“不行不行，会疼也会坏。”表情从冲动转为认真可爱。",
+      "shotType": "closeup",
+      "cameraMovement": "快速小推近到嘴和书角，再轻微后拉配合它缩回的动作",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Closeup on the same toddler rabbit and the book corner. The rabbit lightly touches the book corner with its mouth, then quickly pulls back, shakes head, waves tiny paws, eyebrows lift then knit in a cute warning expression. Dialogue subtitle: 'No no, it will hurt and it will break.' Big eye highlights, pink nose, buckteeth visible, one ear up one ear down, mint suspender shorts, cream T-shirt with cookie crumbs, orange scarf. 4k, cinematic lighting, masterpiece, clean high-saturation cartoon, smooth animation."
+    },
+    {
+      "description": "【经过2】小兔子改用“安全探索”：转转小转盘，看小胡萝卜在书上“跳舞”；紧接着拉拉小拉条，粉鼻子跟着“嗅嗅”弹出来。小兔子咯咯笑，身体微弹，眼睛亮晶晶。",
+      "shotType": "medium",
+      "cameraMovement": "平移跟随手部操作，带轻微推拉衔接两个机关动作",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 8,
+      "videoPrompt": "Medium shot, interactive board book mechanisms. Same small chubby toddler rabbit with mint-green suspender shorts, cream T-shirt with cookie crumbs, orange scarf, big sparkling eyes, pink nose, buckteeth, one ear up one ear down. The rabbit spins a small dial; a tiny carrot illustration 'dances' via the mechanism. Then the rabbit pulls a slider; a pink nose element pops out with a 'sniff sniff' motion. The rabbit giggles and bounces slightly. Bright cheerful colors, clean line art, high saturation, 4k, cinematic lighting, masterpiece."
+    },
+    {
+      "description": "【高潮】小兔子翻开小窗口，大眼睛高光一闪，里面藏着“咬咬环”图案。它兴奋得耳朵一高一低更明显，双手捧书，喊：“我真的想咬！”随即做“口令”手势：咬安全的——咬咬环、咬咬布；不咬危险的——书角、手指、朋友的玩具。",
+      "shotType": "closeup",
+      "cameraMovement": "快速推近到窗口揭开瞬间，再轻微环绕半圈突出兴奋与宣言",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 10,
+      "videoPrompt": "Closeup, interactive flap window reveal. Same toddler rabbit (4-6), small chubby body, short limbs, bouncy, big eyes with bright highlights, pink nose, buckteeth, one ear up one ear down, mint-green suspender shorts, cream T-shirt with cookie crumbs, orange scarf. The rabbit flips a small window; inside is a 'teething ring' icon/pattern. The rabbit shouts: 'I really want to bite!' Then makes a cute rule-chant gesture with paws: bite safe things (teething ring, chew cloth), do NOT bite dangerous things (book corner, fingers, friend's toy) shown as simple non-branded icons. 4k, cinematic lighting, masterpiece, clean lines, high saturation, friendly kid-safe tone."
+    },
+    {
+      "description": "【结尾】小兔子拍拍机关书封面，认真又淘气地说：“想咬的时候，先找对的东西！”它再眨眼坏笑，继续安全探索，咔哒咔哒地按压/拨动机关，画面定格在它开心专注的表情与书的动感细节上。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢后拉露出完整桌面与书，随后轻微平移保持它咔哒操作在画面中心，最后定格",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 7,
+      "videoPrompt": "Wide shot, cozy indoor picture-book scene. Same small chubby toddler rabbit with mint-green suspender shorts, cream T-shirt with cookie crumbs, orange scarf, big sparkling eyes, pink nose, buckteeth, one ear up one ear down. The rabbit pats the book cover and says: 'When you want to bite, find the right thing first!' Then winks mischievously and continues safe exploration, clicking and toggling book mechanisms (click-clack), focused happy expression. Classic American animated picture-book style, clean line art, high saturation, warm cinematic lighting, 4k, masterpiece, no realism, no logos."
+    }
+  ]
+}
