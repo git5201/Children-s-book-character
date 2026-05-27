@@ -1,0 +1,124 @@
+{
+  "topic": "《淘气小兔的“自己做”挑战卡》：长耳一高一低的小兔子用坏笑眨眼的勇气完成穿衣、收玩具、整理书包等任务，培养自理与时间管理。",
+  "script": "淘气小兔蹦进客厅：薄荷绿背带短裤一抖，橙色小围巾一甩，长耳一高一低。它眨眼坏笑：“今天我来挑战‘自己做’卡！”\n\n起因：妈妈指着卡片说：“三关：穿衣、收玩具、整理书包，十分钟。”小兔眉毛上挑：“小菜一碟！”\n\n经过：第一关，小兔把T恤套反了，门牙微露“嘿嘿”，转一圈又套对。第二关，玩具满地跑，它跳来跳去喊：“车进车库！积木回家！”把篮子装得鼓鼓的。\n\n高潮：还剩最后一分钟！书包张大嘴，小兔急得粉鼻一皱，眨眼坏笑：“用我的‘三样法’——水壶、绘本、彩笔！”三样一放，拉链“唰”地合上。\n\n结尾：计时铃响，小兔得意地蹦高：“我赢啦！”妈妈竖起大拇指：“明天再来一张！”小兔眨眼：“挑战卡，天天自己做！”",
+  "aspectRatio": "3:4",
+  "imageCount": 0,
+  "images": [],
+  "referenceImages": [],
+  "pages": [],
+  "characterBible": {
+    "protagonist": "《淘气小兔的“自己做”挑战卡》：长耳一高一低的小兔子用坏笑眨眼的勇气完成穿衣、收玩具、整理书包等任务，培养自理与时间管理。",
+    "visualAnchor": "物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/2026-05-27/picturebook/character-assets/29bdba08-b31a-47e2-93c6-4441e5172a70/img_1779861765115_e0d2c39d-7d8e-4a17-82e9-4c25ebd38329.png"
+  },
+  "qualityGate": {
+    "status": "FAIL",
+    "score": 50,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": false,
+        "detail": "生成 0/10 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": false,
+        "detail": "已生成 0 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "《淘气小兔的“自己做”挑战卡》：长耳一高一低的小兔子用坏笑眨眼的勇气完成穿衣、收玩具、整理书包等任务，培养自理与时间管理。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": false,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包未通过基础质量门禁，建议补图或重跑失败页。"
+  },
+  "shots": [
+    {
+      "description": "【开场】客厅全景。淘气小兔从画面左侧蹦进来，薄荷绿背带短裤一抖、橙色小围巾一甩，长耳一高一低。它停在客厅中央，眨眼坏笑，抬手比划挑战姿势说：“今天我来挑战‘自己做’卡！”",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随小兔入镜后轻微推近",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Classic American animated picture-book style, clean lineart, high saturation, bright cozy living room daytime. A small chubby toddler rabbit (4-6 years old), short limbs, bouncy body, big eyes with highlights, pink nose, slightly visible buck teeth, long ears one up one down. Outfit: mint green suspender shorts, creamy white T-shirt, orange scarf. The rabbit hops into the living room from left, scarf flicks, suspender shorts shake, stops center and does a playful wink with a mischievous grin, gesturing as if announcing a challenge. 4k, cinematic lighting, masterpiece, wide shot, smooth tracking pan then gentle push-in, shallow depth of field, no logos, non-realistic, cute."
+    },
+    {
+      "description": "【起因】中景。妈妈在客厅桌旁，把“自己做”卡片举到小兔面前，手指点着卡片内容：三关：穿衣、收玩具、整理书包，十分钟。小兔眉毛上挑、门牙微露，抬下巴自信回应：“小菜一碟！”（卡片上用图标表现三关，避免真实品牌文字）",
+      "shotType": "medium",
+      "cameraMovement": "轻微推近到卡片与小兔表情",
+      "characters": [
+        "淘气小兔",
+        "妈妈"
+      ],
+      "duration": 7,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Cozy living room with a small table. Mother character (only as a warm, simple cartoon parent figure, no brand elements) holds up a homemade challenge card with simple icons for three tasks (get dressed, pick up toys, pack backpack) and points at it. The toddler rabbit (small chubby, big sparkling eyes, pink nose, buck teeth, ears one up one down) in mint green suspender shorts, creamy white T-shirt, orange scarf, raises eyebrows confidently and speaks with a cheeky smile. 4k, cinematic lighting, masterpiece, medium shot, gentle push-in, soft depth of field."
+    },
+    {
+      "description": "【经过·第一关穿衣】近景。小兔在客厅一角“穿衣挑战区”，把奶油白T恤套反了，尴尬又淘气地“嘿嘿”笑，门牙微露；它转一圈，迅速把T恤翻正穿好，最后眨眼坏笑给自己打气。",
+      "shotType": "closeup",
+      "cameraMovement": "环绕小幅度跟随转圈（小弧度环拍）",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 8,
+      "videoPrompt": "Classic American animated picture-book animation look, clean lineart, vibrant colors. Closeup on a small chubby toddler rabbit (4-6), big eyes with highlights, pink nose, buck teeth showing slightly, long ears one up one down. Wearing mint green suspender shorts and orange scarf while struggling with a creamy white T-shirt put on backwards, then the rabbit does a quick spin and flips it correctly, ending with a playful wink and mischievous grin. 4k, cinematic lighting, masterpiece, closeup, small arc orbit camera following the spin, shallow depth of field, cute and bright, no realism, no logos."
+    },
+    {
+      "description": "【经过·第二关收玩具】广角。客厅地面玩具散落（小车、积木等简化造型）。小兔弹跳式来回收拾，一边指挥一边喊：“车进车库！积木回家！”它把玩具一股脑装进篮子，篮子鼓鼓的，小兔喘口气仍坏笑眨眼。",
+      "shotType": "wide",
+      "cameraMovement": "低机位平移跟随 + 轻快节奏剪辑感（单镜头内快速跟随）",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 9,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation, bright living room floor scattered with simple toy shapes (toy cars, blocks) without any logos. A small chubby toddler rabbit with bouncy movement, big sparkling eyes, pink nose, buck teeth, ears one up one down; outfit mint green suspender shorts, creamy white T-shirt, orange scarf. The rabbit hops quickly side to side, pointing and 'commanding' as it tosses toy cars and blocks into a woven basket until it looks stuffed and bulging, then pauses with a cheeky wink. 4k, cinematic lighting, masterpiece, wide shot, low-angle tracking pan, dynamic motion blur kept minimal, shallow depth of field."
+    },
+    {
+      "description": "【高潮·最后一分钟整理书包】中近景。画面边缘可见倒计时钟指向“最后一分钟”（用无字表盘或简单图形）。书包在地上像“张大嘴”一样敞开。小兔急得粉鼻一皱，但立刻眨眼坏笑：“用我的‘三样法’——水壶、绘本、彩笔！”它按顺序把三样物品放进书包，最后用力一拉，拉链“唰”地合上。",
+      "shotType": "medium",
+      "cameraMovement": "快速推近到拉链合上的瞬间（推拉节奏加速）",
+      "characters": [
+        "淘气小兔"
+      ],
+      "duration": 10,
+      "videoPrompt": "Classic American animated picture-book style, clean lineart, vibrant colors. Medium shot of a small chubby toddler rabbit (4-6), big eyes with highlights, pink nose, buck teeth, ears one up one down, wearing mint green suspender shorts, creamy white T-shirt, orange scarf. A simple backpack on the floor is wide open like a mouth. A minimal timer/clock graphic shows last minute (no text). The rabbit briefly scrunches nose in urgency, then winks mischievously and quickly packs three items in order: water bottle, picture book, colored pencils, then yanks the zipper closed with a crisp 'whoosh'. 4k, cinematic lighting, masterpiece, medium shot, fast push-in timed to zipper close, shallow depth of field, bright cheerful mood."
+    },
+    {
+      "description": "【结尾】中景。计时铃响（画面用铃声线条或小音符表现）。小兔得意地蹦高，双脚离地，眨眼坏笑：“我赢啦！”妈妈在旁边竖起大拇指说：“明天再来一张！”小兔落地后朝镜头眨眼补一句：“挑战卡，天天自己做！”",
+      "shotType": "medium",
+      "cameraMovement": "轻微上摇跟随跳起后回落定格",
+      "characters": [
+        "淘气小兔",
+        "妈妈"
+      ],
+      "duration": 8,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation, warm bright living room. Medium shot: small chubby toddler rabbit (4-6), big sparkling eyes, pink nose, slight buck teeth, ears one up one down; outfit mint green suspender shorts, creamy white T-shirt, orange scarf. Timer bell indicated by simple animated lines (no text). The rabbit jumps high in victory, winks with a mischievous grin, then lands facing camera. Mother character stands nearby giving a thumbs-up, friendly and simplified. 4k, cinematic lighting, masterpiece, medium shot, slight tilt up following the jump then settle, shallow depth of field, cheerful, no logos, non-realistic."
+    }
+  ]
+}
