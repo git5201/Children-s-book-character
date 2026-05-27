@@ -1,0 +1,173 @@
+{
+  "topic": "勇敢的小兔去森林探险",
+  "script": "薄荷绿背带短裤的小兔眨眨大眼睛，橙色小围巾一甩：“我要去森林探险！”它长耳一高一低，门牙微露，坏笑着蹦出家门。\n\n进了森林，小兔听见“咕噜咕噜”。原来是小松鼠卡在倒下的树枝下，抱着松果急得直眨眼。小兔拍拍胸口：“别怕，我来！”它先停一停，抬眉想办法：用短短的四肢把树枝一点点推开，还请小刺猬一起顶。树枝终于挪开了！\n\n这时天变暗，风呼呼吹，小兔的心也“咚咚咚”。它深呼吸，指着蘑菇路标：“跟我走，记得牵着朋友！”大家排成小队，跳跳蹦蹦回到亮亮的小路上。\n\n回家后，小兔眨眼坏笑：“勇敢不是不害怕，是害怕也会动脑筋、会求帮忙！”妈妈摸摸它的长耳朵，小兔开心地把探险故事讲了一遍。",
+  "aspectRatio": "3:4",
+  "imageCount": 5,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779863725861_d046659c-5e96-4685-aa51-e8fe1902dab1.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779863725914_d884fd50-2fbe-4d53-a5ec-95ffd60bce91.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779863808913_1b29caa5-2584-423a-b778-e3b63843e015.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779864042033_2d6d7cd3-d9fd-4cc4-a281-ba19ebdf048c.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779864142715_f2e90659-f6ff-4885-8793-80e284ff0e14.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779863725861_d046659c-5e96-4685-aa51-e8fe1902dab1.png",
+      "text": "《勇敢的小兔去森林探险》",
+      "prompt": "儿童绘本封面，主题：勇敢的小兔去森林探险\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779863725914_d884fd50-2fbe-4d53-a5ec-95ffd60bce91.png",
+      "text": "薄荷绿背带短裤的小兔眨眨大眼睛，橙色小围巾一甩：“我要去森林探险",
+      "prompt": "儿童绘本内页，主题：勇敢的小兔去森林探险\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779863808913_1b29caa5-2584-423a-b778-e3b63843e015.png",
+      "text": "【家门口-清晨】小兔（薄荷绿背带短裤+奶油白T恤+橙色小围巾）眨着大眼睛，长耳一高一低，门牙微露，坏笑着把围巾一甩，对着观众说：“我要去森林探险！”随后弹跳着冲出家门。",
+      "prompt": "Classic American animated picture-book style, clean lines, high saturation. A small chubby bunny child (4-6 years old), short limbs, bouncy energy, big sparkling eyes with highlights, pink nose, slightly showing front teeth, one ear up one ear down. Outfit: mint green overall shorts, cream-white T-shirt, orange scarf. In front of a cozy home doorway in morning light, the bunny winks with a mischievous grin, flicks the orange scarf dramatically and says (subtitle): \"I'm going to explore the forest!\" then hops out of the door. 4k, cinematic lighting, masterpiece, medium shot, slight low-angle, smooth pan follow, shallow depth of field, no realism, no logos.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【家门口-清晨】小兔（薄荷绿背带短裤+奶油白T恤+橙色小围巾）眨着大眼睛，长耳一高一低，门牙微露，坏笑着把围巾一甩，对着观众说：“我要去森林探险！”随后弹跳着冲出家门。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779864042033_2d6d7cd3-d9fd-4cc4-a281-ba19ebdf048c.png",
+      "text": "【森林入口-白天】小兔跳进森林小路，忽然停住，耳朵竖起，听到“咕噜咕噜”。它眉毛上挑、表情警觉又好奇，朝声音方向探头张望。",
+      "prompt": "Classic American animated picture-book style, clean lines, high saturation. Wide shot from behind the same bunny child (small, round, short limbs, bouncy), mint green overall shorts, cream tee, orange scarf, one ear up one ear down. The bunny hops onto a bright forest path, then suddenly stops and leans forward to listen; eyebrows raised, curious-alert expression. Subtle sound cue (subtitle): \"gurgle gurgle\". Daytime forest, friendly colors, soft sunbeams through leaves. 4k, cinematic lighting, wide shot, gentle dolly-in from behind, stabilized motion, no dark horror, no realism.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【森林入口-白天】小兔跳进森林小路，忽然停住，耳朵竖起，听到“咕噜咕噜”。它眉毛上挑、表情警觉又好奇，朝声音方向探头张望。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/generated/2026-05-27_0a1dea69-abcb-47e7-9ead-3c1d8ea2b2ea/img_1779864142715_f2e90659-f6ff-4885-8793-80e284ff0e14.png",
+      "text": "【倒木旁-白天】小兔发现小松鼠被倒下的树枝压住，抱着松果急得眨眼。小兔走近拍拍胸口，坏笑瞬间变成可靠表情，说：“别怕，我来！”",
+      "prompt": "Classic American animated picture-book style, clean lines, high saturation. Medium shot beside a fallen branch. The same bunny child (mint green overall shorts, cream T-shirt, orange scarf; big sparkling eyes, pink nose, one ear up one ear down, front teeth slightly visible) steps in. A small squirrel is stuck under a fallen branch, clutching a pinecone, blinking anxiously. The bunny pats its chest confidently and says (subtitle): \"Don't be afraid, I've got this!\" Friendly daylight, warm tones. 4k, cinematic lighting, medium shot, smooth lateral pan reveal then slight push-in, soft depth of field.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【倒木旁-白天】小兔发现小松鼠被倒下的树枝压住，抱着松果急得眨眼。小兔走近拍拍胸口，坏笑瞬间变成可靠表情，说：“别怕，我来！”"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "勇敢的小兔去森林探险",
+    "visualAnchor": "物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：物种/小兔；年龄感/4~6岁幼童；体态/小巧圆润、短四肢、弹跳感强；脸部特征/大眼睛高光、粉鼻、门牙微露、长耳一高一低；服装配色/薄荷绿背带短裤+奶油白T恤+橙色小围巾；表情气质/眨眼坏笑、眉毛上挑、活泼淘气但可爱；风格与禁用项/经典美式动画绘本质感、线条干净高饱和；禁用写实、恐怖阴暗、成人化身材、武器血腥、品牌Logo。",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/2026-05-27/picturebook/character-assets/29bdba08-b31a-47e2-93c6-4441e5172a70/img_1779861765115_e0d2c39d-7d8e-4a17-82e9-4c25ebd38329.png"
+  },
+  "qualityGate": {
+    "status": "FAIL",
+    "score": 67,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": false,
+        "detail": "生成 5/8 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 5 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "勇敢的小兔去森林探险 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": false,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包未通过基础质量门禁，建议补图或重跑失败页。"
+  },
+  "shots": [
+    {
+      "description": "【家门口-清晨】小兔（薄荷绿背带短裤+奶油白T恤+橙色小围巾）眨着大眼睛，长耳一高一低，门牙微露，坏笑着把围巾一甩，对着观众说：“我要去森林探险！”随后弹跳着冲出家门。",
+      "shotType": "medium",
+      "cameraMovement": "轻微低角度仰拍，随后平移跟随小兔蹦出门",
+      "characters": [
+        "小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. A small chubby bunny child (4-6 years old), short limbs, bouncy energy, big sparkling eyes with highlights, pink nose, slightly showing front teeth, one ear up one ear down. Outfit: mint green overall shorts, cream-white T-shirt, orange scarf. In front of a cozy home doorway in morning light, the bunny winks with a mischievous grin, flicks the orange scarf dramatically and says (subtitle): \"I'm going to explore the forest!\" then hops out of the door. 4k, cinematic lighting, masterpiece, medium shot, slight low-angle, smooth pan follow, shallow depth of field, no realism, no logos."
+    },
+    {
+      "description": "【森林入口-白天】小兔跳进森林小路，忽然停住，耳朵竖起，听到“咕噜咕噜”。它眉毛上挑、表情警觉又好奇，朝声音方向探头张望。",
+      "shotType": "wide",
+      "cameraMovement": "从小兔背后轻推入森林，最后停在它停步的位置",
+      "characters": [
+        "小兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Wide shot from behind the same bunny child (small, round, short limbs, bouncy), mint green overall shorts, cream tee, orange scarf, one ear up one ear down. The bunny hops onto a bright forest path, then suddenly stops and leans forward to listen; eyebrows raised, curious-alert expression. Subtle sound cue (subtitle): \"gurgle gurgle\". Daytime forest, friendly colors, soft sunbeams through leaves. 4k, cinematic lighting, wide shot, gentle dolly-in from behind, stabilized motion, no dark horror, no realism."
+    },
+    {
+      "description": "【倒木旁-白天】小兔发现小松鼠被倒下的树枝压住，抱着松果急得眨眼。小兔走近拍拍胸口，坏笑瞬间变成可靠表情，说：“别怕，我来！”",
+      "shotType": "medium",
+      "cameraMovement": "侧向平移揭示被困的小松鼠，再轻微推近小兔拍胸口",
+      "characters": [
+        "小兔",
+        "小松鼠"
+      ],
+      "duration": 7,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Medium shot beside a fallen branch. The same bunny child (mint green overall shorts, cream T-shirt, orange scarf; big sparkling eyes, pink nose, one ear up one ear down, front teeth slightly visible) steps in. A small squirrel is stuck under a fallen branch, clutching a pinecone, blinking anxiously. The bunny pats its chest confidently and says (subtitle): \"Don't be afraid, I've got this!\" Friendly daylight, warm tones. 4k, cinematic lighting, medium shot, smooth lateral pan reveal then slight push-in, soft depth of field."
+    },
+    {
+      "description": "【救援动作-白天】小兔先停一停抬眉思考，然后用短短四肢一点点推树枝；它回头招呼小刺猬来帮忙。小刺猬一起顶，树枝终于挪开，小松鼠重获自由。",
+      "shotType": "wide",
+      "cameraMovement": "低角度跟随推枝动作，最后轻微上摇展示树枝被顶开",
+      "characters": [
+        "小兔",
+        "小松鼠",
+        "小刺猬"
+      ],
+      "duration": 10,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Wide shot of a rescue scene. The same bunny child (small chubby body, short limbs, bouncy stance; mint green overall shorts, cream tee, orange scarf; big eyes with highlights, pink nose, one ear up one ear down) pauses, raises eyebrows thinking, then pushes a fallen branch little by little with short arms and legs. The bunny gestures to a small hedgehog to help; together they heave and the branch shifts away. The squirrel is freed and looks relieved, still holding a pinecone. Bright friendly forest daylight. 4k, cinematic lighting, wide shot, low-angle tracking, slight tilt-up at the moment the branch lifts, smooth animation timing, no realism."
+    },
+    {
+      "description": "【天色转暗-傍晚】风呼呼吹，树林变得灰蓝但不恐怖。小兔紧张得心口“咚咚咚”，深呼吸后指着蘑菇路标，认真说：“跟我走，记得牵着朋友！”大家排成小队跟在小兔身后走向亮亮的小路。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢推近到小兔指路动作，再平移跟随小队走向光亮处",
+      "characters": [
+        "小兔",
+        "小松鼠",
+        "小刺猬"
+      ],
+      "duration": 9,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation (evening palette). Wide shot: gentle dusk in the forest, cool gray-blue tones but cozy and safe, wind swaying leaves. The same bunny child (mint green overall shorts, cream T-shirt, orange scarf; big sparkling eyes, pink nose, one ear up one ear down, front teeth slightly showing) looks nervous, hand on chest (subtitle: \"thump thump\"), takes a deep breath, then points to a cute mushroom signpost and says (subtitle): \"Follow me, and hold your friend's hand!\" The squirrel and hedgehog line up behind, forming a small team walking toward a warm glowing path ahead. 4k, cinematic lighting, wide shot, slow dolly-in then smooth pan follow, soft rim light from the glowing path, no horror."
+    },
+    {
+      "description": "【家中-夜晚温暖灯光】回到家，小兔眨眼坏笑，总结：“勇敢不是不害怕，是害怕也会动脑筋、会求帮忙！”妈妈伸手摸摸它一高一低的长耳朵，小兔开心地手舞足蹈讲探险故事。",
+      "shotType": "medium",
+      "cameraMovement": "温柔缓慢推近到小兔眨眼坏笑与妈妈摸耳朵的互动",
+      "characters": [
+        "小兔",
+        "兔妈妈"
+      ],
+      "duration": 8,
+      "videoPrompt": "Classic American animated picture-book style, clean lines, high saturation. Medium shot inside a cozy home at night with warm lamp light. The same bunny child (4-6 years old, small round body, short limbs, bouncy; mint green overall shorts, cream-white T-shirt, orange scarf; big eyes with highlights, pink nose, one ear up one ear down, front teeth slightly visible) winks with a mischievous grin and delivers a lesson (subtitle): \"Being brave isn't not being afraid—it's thinking and asking for help even when you're scared!\" A gentle mother rabbit leans in and softly pats the bunny's uneven long ears; the bunny animatedly gestures while telling the adventure. 4k, cinematic lighting, masterpiece, medium shot, slow push-in, shallow depth of field, cozy ambience, no logos."
+    }
+  ]
+}
