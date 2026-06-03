@@ -1,0 +1,186 @@
+{
+  "topic": "习惯养成｜小巧轻盈、长耳微卷的小白兔总把红鞋子乱丢，直到有一天它发现会自己“躲起来”的其实是粗心。",
+  "script": "小白兔白白今年像8岁的小朋友，个子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。它有一双亮晶晶的大杏眼，粉鼻子、小小嘴，脸蛋淡淡粉粉的，可爱极了。\n\n可是，白白总爱把红鞋子乱丢。今天一只在床边，明天一只在门后。出门时，它急得直转圈：“咦？我的红鞋子又躲起来啦！”\n\n一天早上，白白找不到鞋子，急得眼泪都快出来了。它东翻西找，最后发现一只鞋在玩具箱后，另一只鞋竟藏在餐桌下。白白愣住了：“原来不是鞋子会躲，是粗心在捣蛋！”\n\n从那天起，白白在门口放了一个小鞋垫，每次脱鞋都轻轻摆好。晚上，它还会拍拍鞋子说：“晚安，红鞋子，明天见！”后来，红鞋子再也没“躲起来”啦。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_01_fb8cea2f.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_02_5be07d31.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_03_d8fefc9d.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_04_92dff18b.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_05_6646b463.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_06_b5a9aa6f.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_07_f7aac8f4.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_01_fb8cea2f.png",
+      "text": "《习惯养成｜小巧轻盈、长耳微卷的小白兔总把红鞋子乱丢，直到有一天它发现会自己“躲起来”的其实是粗心。》",
+      "prompt": "儿童绘本封面，主题：习惯养成｜小巧轻盈、长耳微卷的小白兔总把红鞋子乱丢，直到有一天它发现会自己“躲起来”的其实是粗心。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_02_5be07d31.png",
+      "text": "【角色建立】温暖的儿童房里，小白兔白白站在床边，像8岁小朋友一样小巧轻盈。它长耳朵微微卷着，蓬松的小尾巴轻轻翘起，亮晶晶的大杏眼看向前方，粉鼻子、小小嘴，面颊淡淡粉粉的，神情天真可爱。",
+      "prompt": "An adorable anthropomorphic white rabbit child, around 8 years old, small and light body, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes with highlights, pink nose, tiny mouth, soft pink cheeks, standing in a cozy children's bedroom beside the bed, innocent and cute expression, warm morning light, pastel storybook style, cinematic framing, slow push-in, shallow depth of field, 4k, masterpiece, cinematic lighting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【角色建立】温暖的儿童房里，小白兔白白站在床边，像8岁小朋友一样小巧轻盈。它长耳朵微微卷着，蓬松的小尾巴轻轻翘起，亮晶晶的大杏眼看向前方，粉鼻子、小小嘴，面颊淡淡粉粉的，神情天真可爱。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_03_d8fefc9d.png",
+      "text": "【习惯问题】房间门口与床边的地面上，红鞋子被随手乱丢，一只在床边，一只在门后。白白站在房间中央急得直转圈，耳朵跟着晃动，尾巴一跳一跳，着急地说：“咦？我的红鞋子又躲起来啦！”",
+      "prompt": "Wide view of a messy children's room, one small red shoe beside the bed and the other hidden behind the door, the same anthropomorphic white rabbit child age 8 spinning anxiously in the middle of the room, slightly curled long ears swaying, fluffy tail bouncing, big glossy almond eyes, pink nose and tiny mouth, saying in distress, playful but chaotic mood, side tracking shot, storybook animation style, cinematic composition, 4k, masterpiece, soft indoor lighting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【习惯问题】房间门口与床边的地面上，红鞋子被随手乱丢，一只在床边，一只在门后。白白站在房间中央急得直转圈，耳朵跟着晃动，尾巴一跳一跳，着急地说：“咦？我的红鞋子又躲起来啦！”"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_04_92dff18b.png",
+      "text": "【冲突升级】一天早上，白白蹲在地上找不到鞋子，眼眶湿润，眼泪都快出来了。它把小手伸向床下和柜子旁边，神情又急又委屈，整个房间显得有些凌乱。",
+      "prompt": "Close-up of the same white rabbit child, about 8 years old, crouching on the floor in a bedroom, searching under the bed and near a cabinet, teary eyes almost crying, big sparkling almond eyes filled with worry, pink nose, tiny mouth, soft pink cheeks, curled ears drooping slightly, emotional morning scene, gentle tilt down then slow push-in, cinematic lighting, detailed fur, 4k, masterpiece\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【冲突升级】一天早上，白白蹲在地上找不到鞋子，眼眶湿润，眼泪都快出来了。它把小手伸向床下和柜子旁边，神情又急又委屈，整个房间显得有些凌乱。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_05_6646b463.png",
+      "text": "【发现真相】白白东翻西找后，终于看到一只红鞋卡在玩具箱后面，另一只竟然藏在餐桌下。它愣愣地停住动作，睁大眼睛说：“原来不是鞋子会躲，是粗心在捣蛋！”",
+      "prompt": "A storybook-style interior scene where the same small white rabbit child discovers one red shoe behind a toy box and the other under a dining table, the rabbit freezes in surprise with wide sparkling almond eyes, slightly curled long ears lifted, fluffy tail still, realization moment, playful domestic environment, pan across the room then hold, cinematic storytelling, soft warm daylight, 4k, masterpiece, cinematic lighting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【发现真相】白白东翻西找后，终于看到一只红鞋卡在玩具箱后面，另一只竟然藏在餐桌下。它愣愣地停住动作，睁大眼睛说：“原来不是鞋子会躲，是粗心在捣蛋！”"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_06_b5a9aa6f.png",
+      "text": "【开始改变】从那天起，白白在门口放了一个小鞋垫。它回到家后，轻轻脱下红鞋子，弯下身把两只鞋整整齐齐摆在鞋垫上，动作认真又温柔。",
+      "prompt": "Medium shot at the doorway of a cozy home, the same anthropomorphic white rabbit child carefully placing a pair of red shoes neatly on a small shoe mat, gentle and responsible movement, age-8 innocence, small light body, curled long ears, fluffy tail, big bright almond eyes, pink nose, tiny mouth, soft pink cheeks, habit-building theme, clean composition, static camera, warm home lighting, 4k, masterpiece, cinematic lighting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【开始改变】从那天起，白白在门口放了一个小鞋垫。它回到家后，轻轻脱下红鞋子，弯下身把两只鞋整整齐齐摆在鞋垫上，动作认真又温柔。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/generated/page_07_f7aac8f4.png",
+      "text": "【温暖收束】夜晚的门口，小鞋垫上的红鞋子摆放整齐。白白蹲下来轻轻拍拍鞋子，露出安心笑容，说：“晚安，红鞋子，明天见！”画面温柔结束，暗示红鞋子再也没有“躲起来”。",
+      "prompt": "Nighttime close-up at the doorway, neatly arranged red shoes on a small shoe mat, the same adorable white rabbit child crouches down and gently pats the shoes, smiling with relief and affection, big highlighted almond eyes, pink nose, tiny mouth, faint pink cheeks, slightly curled long ears, fluffy tail visible, cozy bedtime mood, soft warm lamplight, slow push-in, cinematic depth of field, 4k, masterpiece, cinematic lighting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【温暖收束】夜晚的门口，小鞋垫上的红鞋子摆放整齐。白白蹲下来轻轻拍拍鞋子，露出安心笑容，说：“晚安，红鞋子，明天见！”画面温柔结束，暗示红鞋子再也没有“躲起来”。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "习惯养成｜小巧轻盈、长耳微卷的小白兔总把红鞋子乱丢，直到有一天它发现会自己“躲起来”的其实是粗心。",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_530808ad-a3ee-486c-b91a-f055dda3c588/anchor/anchor_upload_2ad18523.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "习惯养成｜小巧轻盈、长耳微卷的小白兔总把红鞋子乱丢，直到有一天它发现会自己“躲起来”的其实是粗心。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【角色建立】温暖的儿童房里，小白兔白白站在床边，像8岁小朋友一样小巧轻盈。它长耳朵微微卷着，蓬松的小尾巴轻轻翘起，亮晶晶的大杏眼看向前方，粉鼻子、小小嘴，面颊淡淡粉粉的，神情天真可爱。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小白兔白白"
+      ],
+      "duration": 5,
+      "videoPrompt": "An adorable anthropomorphic white rabbit child, around 8 years old, small and light body, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes with highlights, pink nose, tiny mouth, soft pink cheeks, standing in a cozy children's bedroom beside the bed, innocent and cute expression, warm morning light, pastel storybook style, cinematic framing, slow push-in, shallow depth of field, 4k, masterpiece, cinematic lighting"
+    },
+    {
+      "description": "【习惯问题】房间门口与床边的地面上，红鞋子被随手乱丢，一只在床边，一只在门后。白白站在房间中央急得直转圈，耳朵跟着晃动，尾巴一跳一跳，着急地说：“咦？我的红鞋子又躲起来啦！”",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "小白兔白白"
+      ],
+      "duration": 6,
+      "videoPrompt": "Wide view of a messy children's room, one small red shoe beside the bed and the other hidden behind the door, the same anthropomorphic white rabbit child age 8 spinning anxiously in the middle of the room, slightly curled long ears swaying, fluffy tail bouncing, big glossy almond eyes, pink nose and tiny mouth, saying in distress, playful but chaotic mood, side tracking shot, storybook animation style, cinematic composition, 4k, masterpiece, soft indoor lighting"
+    },
+    {
+      "description": "【冲突升级】一天早上，白白蹲在地上找不到鞋子，眼眶湿润，眼泪都快出来了。它把小手伸向床下和柜子旁边，神情又急又委屈，整个房间显得有些凌乱。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢下摇后轻推近",
+      "characters": [
+        "小白兔白白"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close-up of the same white rabbit child, about 8 years old, crouching on the floor in a bedroom, searching under the bed and near a cabinet, teary eyes almost crying, big sparkling almond eyes filled with worry, pink nose, tiny mouth, soft pink cheeks, curled ears drooping slightly, emotional morning scene, gentle tilt down then slow push-in, cinematic lighting, detailed fur, 4k, masterpiece"
+    },
+    {
+      "description": "【发现真相】白白东翻西找后，终于看到一只红鞋卡在玩具箱后面，另一只竟然藏在餐桌下。它愣愣地停住动作，睁大眼睛说：“原来不是鞋子会躲，是粗心在捣蛋！”",
+      "shotType": "wide",
+      "cameraMovement": "先平移再定格",
+      "characters": [
+        "小白兔白白"
+      ],
+      "duration": 7,
+      "videoPrompt": "A storybook-style interior scene where the same small white rabbit child discovers one red shoe behind a toy box and the other under a dining table, the rabbit freezes in surprise with wide sparkling almond eyes, slightly curled long ears lifted, fluffy tail still, realization moment, playful domestic environment, pan across the room then hold, cinematic storytelling, soft warm daylight, 4k, masterpiece, cinematic lighting"
+    },
+    {
+      "description": "【开始改变】从那天起，白白在门口放了一个小鞋垫。它回到家后，轻轻脱下红鞋子，弯下身把两只鞋整整齐齐摆在鞋垫上，动作认真又温柔。",
+      "shotType": "medium",
+      "cameraMovement": "固定镜头",
+      "characters": [
+        "小白兔白白"
+      ],
+      "duration": 5,
+      "videoPrompt": "Medium shot at the doorway of a cozy home, the same anthropomorphic white rabbit child carefully placing a pair of red shoes neatly on a small shoe mat, gentle and responsible movement, age-8 innocence, small light body, curled long ears, fluffy tail, big bright almond eyes, pink nose, tiny mouth, soft pink cheeks, habit-building theme, clean composition, static camera, warm home lighting, 4k, masterpiece, cinematic lighting"
+    },
+    {
+      "description": "【温暖收束】夜晚的门口，小鞋垫上的红鞋子摆放整齐。白白蹲下来轻轻拍拍鞋子，露出安心笑容，说：“晚安，红鞋子，明天见！”画面温柔结束，暗示红鞋子再也没有“躲起来”。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小白兔白白"
+      ],
+      "duration": 6,
+      "videoPrompt": "Nighttime close-up at the doorway, neatly arranged red shoes on a small shoe mat, the same adorable white rabbit child crouches down and gently pats the shoes, smiling with relief and affection, big highlighted almond eyes, pink nose, tiny mouth, faint pink cheeks, slightly curled long ears, fluffy tail visible, cozy bedtime mood, soft warm lamplight, slow push-in, cinematic depth of field, 4k, masterpiece, cinematic lighting"
+    }
+  ]
+}
