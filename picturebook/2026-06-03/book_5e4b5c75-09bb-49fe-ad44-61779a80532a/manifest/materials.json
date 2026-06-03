@@ -1,0 +1,192 @@
+{
+  "topic": "情绪管理绘本｜小白兔最好的朋友没等它一起玩，它气得小嘴鼓鼓，最后学会把“我难过”好好说出来。",
+  "script": "小白兔米米小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。今天，它抱着球去找好朋友豆豆，可豆豆已经和大家玩起了捉迷藏，没有等它。\n\n米米一下子气坏了，粉鼻子一皱，小嘴鼓得圆圆的，大杏眼里亮晶晶的，像要掉小雨点。它转身坐到树桩后面，谁也不理。\n\n这时，兔奶奶轻轻问：“米米，你是生气，还是难过呀？”米米愣了愣，小声说：“我……我难过，豆豆没等我一起玩。”\n\n豆豆听见了，赶紧跑过来：“对不起，米米，我太着急了。下一次我先等等你！”米米吸吸鼻子，说：“你先告诉我，我就不会那么难过啦。”\n\n后来，大家一起玩。米米明白了：心里不舒服时，不只鼓着嘴巴，还可以好好说出“我难过”。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_01_7bec7abf.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_02_f33c562f.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_03_12c80317.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_04_249ecdef.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_05_57068722.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_06_5c99a1f7.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_07_9583df3b.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_01_7bec7abf.png",
+      "text": "《情绪管理绘本｜小白兔最好的朋友没等它一起玩，它气得小嘴鼓鼓，最后学会把“我难过”好好说出来。》",
+      "prompt": "儿童绘本封面，主题：情绪管理绘本｜小白兔最好的朋友没等它一起玩，它气得小嘴鼓鼓，最后学会把“我难过”好好说出来。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_02_f33c562f.png",
+      "text": "林间草地的宽阔场景中，小白兔米米抱着一只球一跳一跳地赶来。它8岁左右的童真感，小巧轻盈，长耳朵微微卷着，蓬松的小尾巴随着步子轻轻弹动。前方豆豆已经和其他小伙伴玩起了捉迷藏，没有等它。米米停下脚步，先是愣住。",
+      "prompt": "A children's picture-book style forest meadow scene, Mimi the little white rabbit as the main character, around 8 years old, tiny and light body, slightly curled long ears, fluffy bouncing tail, big glossy almond eyes, pink nose, small mouth, soft blush cheeks, short childlike proportions, holding a ball and hopping toward her friends. In the distance, Doudou and other animal friends are already playing hide-and-seek without waiting for her. Warm morning light, gentle pastel colors, emotional storytelling, side tracking shot that slows to a stop, 4k, cinematic lighting, shallow depth of field, masterpiece, family-friendly animation frame\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "林间草地的宽阔场景中，小白兔米米抱着一只球一跳一跳地赶来。它8岁左右的童真感，小巧轻盈，长耳朵微微卷着，蓬松的小尾巴随着步子轻轻弹动。前方豆豆已经和其他小伙伴玩起了捉迷藏，没有等它。米米停下脚步，先是愣住。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_03_12c80317.png",
+      "text": "米米的情绪一下子涌上来。镜头拉近，它粉鼻子一皱，小嘴鼓得圆圆的，大杏眼里亮晶晶的，像马上要掉下小雨点。它紧紧抱着球，委屈又生气地看向玩耍的方向。",
+      "prompt": "Close-up of Mimi, the same little white rabbit main character, age about 8, petite and light, slightly curled long ears, fluffy tail barely visible, big almond eyes with sparkling highlights, pink nose wrinkling, tiny mouth puffed into a round pout, pale pink cheeks, clutching a ball tightly while feeling upset and hurt. Her eyes are watery like raindrops about to fall. Soft emotional woodland background blur, slow push-in, pastel children's book aesthetic, 4k, cinematic lighting, expressive facial animation, masterpiece\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "米米的情绪一下子涌上来。镜头拉近，它粉鼻子一皱，小嘴鼓得圆圆的，大杏眼里亮晶晶的，像马上要掉下小雨点。它紧紧抱着球，委屈又生气地看向玩耍的方向。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_04_249ecdef.png",
+      "text": "米米转身跑到一旁，躲到树桩后面坐下，把球放在怀里，背对大家，谁也不理。它低着头，长耳朵也微微垂下来，整个人缩成小小的一团。",
+      "prompt": "Medium shot of Mimi, the same white rabbit child protagonist, around 8 years old, small and delicate, slightly curled long ears now drooping, fluffy tail tucked close, big glossy almond eyes looking down, pink nose and tiny mouth showing sadness. She turns away from the group, sits behind a tree stump, hugging the ball and curling into herself, ignoring everyone. Gentle downward tilt, quiet forest atmosphere, soft diffused light, pastel emotional composition, 4k, cinematic lighting, masterpiece, storybook animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "米米转身跑到一旁，躲到树桩后面坐下，把球放在怀里，背对大家，谁也不理。它低着头，长耳朵也微微垂下来，整个人缩成小小的一团。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_05_57068722.png",
+      "text": "兔奶奶走到树桩旁，弯下身轻轻问：“米米，你是生气，还是难过呀？”米米愣了愣，抬起头，小声回答：“我……我难过，豆豆没等我一起玩。”画面突出温柔倾听与表达情绪的瞬间。",
+      "prompt": "Medium two-shot in a forest clearing: Mimi, the same little white rabbit child with petite body, slightly curled long ears, fluffy tail, big highlighted almond eyes, pink nose, small mouth, blush cheeks, sits behind a tree stump holding her ball. Rabbit Grandma gently bends down beside her and asks kindly. Mimi looks up, surprised, then softly admits she feels sad because Doudou did not wait for her. Warm compassionate mood, slow push-in, soft golden light, tender facial expressions, 4k, cinematic lighting, masterpiece, emotional family picture-book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "兔奶奶走到树桩旁，弯下身轻轻问：“米米，你是生气，还是难过呀？”米米愣了愣，抬起头，小声回答：“我……我难过，豆豆没等我一起玩。”画面突出温柔倾听与表达情绪的瞬间。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_06_5c99a1f7.png",
+      "text": "豆豆听见后，立刻从远处跑过来，停在米米面前认真道歉：“对不起，米米，我太着急了。下一次我先等等你！”米米吸吸鼻子，抱着球看着豆豆，说：“你先告诉我，我就不会那么难过啦。”",
+      "prompt": "Medium shot with Mimi in foreground and Doudou running in from the background. Mimi remains the same main character: 8-year-old childlike white rabbit, tiny and light, slightly curled long ears, fluffy tail, large glossy almond eyes, pink nose, small mouth, soft blush cheeks, holding a ball. Doudou stops and sincerely apologizes, speaking with urgency and regret. Mimi sniffs and calmly explains that if he told her first, she would not feel so sad. Gentle emotional reconciliation, static frame with slight push-in after entrance, warm daylight, pastel woodland setting, 4k, cinematic lighting, masterpiece\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "豆豆听见后，立刻从远处跑过来，停在米米面前认真道歉：“对不起，米米，我太着急了。下一次我先等等你！”米米吸吸鼻子，抱着球看着豆豆，说：“你先告诉我，我就不会那么难过啦。”"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/generated/page_07_9583df3b.png",
+      "text": "最后，大家重新聚在草地上一起开心玩耍。米米露出笑容，加入捉迷藏，长耳朵轻轻扬起，尾巴也欢快地跳动。画面结尾停留在米米明亮的表情上，传达它明白了：心里不舒服时，可以好好说出“我难过”。",
+      "prompt": "Wide joyful ending shot in a sunny meadow. Mimi, the same childlike white rabbit protagonist, about 8 years old, petite and graceful, slightly curled long ears lifted again, fluffy tail bouncing, big sparkling almond eyes, pink nose, tiny smiling mouth, blush cheeks, joins Doudou and friends in hide-and-seek. The mood is healed, playful, and warm, emphasizing that she has learned to say 'I feel sad' instead of only pouting. Gentle circular camera move ending on Mimi's bright happy face, pastel storybook colors, 4k, cinematic lighting, masterpiece, wholesome family animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "最后，大家重新聚在草地上一起开心玩耍。米米露出笑容，加入捉迷藏，长耳朵轻轻扬起，尾巴也欢快地跳动。画面结尾停留在米米明亮的表情上，传达它明白了：心里不舒服时，可以好好说出“我难过”。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "情绪管理绘本｜小白兔最好的朋友没等它一起玩，它气得小嘴鼓鼓，最后学会把“我难过”好好说出来。",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_5e4b5c75-09bb-49fe-ad44-61779a80532a/anchor/anchor_upload_21dafbff.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "情绪管理绘本｜小白兔最好的朋友没等它一起玩，它气得小嘴鼓鼓，最后学会把“我难过”好好说出来。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "林间草地的宽阔场景中，小白兔米米抱着一只球一跳一跳地赶来。它8岁左右的童真感，小巧轻盈，长耳朵微微卷着，蓬松的小尾巴随着步子轻轻弹动。前方豆豆已经和其他小伙伴玩起了捉迷藏，没有等它。米米停下脚步，先是愣住。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随后轻微停顿",
+      "characters": [
+        "米米",
+        "豆豆",
+        "大家"
+      ],
+      "duration": 6,
+      "videoPrompt": "A children's picture-book style forest meadow scene, Mimi the little white rabbit as the main character, around 8 years old, tiny and light body, slightly curled long ears, fluffy bouncing tail, big glossy almond eyes, pink nose, small mouth, soft blush cheeks, short childlike proportions, holding a ball and hopping toward her friends. In the distance, Doudou and other animal friends are already playing hide-and-seek without waiting for her. Warm morning light, gentle pastel colors, emotional storytelling, side tracking shot that slows to a stop, 4k, cinematic lighting, shallow depth of field, masterpiece, family-friendly animation frame"
+    },
+    {
+      "description": "米米的情绪一下子涌上来。镜头拉近，它粉鼻子一皱，小嘴鼓得圆圆的，大杏眼里亮晶晶的，像马上要掉下小雨点。它紧紧抱着球，委屈又生气地看向玩耍的方向。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close-up of Mimi, the same little white rabbit main character, age about 8, petite and light, slightly curled long ears, fluffy tail barely visible, big almond eyes with sparkling highlights, pink nose wrinkling, tiny mouth puffed into a round pout, pale pink cheeks, clutching a ball tightly while feeling upset and hurt. Her eyes are watery like raindrops about to fall. Soft emotional woodland background blur, slow push-in, pastel children's book aesthetic, 4k, cinematic lighting, expressive facial animation, masterpiece"
+    },
+    {
+      "description": "米米转身跑到一旁，躲到树桩后面坐下，把球放在怀里，背对大家，谁也不理。它低着头，长耳朵也微微垂下来，整个人缩成小小的一团。",
+      "shotType": "medium",
+      "cameraMovement": "固定镜头轻微下摇",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Medium shot of Mimi, the same white rabbit child protagonist, around 8 years old, small and delicate, slightly curled long ears now drooping, fluffy tail tucked close, big glossy almond eyes looking down, pink nose and tiny mouth showing sadness. She turns away from the group, sits behind a tree stump, hugging the ball and curling into herself, ignoring everyone. Gentle downward tilt, quiet forest atmosphere, soft diffused light, pastel emotional composition, 4k, cinematic lighting, masterpiece, storybook animation"
+    },
+    {
+      "description": "兔奶奶走到树桩旁，弯下身轻轻问：“米米，你是生气，还是难过呀？”米米愣了愣，抬起头，小声回答：“我……我难过，豆豆没等我一起玩。”画面突出温柔倾听与表达情绪的瞬间。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米",
+        "兔奶奶"
+      ],
+      "duration": 7,
+      "videoPrompt": "Medium two-shot in a forest clearing: Mimi, the same little white rabbit child with petite body, slightly curled long ears, fluffy tail, big highlighted almond eyes, pink nose, small mouth, blush cheeks, sits behind a tree stump holding her ball. Rabbit Grandma gently bends down beside her and asks kindly. Mimi looks up, surprised, then softly admits she feels sad because Doudou did not wait for her. Warm compassionate mood, slow push-in, soft golden light, tender facial expressions, 4k, cinematic lighting, masterpiece, emotional family picture-book style"
+    },
+    {
+      "description": "豆豆听见后，立刻从远处跑过来，停在米米面前认真道歉：“对不起，米米，我太着急了。下一次我先等等你！”米米吸吸鼻子，抱着球看着豆豆，说：“你先告诉我，我就不会那么难过啦。”",
+      "shotType": "medium",
+      "cameraMovement": "前景定机位，人物跑入后轻微推近",
+      "characters": [
+        "米米",
+        "豆豆"
+      ],
+      "duration": 7,
+      "videoPrompt": "Medium shot with Mimi in foreground and Doudou running in from the background. Mimi remains the same main character: 8-year-old childlike white rabbit, tiny and light, slightly curled long ears, fluffy tail, large glossy almond eyes, pink nose, small mouth, soft blush cheeks, holding a ball. Doudou stops and sincerely apologizes, speaking with urgency and regret. Mimi sniffs and calmly explains that if he told her first, she would not feel so sad. Gentle emotional reconciliation, static frame with slight push-in after entrance, warm daylight, pastel woodland setting, 4k, cinematic lighting, masterpiece"
+    },
+    {
+      "description": "最后，大家重新聚在草地上一起开心玩耍。米米露出笑容，加入捉迷藏，长耳朵轻轻扬起，尾巴也欢快地跳动。画面结尾停留在米米明亮的表情上，传达它明白了：心里不舒服时，可以好好说出“我难过”。",
+      "shotType": "wide",
+      "cameraMovement": "轻微环绕后定格",
+      "characters": [
+        "米米",
+        "豆豆",
+        "大家"
+      ],
+      "duration": 6,
+      "videoPrompt": "Wide joyful ending shot in a sunny meadow. Mimi, the same childlike white rabbit protagonist, about 8 years old, petite and graceful, slightly curled long ears lifted again, fluffy tail bouncing, big sparkling almond eyes, pink nose, tiny smiling mouth, blush cheeks, joins Doudou and friends in hide-and-seek. The mood is healed, playful, and warm, emphasizing that she has learned to say 'I feel sad' instead of only pouting. Gentle circular camera move ending on Mimi's bright happy face, pastel storybook colors, 4k, cinematic lighting, masterpiece, wholesome family animation"
+    }
+  ]
+}
