@@ -1,0 +1,189 @@
+{
+  "topic": "想象力冒险｜短短身形却勇气满满的小白兔钻进会发光的胡萝卜钟表店，开启一场关于时间和守约的奇妙旅行。",
+  "script": "小白兔米米像8岁小朋友那么大，身子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。她有一双亮晶晶的大杏眼，粉粉的小鼻子和小嘴巴，脸颊淡淡粉，短短的绒毛像云朵。\n\n这天，米米为了赶去和朋友分享点心，路过一家会发光的胡萝卜钟表店。门一开，叮铃！一根金胡萝卜指针把她送进“时间小镇”。\n\n小镇里的钟都乱了：早饭钟在睡觉，午睡钟跑去唱歌，约好见面的动物们急得团团转。米米鼓起勇气，钻进滴答隧道，把快钟拨慢，把慢钟轻轻推快，还大声提醒：“守时，朋友才不会等待呀！”\n\n最后，胡萝卜大钟亮起暖暖金光，把米米送回原地。她准时到达，朋友们都笑了。米米也明白了：时间看不见，可守约会让心里亮晶晶。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_01_3b765005.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_02_e17224de.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_03_923bd788.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_04_32ac5911.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_05_160c04fe.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_06_b429f7ff.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_07_4fda344a.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_01_3b765005.png",
+      "text": "《想象力冒险｜短短身形却勇气满满的小白兔钻进会发光的胡萝卜钟表店，开启一场关于时间和守约的奇妙旅行。》",
+      "prompt": "儿童绘本封面，主题：想象力冒险｜短短身形却勇气满满的小白兔钻进会发光的胡萝卜钟表店，开启一场关于时间和守约的奇妙旅行。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_02_e17224de.png",
+      "text": "【镜头1】清晨的小路上，小白兔米米抱着要分享的点心小篮子轻快奔跑。她像8岁小朋友般高，小巧轻盈，长耳朵微微卷着，蓬松小尾巴一跳一跳。她亮晶晶的大杏眼望向前方，粉粉的小鼻子和小嘴巴带着期待，脸颊淡淡粉，短短绒毛像云朵。路边前方，出现一家会发光的胡萝卜钟表店。",
+      "prompt": "Mimi, a childlike white bunny about the size of an 8-year-old kid, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose and tiny mouth, soft blush cheeks, short cloud-like fur, runs along a storybook forest path carrying a small basket of snacks, sees a glowing carrot clock shop ahead, whimsical fantasy town atmosphere, warm morning light, gentle motion, cinematic side tracking shot, 4k, masterpiece, cinematic lighting, shallow depth of field, storybook illustration style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头1】清晨的小路上，小白兔米米抱着要分享的点心小篮子轻快奔跑。她像8岁小朋友般高，小巧轻盈，长耳朵微微卷着，蓬松小尾巴一跳一跳。她亮晶晶的大杏眼望向前方，粉粉的小鼻子和小嘴巴带着期待，脸颊淡淡粉，短短绒毛像云朵。路边前方，出现一家会发光的胡萝卜钟表店。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_03_923bd788.png",
+      "text": "【镜头2】米米停在胡萝卜钟表店门前，好奇地抬头张望。店门打开，发出“叮铃”一声，暖金色光芒涌出，一根金胡萝卜指针从门内轻轻旋出，碰到米米，把她卷入神秘的时间旋涡。",
+      "prompt": "Mimi, the same petite white bunny child with curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, blush cheeks and soft short fur, stands before a glowing carrot clock shop, the door opens with a magical bell ring, golden light pours out, a golden carrot hand spins forward and gently sweeps her into a time vortex, magical wonder, warm gold glow, cinematic push-in with subtle rotational camera motion, 4k, masterpiece, volumetric light, fantasy children's picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头2】米米停在胡萝卜钟表店门前，好奇地抬头张望。店门打开，发出“叮铃”一声，暖金色光芒涌出，一根金胡萝卜指针从门内轻轻旋出，碰到米米，把她卷入神秘的时间旋涡。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_04_32ac5911.png",
+      "text": "【镜头3】米米落进“时间小镇”，惊讶地四处张望。小镇里的钟全都乱了：早饭钟歪着睡觉，午睡钟站在路边唱歌，约好见面的动物们在广场上着急地团团转。米米抱紧点心篮，露出担心又想帮忙的神情。",
+      "prompt": "Mimi, the same childlike petite white bunny with slightly curled long ears, fluffy tail, bright almond eyes, pink nose and mouth, blush cheeks, soft cloud-like fur, arrives in Time Town and looks around in surprise; breakfast clocks are sleeping, nap clocks are singing, confused animal townsfolk spin anxiously in the plaza waiting for meetings, whimsical surreal clock village, colorful fantasy production design, gentle aerial orbit, cinematic lighting, 4k, masterpiece, rich detail, animated storybook mood\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头3】米米落进“时间小镇”，惊讶地四处张望。小镇里的钟全都乱了：早饭钟歪着睡觉，午睡钟站在路边唱歌，约好见面的动物们在广场上着急地团团转。米米抱紧点心篮，露出担心又想帮忙的神情。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_05_160c04fe.png",
+      "text": "【镜头4】米米鼓起勇气，钻进滴答作响的隧道。她先踮起脚，把跑得太快的钟轻轻拨慢；又伸出小手，推着走得太慢的钟往前一点。她动作认真专注，长耳朵随着动作轻轻晃动。",
+      "prompt": "Mimi, the same petite 8-year-old-like white bunny heroine with curled ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, soft blush cheeks, short fluffy fur, bravely crawls into a ticking tunnel filled with floating clocks, stands on tiptoe to turn a fast clock slower, then gently pushes a slow clock forward, focused and determined expression, ears swaying with movement, glowing clockwork tunnel, dynamic forward tracking shot, cinematic lighting, 4k, masterpiece, magical realism, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头4】米米鼓起勇气，钻进滴答作响的隧道。她先踮起脚，把跑得太快的钟轻轻拨慢；又伸出小手，推着走得太慢的钟往前一点。她动作认真专注，长耳朵随着动作轻轻晃动。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_06_b429f7ff.png",
+      "text": "【镜头5】米米站在钟群中央，挺起小小身子大声提醒：“守时，朋友才不会等待呀！”四周的钟声渐渐整齐起来，动物们停下脚步，露出安心的表情，小镇重新恢复有序节奏。",
+      "prompt": "Close view of Mimi, the same petite white bunny child with slightly curled long ears, fluffy tail, big shining almond eyes, pink nose, tiny mouth, blush cheeks, and soft short fur, standing bravely among clocks and speaking clearly: 'Be on time, so friends do not have to wait!' Around her, clocks begin syncing in rhythm and animal townsfolk relax with grateful smiles, heroic yet gentle mood, low-angle slow push-in, warm magical highlights, 4k, masterpiece, cinematic lighting, expressive character animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头5】米米站在钟群中央，挺起小小身子大声提醒：“守时，朋友才不会等待呀！”四周的钟声渐渐整齐起来，动物们停下脚步，露出安心的表情，小镇重新恢复有序节奏。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/generated/page_07_4fda344a.png",
+      "text": "【镜头6】胡萝卜大钟亮起暖暖金光，把米米送回原来的路口。她准时来到朋友们身边，把点心分享出去，大家都开心地笑了。米米也笑着抬头，明白了时间虽然看不见，但守约会让心里亮晶晶。",
+      "prompt": "Mimi, the same petite white bunny child with curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, blush cheeks, and cloud-soft short fur, returns in warm golden light from a giant carrot clock to the original roadside, arrives on time to meet friends and share snacks, everyone smiles happily, heartfelt ending, glowing gold atmosphere, gentle pull-back shot, cinematic lighting, 4k, masterpiece, soft bloom, storybook finale composition\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头6】胡萝卜大钟亮起暖暖金光，把米米送回原来的路口。她准时来到朋友们身边，把点心分享出去，大家都开心地笑了。米米也笑着抬头，明白了时间虽然看不见，但守约会让心里亮晶晶。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "想象力冒险｜短短身形却勇气满满的小白兔钻进会发光的胡萝卜钟表店，开启一场关于时间和守约的奇妙旅行。",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_19be73b5-fd3a-40b8-ac73-5e027d215449/anchor/anchor_upload_a9ce1e1e.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "想象力冒险｜短短身形却勇气满满的小白兔钻进会发光的胡萝卜钟表店，开启一场关于时间和守约的奇妙旅行。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【镜头1】清晨的小路上，小白兔米米抱着要分享的点心小篮子轻快奔跑。她像8岁小朋友般高，小巧轻盈，长耳朵微微卷着，蓬松小尾巴一跳一跳。她亮晶晶的大杏眼望向前方，粉粉的小鼻子和小嘴巴带着期待，脸颊淡淡粉，短短绒毛像云朵。路边前方，出现一家会发光的胡萝卜钟表店。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Mimi, a childlike white bunny about the size of an 8-year-old kid, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose and tiny mouth, soft blush cheeks, short cloud-like fur, runs along a storybook forest path carrying a small basket of snacks, sees a glowing carrot clock shop ahead, whimsical fantasy town atmosphere, warm morning light, gentle motion, cinematic side tracking shot, 4k, masterpiece, cinematic lighting, shallow depth of field, storybook illustration style"
+    },
+    {
+      "description": "【镜头2】米米停在胡萝卜钟表店门前，好奇地抬头张望。店门打开，发出“叮铃”一声，暖金色光芒涌出，一根金胡萝卜指针从门内轻轻旋出，碰到米米，把她卷入神秘的时间旋涡。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近后轻微旋转",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Mimi, the same petite white bunny child with curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, blush cheeks and soft short fur, stands before a glowing carrot clock shop, the door opens with a magical bell ring, golden light pours out, a golden carrot hand spins forward and gently sweeps her into a time vortex, magical wonder, warm gold glow, cinematic push-in with subtle rotational camera motion, 4k, masterpiece, volumetric light, fantasy children's picture book style"
+    },
+    {
+      "description": "【镜头3】米米落进“时间小镇”，惊讶地四处张望。小镇里的钟全都乱了：早饭钟歪着睡觉，午睡钟站在路边唱歌，约好见面的动物们在广场上着急地团团转。米米抱紧点心篮，露出担心又想帮忙的神情。",
+      "shotType": "wide",
+      "cameraMovement": "轻微升降环绕",
+      "characters": [
+        "米米",
+        "动物们"
+      ],
+      "duration": 6,
+      "videoPrompt": "Mimi, the same childlike petite white bunny with slightly curled long ears, fluffy tail, bright almond eyes, pink nose and mouth, blush cheeks, soft cloud-like fur, arrives in Time Town and looks around in surprise; breakfast clocks are sleeping, nap clocks are singing, confused animal townsfolk spin anxiously in the plaza waiting for meetings, whimsical surreal clock village, colorful fantasy production design, gentle aerial orbit, cinematic lighting, 4k, masterpiece, rich detail, animated storybook mood"
+    },
+    {
+      "description": "【镜头4】米米鼓起勇气，钻进滴答作响的隧道。她先踮起脚，把跑得太快的钟轻轻拨慢；又伸出小手，推着走得太慢的钟往前一点。她动作认真专注，长耳朵随着动作轻轻晃动。",
+      "shotType": "medium",
+      "cameraMovement": "跟随推进",
+      "characters": [
+        "米米"
+      ],
+      "duration": 6,
+      "videoPrompt": "Mimi, the same petite 8-year-old-like white bunny heroine with curled ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, soft blush cheeks, short fluffy fur, bravely crawls into a ticking tunnel filled with floating clocks, stands on tiptoe to turn a fast clock slower, then gently pushes a slow clock forward, focused and determined expression, ears swaying with movement, glowing clockwork tunnel, dynamic forward tracking shot, cinematic lighting, 4k, masterpiece, magical realism, shallow depth of field"
+    },
+    {
+      "description": "【镜头5】米米站在钟群中央，挺起小小身子大声提醒：“守时，朋友才不会等待呀！”四周的钟声渐渐整齐起来，动物们停下脚步，露出安心的表情，小镇重新恢复有序节奏。",
+      "shotType": "closeup",
+      "cameraMovement": "低角度缓慢推近",
+      "characters": [
+        "米米",
+        "动物们"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close view of Mimi, the same petite white bunny child with slightly curled long ears, fluffy tail, big shining almond eyes, pink nose, tiny mouth, blush cheeks, and soft short fur, standing bravely among clocks and speaking clearly: 'Be on time, so friends do not have to wait!' Around her, clocks begin syncing in rhythm and animal townsfolk relax with grateful smiles, heroic yet gentle mood, low-angle slow push-in, warm magical highlights, 4k, masterpiece, cinematic lighting, expressive character animation"
+    },
+    {
+      "description": "【镜头6】胡萝卜大钟亮起暖暖金光，把米米送回原来的路口。她准时来到朋友们身边，把点心分享出去，大家都开心地笑了。米米也笑着抬头，明白了时间虽然看不见，但守约会让心里亮晶晶。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢拉远",
+      "characters": [
+        "米米",
+        "朋友们"
+      ],
+      "duration": 6,
+      "videoPrompt": "Mimi, the same petite white bunny child with curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, blush cheeks, and cloud-soft short fur, returns in warm golden light from a giant carrot clock to the original roadside, arrives on time to meet friends and share snacks, everyone smiles happily, heartfelt ending, glowing gold atmosphere, gentle pull-back shot, cinematic lighting, 4k, masterpiece, soft bloom, storybook finale composition"
+    }
+  ]
+}
