@@ -4,70 +4,70 @@
   "aspectRatio": "3:4",
   "imageCount": 7,
   "images": [
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_01_abc4196b.png",
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_02_26b9bd1c.png",
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_03_0db93f17.png",
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_04_0baccccf.png",
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_05_a61c1b11.png",
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_06_eecaf7e4.png",
-    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_07_2ae4d780.png"
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_01_178ccaab.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_02_db61aa96.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_03_e9182d48.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_04_d8be9cbe.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_05_3c9fadf9.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_06_78701cab.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_07_ecedd7c7.png"
   ],
   "referenceImages": [],
   "pages": [
     {
       "pageNumber": 1,
       "role": "cover",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_01_abc4196b.png",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_01_178ccaab.png",
       "text": "《淘气的小白兔学会了收拾玩具》",
       "prompt": "儿童绘本封面，主题：淘气的小白兔学会了收拾玩具\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
     },
     {
       "pageNumber": 2,
       "role": "inside",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_02_26b9bd1c.png",
-      "text": "房间全景。阳光照进儿童房，团团像8岁小朋友一样小巧轻盈，正坐在地垫上玩积木、小火车和皮球。它的长耳朵微微卷着，蓬松小尾巴随着动作一跳一跳，开心地笑出声。",
-      "prompt": "A cozy children's room in warm morning sunlight, Tuantuan, an 8-year-old anthropomorphic little white rabbit child, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose, short small mouth, light pink cheeks, playing with colorful blocks, a toy train and a ball on a floor mat, laughing happily, toys scattered around, storybook style, cinematic lighting, soft pastel color palette, 4k, masterpiece, gentle dolly in, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
-      "shotDescription": "房间全景。阳光照进儿童房，团团像8岁小朋友一样小巧轻盈，正坐在地垫上玩积木、小火车和皮球。它的长耳朵微微卷着，蓬松小尾巴随着动作一跳一跳，开心地笑出声。"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_02_db61aa96.png",
+      "text": "房间全景。小白兔团团像8岁小朋友一样小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。它站在铺满地毯的儿童房中央，四周散着积木、小火车、皮球和小汽车，阳光暖暖照进来，团团正准备开始玩。",
+      "prompt": "A cute anthropomorphic little white rabbit child, around 8 years old, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose, short tiny mouth, pale pink cheeks, standing in a cozy children's room full of toys on the floor, warm sunlight through window, playful storybook atmosphere, 4k, cinematic lighting, masterpiece, soft pastel color palette, wide shot, slow dolly in, highly detailed, family picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "房间全景。小白兔团团像8岁小朋友一样小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。它站在铺满地毯的儿童房中央，四周散着积木、小火车、皮球和小汽车，阳光暖暖照进来，团团正准备开始玩。"
     },
     {
       "pageNumber": 3,
       "role": "inside",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_03_0db93f17.png",
-      "text": "中景。团团先把积木高高搭起，又推着小火车绕过皮球，越玩越兴奋，身体前倾后仰，耳朵和尾巴都跟着弹动，地上也越来越乱。",
-      "prompt": "Medium tracking shot of Tuantuan, an adorable petite white rabbit child about 8 years old, slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, short little mouth, pale pink cheeks, building a tall block tower, then pushing a toy train around a ball, getting more excited as toys scatter messily across the floor, playful body motion, soft warm indoor light, cinematic camera tracking, 4k, masterpiece, animated picture book feeling\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
-      "shotDescription": "中景。团团先把积木高高搭起，又推着小火车绕过皮球，越玩越兴奋，身体前倾后仰，耳朵和尾巴都跟着弹动，地上也越来越乱。"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_03_e9182d48.png",
+      "text": "中景。团团开心地搭积木、推小火车，又追着皮球转圈，笑得前仰后合，尾巴跟着一颤一颤，玩具被越玩越乱。",
+      "prompt": "Anthropomorphic little white rabbit child, 8-year-old feeling, petite body, curled long ears, fluffy tail, sparkling almond eyes, pink nose and tiny short mouth, pale pink cheeks, happily stacking blocks, pushing a toy train, chasing a ball in a messy playroom, laughing with lively body motion, cheerful energy, warm indoor daylight, cinematic family animation look, 4k, masterpiece, medium shot, tracking pan, soft shadows, cute expressive motion\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "中景。团团开心地搭积木、推小火车，又追着皮球转圈，笑得前仰后合，尾巴跟着一颤一颤，玩具被越玩越乱。"
     },
     {
       "pageNumber": 4,
       "role": "inside",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_04_0baccccf.png",
-      "text": "近景。门边的妈妈微笑着轻声提醒：“团团，玩具玩完要收好哦。”团团正玩得起劲，听见后刚转过头，表情还带着笑意。",
-      "prompt": "In a tidy doorway, rabbit mother gently reminds her child, while Tuantuan, the small white rabbit child with curled ears, fluffy tail, big glossy almond eyes, pink nose, short mouth, and soft pink cheeks, turns his head mid-play with a cheerful expression, warm family atmosphere, soft cinematic lighting, subtle pan from mother to child, 4k, masterpiece, storybook animation style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
-      "shotDescription": "近景。门边的妈妈微笑着轻声提醒：“团团，玩具玩完要收好哦。”团团正玩得起劲，听见后刚转过头，表情还带着笑意。"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_04_d8be9cbe.png",
+      "text": "近景。门边的妈妈温柔地探头提醒：“团团，玩具要记得收好哦。”团团回头看妈妈，耳朵轻轻一甩，脸上还是玩得正兴奋的表情。",
+      "prompt": "Cute little white rabbit child in the foreground turning back toward a gentle mother at the doorway, mother softly reminding to clean up toys, rabbit child with curled ears, fluffy tail, big glossy almond eyes, pink nose, tiny short mouth, pale pink cheeks, cozy bedroom, warm family mood, medium shot, subtle pan toward doorway, cinematic lighting, 4k, masterpiece, storybook style, expressive character acting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "近景。门边的妈妈温柔地探头提醒：“团团，玩具要记得收好哦。”团团回头看妈妈，耳朵轻轻一甩，脸上还是玩得正兴奋的表情。"
     },
     {
       "pageNumber": 5,
       "role": "inside",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_05_a61c1b11.png",
-      "text": "特写。团团一转身，脚下啪嗒踩到一辆小汽车，鞋底打滑。小汽车歪着滚开，团团的大杏眼一下睁圆，短短的小嘴也吓成圆形。",
-      "prompt": "Close-up action shot: Tuantuan, a petite 8-year-old white rabbit child with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, short tiny mouth, light pink cheeks, accidentally steps on a toy car, foot slipping, toy car rolling away, eyes widening in surprise, mouth forming a shocked little O, dynamic motion, cinematic freeze-like moment, crisp detail, 4k, masterpiece\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
-      "shotDescription": "特写。团团一转身，脚下啪嗒踩到一辆小汽车，鞋底打滑。小汽车歪着滚开，团团的大杏眼一下睁圆，短短的小嘴也吓成圆形。"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_05_3c9fadf9.png",
+      "text": "特写。团团一转身，脚下正好踩到地上的小汽车，‘啪嗒！’小汽车滑开，团团身体失去平衡，杏眼睁大，短短的小嘴吓得圆起来。",
+      "prompt": "Close-up of an anthropomorphic little white rabbit child accidentally stepping on a toy car, losing balance, big sparkling almond eyes wide open, pink nose, tiny short mouth forming a shocked round shape, pale pink cheeks, curled long ears lifted by surprise, dramatic cute action moment, indoor playroom, cinematic lighting, 4k, masterpiece, closeup shot, dynamic tilt down with slight push in, crisp motion detail\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "特写。团团一转身，脚下正好踩到地上的小汽车，‘啪嗒！’小汽车滑开，团团身体失去平衡，杏眼睁大，短短的小嘴吓得圆起来。"
     },
     {
       "pageNumber": 6,
       "role": "inside",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_06_eecaf7e4.png",
-      "text": "全景。团团咕噜噜滚倒在地垫边，四周积木、火车轨道和皮球散得到处都是。房间乱糟糟的画面一目了然，团团摔得愣住了。",
-      "prompt": "Wide shot of a messy playroom after a tumble: Tuantuan, the cute little white rabbit child, lies near the floor mat after rolling over, surrounded by scattered blocks, toy train tracks, a ball, and a toy car, slightly curled ears tilted, fluffy tail visible, stunned expression with big shiny almond eyes, soft warm indoor lighting, cinematic pull back, 4k, masterpiece, family picture book aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
-      "shotDescription": "全景。团团咕噜噜滚倒在地垫边，四周积木、火车轨道和皮球散得到处都是。房间乱糟糟的画面一目了然，团团摔得愣住了。"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_06_78701cab.png",
+      "text": "全景。团团咕噜噜滚倒在软地毯上，旁边散落的积木、小火车和皮球滚得到处都是。房间显得更乱了，空气里却还是童趣轻松的感觉。",
+      "prompt": "Top view wide shot of a cute white rabbit child rolling onto a soft carpet after slipping on a toy car, blocks, toy train and ball scattered everywhere, petite body, curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny short mouth, pale pink cheeks, playful but safe accident, cozy children's room, soft warm daylight, 4k, cinematic lighting, masterpiece, overhead static shot, charming picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "全景。团团咕噜噜滚倒在软地毯上，旁边散落的积木、小火车和皮球滚得到处都是。房间显得更乱了，空气里却还是童趣轻松的感觉。"
     },
     {
       "pageNumber": 7,
       "role": "ending",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_07_2ae4d780.png",
-      "text": "近景。团团眨眨眼，慢慢坐起来，揉揉鼻子，小声说：“原来玩具也想回家呀！”它的表情从惊吓变成恍然大悟，脸颊微微泛粉。",
-      "prompt": "Close-up of Tuantuan sitting up on the floor, blinking, rubbing his pink nose, expression changing from shock to realization, softly saying 'The toys want to go home too,' big sparkling almond eyes, short little mouth, light pink cheeks, curled ears framing the face, soft emotional moment, warm cinematic lighting, shallow depth of field, 4k, masterpiece\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
-      "shotDescription": "近景。团团眨眨眼，慢慢坐起来，揉揉鼻子，小声说：“原来玩具也想回家呀！”它的表情从惊吓变成恍然大悟，脸颊微微泛粉。"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_517419e8-62f5-4a7c-b98a-94070ce3367b/generated/page_07_ecedd7c7.png",
+      "text": "近景。团团坐起身，眨眨亮晶晶的大杏眼，揉揉粉粉的小鼻子，看看一地玩具，小声说：“原来玩具也想回家呀！”表情从惊吓变成恍然大悟。",
+      "prompt": "Close-up of an adorable anthropomorphic white rabbit child sitting up on the carpet, blinking glossy almond eyes, rubbing a pink nose, tiny short mouth speaking softly with a realization, pale pink cheeks, slightly curled long ears, fluffy tail visible behind, looking at scattered toys and understanding they need to go home, warm emotional shift, cinematic lighting, 4k, masterpiece, slow push in, expressive face acting, family storybook aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "近景。团团坐起身，眨眨亮晶晶的大杏眼，揉揉粉粉的小鼻子，看看一地玩具，小声说：“原来玩具也想回家呀！”表情从惊吓变成恍然大悟。"
     }
   ],
   "characterBible": {
@@ -123,65 +123,65 @@
   },
   "shots": [
     {
-      "description": "房间全景。阳光照进儿童房，团团像8岁小朋友一样小巧轻盈，正坐在地垫上玩积木、小火车和皮球。它的长耳朵微微卷着，蓬松小尾巴随着动作一跳一跳，开心地笑出声。",
+      "description": "房间全景。小白兔团团像8岁小朋友一样小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。它站在铺满地毯的儿童房中央，四周散着积木、小火车、皮球和小汽车，阳光暖暖照进来，团团正准备开始玩。",
       "shotType": "wide",
       "cameraMovement": "缓慢推近",
       "characters": [
         "团团"
       ],
       "duration": 4,
-      "videoPrompt": "A cozy children's room in warm morning sunlight, Tuantuan, an 8-year-old anthropomorphic little white rabbit child, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose, short small mouth, light pink cheeks, playing with colorful blocks, a toy train and a ball on a floor mat, laughing happily, toys scattered around, storybook style, cinematic lighting, soft pastel color palette, 4k, masterpiece, gentle dolly in, shallow depth of field"
+      "videoPrompt": "A cute anthropomorphic little white rabbit child, around 8 years old, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose, short tiny mouth, pale pink cheeks, standing in a cozy children's room full of toys on the floor, warm sunlight through window, playful storybook atmosphere, 4k, cinematic lighting, masterpiece, soft pastel color palette, wide shot, slow dolly in, highly detailed, family picture book style"
     },
     {
-      "description": "中景。团团先把积木高高搭起，又推着小火车绕过皮球，越玩越兴奋，身体前倾后仰，耳朵和尾巴都跟着弹动，地上也越来越乱。",
+      "description": "中景。团团开心地搭积木、推小火车，又追着皮球转圈，笑得前仰后合，尾巴跟着一颤一颤，玩具被越玩越乱。",
       "shotType": "medium",
       "cameraMovement": "平移跟随",
       "characters": [
         "团团"
       ],
-      "duration": 4,
-      "videoPrompt": "Medium tracking shot of Tuantuan, an adorable petite white rabbit child about 8 years old, slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, short little mouth, pale pink cheeks, building a tall block tower, then pushing a toy train around a ball, getting more excited as toys scatter messily across the floor, playful body motion, soft warm indoor light, cinematic camera tracking, 4k, masterpiece, animated picture book feeling"
+      "duration": 5,
+      "videoPrompt": "Anthropomorphic little white rabbit child, 8-year-old feeling, petite body, curled long ears, fluffy tail, sparkling almond eyes, pink nose and tiny short mouth, pale pink cheeks, happily stacking blocks, pushing a toy train, chasing a ball in a messy playroom, laughing with lively body motion, cheerful energy, warm indoor daylight, cinematic family animation look, 4k, masterpiece, medium shot, tracking pan, soft shadows, cute expressive motion"
     },
     {
-      "description": "近景。门边的妈妈微笑着轻声提醒：“团团，玩具玩完要收好哦。”团团正玩得起劲，听见后刚转过头，表情还带着笑意。",
+      "description": "近景。门边的妈妈温柔地探头提醒：“团团，玩具要记得收好哦。”团团回头看妈妈，耳朵轻轻一甩，脸上还是玩得正兴奋的表情。",
       "shotType": "medium",
-      "cameraMovement": "轻微摇镜转向妈妈再回到团团",
+      "cameraMovement": "轻微摇镜转向门口",
       "characters": [
         "团团",
         "妈妈"
       ],
-      "duration": 3,
-      "videoPrompt": "In a tidy doorway, rabbit mother gently reminds her child, while Tuantuan, the small white rabbit child with curled ears, fluffy tail, big glossy almond eyes, pink nose, short mouth, and soft pink cheeks, turns his head mid-play with a cheerful expression, warm family atmosphere, soft cinematic lighting, subtle pan from mother to child, 4k, masterpiece, storybook animation style"
+      "duration": 4,
+      "videoPrompt": "Cute little white rabbit child in the foreground turning back toward a gentle mother at the doorway, mother softly reminding to clean up toys, rabbit child with curled ears, fluffy tail, big glossy almond eyes, pink nose, tiny short mouth, pale pink cheeks, cozy bedroom, warm family mood, medium shot, subtle pan toward doorway, cinematic lighting, 4k, masterpiece, storybook style, expressive character acting"
     },
     {
-      "description": "特写。团团一转身，脚下啪嗒踩到一辆小汽车，鞋底打滑。小汽车歪着滚开，团团的大杏眼一下睁圆，短短的小嘴也吓成圆形。",
+      "description": "特写。团团一转身，脚下正好踩到地上的小汽车，‘啪嗒！’小汽车滑开，团团身体失去平衡，杏眼睁大，短短的小嘴吓得圆起来。",
       "shotType": "closeup",
-      "cameraMovement": "快速下摇并瞬间定格感",
-      "characters": [
-        "团团"
-      ],
-      "duration": 2,
-      "videoPrompt": "Close-up action shot: Tuantuan, a petite 8-year-old white rabbit child with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, short tiny mouth, light pink cheeks, accidentally steps on a toy car, foot slipping, toy car rolling away, eyes widening in surprise, mouth forming a shocked little O, dynamic motion, cinematic freeze-like moment, crisp detail, 4k, masterpiece"
-    },
-    {
-      "description": "全景。团团咕噜噜滚倒在地垫边，四周积木、火车轨道和皮球散得到处都是。房间乱糟糟的画面一目了然，团团摔得愣住了。",
-      "shotType": "wide",
-      "cameraMovement": "轻微拉远",
+      "cameraMovement": "快速下摇并轻微推近",
       "characters": [
         "团团"
       ],
       "duration": 3,
-      "videoPrompt": "Wide shot of a messy playroom after a tumble: Tuantuan, the cute little white rabbit child, lies near the floor mat after rolling over, surrounded by scattered blocks, toy train tracks, a ball, and a toy car, slightly curled ears tilted, fluffy tail visible, stunned expression with big shiny almond eyes, soft warm indoor lighting, cinematic pull back, 4k, masterpiece, family picture book aesthetic"
+      "videoPrompt": "Close-up of an anthropomorphic little white rabbit child accidentally stepping on a toy car, losing balance, big sparkling almond eyes wide open, pink nose, tiny short mouth forming a shocked round shape, pale pink cheeks, curled long ears lifted by surprise, dramatic cute action moment, indoor playroom, cinematic lighting, 4k, masterpiece, closeup shot, dynamic tilt down with slight push in, crisp motion detail"
     },
     {
-      "description": "近景。团团眨眨眼，慢慢坐起来，揉揉鼻子，小声说：“原来玩具也想回家呀！”它的表情从惊吓变成恍然大悟，脸颊微微泛粉。",
+      "description": "全景。团团咕噜噜滚倒在软地毯上，旁边散落的积木、小火车和皮球滚得到处都是。房间显得更乱了，空气里却还是童趣轻松的感觉。",
+      "shotType": "wide",
+      "cameraMovement": "俯拍定镜",
+      "characters": [
+        "团团"
+      ],
+      "duration": 3,
+      "videoPrompt": "Top view wide shot of a cute white rabbit child rolling onto a soft carpet after slipping on a toy car, blocks, toy train and ball scattered everywhere, petite body, curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny short mouth, pale pink cheeks, playful but safe accident, cozy children's room, soft warm daylight, 4k, cinematic lighting, masterpiece, overhead static shot, charming picture book style"
+    },
+    {
+      "description": "近景。团团坐起身，眨眨亮晶晶的大杏眼，揉揉粉粉的小鼻子，看看一地玩具，小声说：“原来玩具也想回家呀！”表情从惊吓变成恍然大悟。",
       "shotType": "closeup",
       "cameraMovement": "缓慢推近",
       "characters": [
         "团团"
       ],
-      "duration": 4,
-      "videoPrompt": "Close-up of Tuantuan sitting up on the floor, blinking, rubbing his pink nose, expression changing from shock to realization, softly saying 'The toys want to go home too,' big sparkling almond eyes, short little mouth, light pink cheeks, curled ears framing the face, soft emotional moment, warm cinematic lighting, shallow depth of field, 4k, masterpiece"
+      "duration": 5,
+      "videoPrompt": "Close-up of an adorable anthropomorphic white rabbit child sitting up on the carpet, blinking glossy almond eyes, rubbing a pink nose, tiny short mouth speaking softly with a realization, pale pink cheeks, slightly curled long ears, fluffy tail visible behind, looking at scattered toys and understanding they need to go home, warm emotional shift, cinematic lighting, 4k, masterpiece, slow push in, expressive face acting, family storybook aesthetic"
     }
   ]
 }
