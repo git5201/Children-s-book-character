@@ -1,0 +1,197 @@
+{
+  "topic": "睡前暖心绘本｜大杏眼亮晶晶、面颊淡粉的小白兔睡不着，抱着蓬松尾巴去帮月亮收集每个孩子的晚安愿望。",
+  "script": "夜里，小白兔怎么也睡不着。她大杏眼亮晶晶，面颊淡粉粉，抱着自己蓬松的尾巴，在窗边轻轻叹气：“月亮婆婆，你也还没睡吗？”\n\n月亮笑眯眯地说：“我在等孩子们的晚安愿望呀，可今晚星星太忙啦。”\n\n“我来帮忙！”小白兔竖起微卷的长耳朵，蹦蹦跳跳出发了。\n\n她来到小猫家，收下“明天和妈妈做好吃的”；来到小熊家，收下“不要怕黑黑”；又来到小刺猬家，收下“想交一个好朋友”。\n\n愿望装满了小白兔的云朵口袋，月亮也变得越来越亮。最后，小白兔把自己的愿望轻轻放上去：“希望大家都睡个甜甜觉。”\n\n月亮撒下柔柔银光，小猫、小熊、小刺猬都安心睡着了。小白兔也钻进被窝，抱着蓬松尾巴，弯着粉鼻小嘴笑了：“原来，帮别人实现晚安愿望，自己也会做个好梦呀。”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_01_ca40fc69.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_02_682116b1.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_03_340af8a6.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_04_91e54abe.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_05_12085742.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_06_6e38c4f4.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_07_e5997297.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_01_ca40fc69.png",
+      "text": "《睡前暖心绘本｜大杏眼亮晶晶、面颊淡粉的小白兔睡不着，抱着蓬松尾巴去帮月亮收集每个孩子的晚安愿望。》",
+      "prompt": "儿童绘本封面，主题：睡前暖心绘本｜大杏眼亮晶晶、面颊淡粉的小白兔睡不着，抱着蓬松尾巴去帮月亮收集每个孩子的晚安愿望。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_02_682116b1.png",
+      "text": "夜里卧室内，8岁左右童真的小白兔坐在窗边睡不着，抱着自己蓬松的尾巴，长耳微卷垂在肩侧。她有亮晶晶的大杏眼、粉鼻小嘴、面颊淡粉，在月光下轻轻叹气，望着窗外说：“月亮婆婆，你也还没睡吗？”",
+      "prompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and light, slightly curled long ears, fluffy tail, big sparkling almond eyes, tiny pink nose and small mouth, soft blush cheeks, sitting by the bedroom window at night, hugging her fluffy tail, unable to sleep, looking out and softly speaking to the moon, cozy bedtime picture-book style, silver moonlight through window, warm nursery interior, cinematic lighting, gentle slow push-in, 4k, masterpiece, soft textures, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜里卧室内，8岁左右童真的小白兔坐在窗边睡不着，抱着自己蓬松的尾巴，长耳微卷垂在肩侧。她有亮晶晶的大杏眼、粉鼻小嘴、面颊淡粉，在月光下轻轻叹气，望着窗外说：“月亮婆婆，你也还没睡吗？”"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_03_340af8a6.png",
+      "text": "窗外夜空中，笑眯眯的月亮婆婆挂在云边，柔光洒进房间。小白兔抬起脸认真倾听。月亮婆婆温柔回答：“我在等孩子们的晚安愿望呀，可今晚星星太忙啦。”",
+      "prompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite body, curled long ears, fluffy tail, big highlighted almond eyes, pink nose and small mouth, blush cheeks, standing by the open window and looking up at a smiling grandmother moon in the night sky, moon glowing warmly beside soft clouds, moon speaking gently, magical bedtime mood, low-angle view, slight lateral camera drift, dreamy silver-blue palette, cinematic lighting, 4k, masterpiece, storybook fantasy atmosphere\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "窗外夜空中，笑眯眯的月亮婆婆挂在云边，柔光洒进房间。小白兔抬起脸认真倾听。月亮婆婆温柔回答：“我在等孩子们的晚安愿望呀，可今晚星星太忙啦。”"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_04_91e54abe.png",
+      "text": "小白兔一下子来了精神，竖起微卷的长耳朵，拍拍胸口说：“我来帮忙！”她背上云朵口袋，从窗边门口蹦蹦跳跳出发，月光为她铺出一条亮亮的小路。",
+      "prompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and nimble, slightly curled long ears perked up, fluffy tail, sparkling almond eyes, pink nose, small smiling mouth, blush cheeks, cheerfully volunteering to help, putting on a cloud-shaped pouch and hopping out with determination, moonlight forming a glowing path, whimsical bedtime adventure, side tracking shot, cinematic lighting, 4k, masterpiece, soft pastel night tones, animated storybook realism\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小白兔一下子来了精神，竖起微卷的长耳朵，拍拍胸口说：“我来帮忙！”她背上云朵口袋，从窗边门口蹦蹦跳跳出发，月光为她铺出一条亮亮的小路。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_05_12085742.png",
+      "text": "夜色中的村庄小路上，小白兔依次来到三户人家：在小猫家门前收下“明天和妈妈做好吃的”；在小熊家窗边收下“不要怕黑黑”；在小刺猬家院外收下“想交一个好朋友”。她每听到一个愿望，都认真点头，把愿望放进云朵口袋里。",
+      "prompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and light, curled long ears, fluffy tail, big shining almond eyes, pink nose and tiny mouth, blush cheeks, traveling through a peaceful night village, collecting bedtime wishes from three homes: a kitten child at the door, a little bear by the window, a hedgehog child in the yard, carefully placing each wish into a cloud pouch, gentle hopping motion, panoramic side tracking shot, cozy lanterns and moonlight, cinematic lighting, 4k, masterpiece, bedtime picture-book aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜色中的村庄小路上，小白兔依次来到三户人家：在小猫家门前收下“明天和妈妈做好吃的”；在小熊家窗边收下“不要怕黑黑”；在小刺猬家院外收下“想交一个好朋友”。她每听到一个愿望，都认真点头，把愿望放进云朵口袋里。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_06_6e38c4f4.png",
+      "text": "小白兔停在夜空下，鼓鼓的云朵口袋已经装满愿望。她踮起脚把自己的愿望轻轻放向月亮：“希望大家都睡个甜甜觉。”随着愿望升起，月亮变得越来越亮，银光柔柔铺开。",
+      "prompt": "Close view of an anthropomorphic little white rabbit girl, around 8 years old, petite figure, slightly curled long ears, fluffy tail, luminous almond eyes, tiny pink nose, small mouth, soft pink cheeks, standing under the night sky with a full cloud pouch, lifting her own final wish toward a bright grandmother moon, moon growing brighter as silver light spreads, tender hopeful expression, slow tilt up and push-in, cinematic lighting, 4k, masterpiece, magical glow, dreamy bedtime fantasy\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小白兔停在夜空下，鼓鼓的云朵口袋已经装满愿望。她踮起脚把自己的愿望轻轻放向月亮：“希望大家都睡个甜甜觉。”随着愿望升起，月亮变得越来越亮，银光柔柔铺开。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/generated/page_07_e5997297.png",
+      "text": "柔柔银光落进各个房间，小猫、小熊、小刺猬都安心睡着。最后回到小白兔的卧室，她钻进被窝，抱着蓬松尾巴，弯着粉鼻小嘴满足地笑了：“原来，帮别人实现晚安愿望，自己也会做个好梦呀。”",
+      "prompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and delicate, curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, blush cheeks, silver moonlight blessing sleeping kitten, little bear, and hedgehog in their beds, then returning to the rabbit girl's cozy bedroom as she slips under the blanket, hugs her fluffy tail, smiles with closed sleepy eyes, peaceful bedtime ending, soft pull-back into interior and settle, cinematic lighting, 4k, masterpiece, warm-and-cool contrast, heartwarming picture-book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "柔柔银光落进各个房间，小猫、小熊、小刺猬都安心睡着。最后回到小白兔的卧室，她钻进被窝，抱着蓬松尾巴，弯着粉鼻小嘴满足地笑了：“原来，帮别人实现晚安愿望，自己也会做个好梦呀。”"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "睡前暖心绘本｜大杏眼亮晶晶、面颊淡粉的小白兔睡不着，抱着蓬松尾巴去帮月亮收集每个孩子的晚安愿望。",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_b8e0b4c5-0e9f-422e-a2eb-ad2893024db4/anchor/anchor_upload_9734a0d2.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "睡前暖心绘本｜大杏眼亮晶晶、面颊淡粉的小白兔睡不着，抱着蓬松尾巴去帮月亮收集每个孩子的晚安愿望。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "夜里卧室内，8岁左右童真的小白兔坐在窗边睡不着，抱着自己蓬松的尾巴，长耳微卷垂在肩侧。她有亮晶晶的大杏眼、粉鼻小嘴、面颊淡粉，在月光下轻轻叹气，望着窗外说：“月亮婆婆，你也还没睡吗？”",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小白兔",
+        "月亮婆婆"
+      ],
+      "duration": 6,
+      "videoPrompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and light, slightly curled long ears, fluffy tail, big sparkling almond eyes, tiny pink nose and small mouth, soft blush cheeks, sitting by the bedroom window at night, hugging her fluffy tail, unable to sleep, looking out and softly speaking to the moon, cozy bedtime picture-book style, silver moonlight through window, warm nursery interior, cinematic lighting, gentle slow push-in, 4k, masterpiece, soft textures, shallow depth of field"
+    },
+    {
+      "description": "窗外夜空中，笑眯眯的月亮婆婆挂在云边，柔光洒进房间。小白兔抬起脸认真倾听。月亮婆婆温柔回答：“我在等孩子们的晚安愿望呀，可今晚星星太忙啦。”",
+      "shotType": "wide",
+      "cameraMovement": "低角度仰拍后轻微平移",
+      "characters": [
+        "小白兔",
+        "月亮婆婆"
+      ],
+      "duration": 6,
+      "videoPrompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite body, curled long ears, fluffy tail, big highlighted almond eyes, pink nose and small mouth, blush cheeks, standing by the open window and looking up at a smiling grandmother moon in the night sky, moon glowing warmly beside soft clouds, moon speaking gently, magical bedtime mood, low-angle view, slight lateral camera drift, dreamy silver-blue palette, cinematic lighting, 4k, masterpiece, storybook fantasy atmosphere"
+    },
+    {
+      "description": "小白兔一下子来了精神，竖起微卷的长耳朵，拍拍胸口说：“我来帮忙！”她背上云朵口袋，从窗边门口蹦蹦跳跳出发，月光为她铺出一条亮亮的小路。",
+      "shotType": "medium",
+      "cameraMovement": "跟随移动",
+      "characters": [
+        "小白兔",
+        "月亮婆婆"
+      ],
+      "duration": 5,
+      "videoPrompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and nimble, slightly curled long ears perked up, fluffy tail, sparkling almond eyes, pink nose, small smiling mouth, blush cheeks, cheerfully volunteering to help, putting on a cloud-shaped pouch and hopping out with determination, moonlight forming a glowing path, whimsical bedtime adventure, side tracking shot, cinematic lighting, 4k, masterpiece, soft pastel night tones, animated storybook realism"
+    },
+    {
+      "description": "夜色中的村庄小路上，小白兔依次来到三户人家：在小猫家门前收下“明天和妈妈做好吃的”；在小熊家窗边收下“不要怕黑黑”；在小刺猬家院外收下“想交一个好朋友”。她每听到一个愿望，都认真点头，把愿望放进云朵口袋里。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "小白兔",
+        "小猫",
+        "小熊",
+        "小刺猬"
+      ],
+      "duration": 9,
+      "videoPrompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and light, curled long ears, fluffy tail, big shining almond eyes, pink nose and tiny mouth, blush cheeks, traveling through a peaceful night village, collecting bedtime wishes from three homes: a kitten child at the door, a little bear by the window, a hedgehog child in the yard, carefully placing each wish into a cloud pouch, gentle hopping motion, panoramic side tracking shot, cozy lanterns and moonlight, cinematic lighting, 4k, masterpiece, bedtime picture-book aesthetic"
+    },
+    {
+      "description": "小白兔停在夜空下，鼓鼓的云朵口袋已经装满愿望。她踮起脚把自己的愿望轻轻放向月亮：“希望大家都睡个甜甜觉。”随着愿望升起，月亮变得越来越亮，银光柔柔铺开。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢上摇并推近",
+      "characters": [
+        "小白兔",
+        "月亮婆婆"
+      ],
+      "duration": 6,
+      "videoPrompt": "Close view of an anthropomorphic little white rabbit girl, around 8 years old, petite figure, slightly curled long ears, fluffy tail, luminous almond eyes, tiny pink nose, small mouth, soft pink cheeks, standing under the night sky with a full cloud pouch, lifting her own final wish toward a bright grandmother moon, moon growing brighter as silver light spreads, tender hopeful expression, slow tilt up and push-in, cinematic lighting, 4k, masterpiece, magical glow, dreamy bedtime fantasy"
+    },
+    {
+      "description": "柔柔银光落进各个房间，小猫、小熊、小刺猬都安心睡着。最后回到小白兔的卧室，她钻进被窝，抱着蓬松尾巴，弯着粉鼻小嘴满足地笑了：“原来，帮别人实现晚安愿望，自己也会做个好梦呀。”",
+      "shotType": "medium",
+      "cameraMovement": "从窗外银光缓慢拉回室内定格",
+      "characters": [
+        "小白兔",
+        "小猫",
+        "小熊",
+        "小刺猬",
+        "月亮婆婆"
+      ],
+      "duration": 8,
+      "videoPrompt": "Anthropomorphic little white rabbit girl, around 8 years old, petite and delicate, curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, blush cheeks, silver moonlight blessing sleeping kitten, little bear, and hedgehog in their beds, then returning to the rabbit girl's cozy bedroom as she slips under the blanket, hugs her fluffy tail, smiles with closed sleepy eyes, peaceful bedtime ending, soft pull-back into interior and settle, cinematic lighting, 4k, masterpiece, warm-and-cool contrast, heartwarming picture-book style"
+    }
+  ]
+}
