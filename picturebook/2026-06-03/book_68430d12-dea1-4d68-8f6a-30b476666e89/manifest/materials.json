@@ -1,0 +1,188 @@
+{
+  "topic": "儿童科普故事｜8岁的小白兔用粉鼻子和长耳朵探索雨后花园，原来一滴露珠里也藏着春天的小秘密。",
+  "script": "雨停了，8岁的小白兔蹦进花园。它小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一颤一颤。它眨着亮晶晶的大杏眼，用粉鼻子闻闻这儿、碰碰那儿：“春天藏在哪儿呢？”\n\n它发现叶尖上挂着一滴圆圆的露珠。小白兔踮起脚，弯下短短的小身子，轻轻一看：“呀，我在里面变小啦！”露珠里还有蓝天、花瓣和一只小蚂蚁，像个亮闪闪的小世界。\n\n这时，太阳公公露出脸，露珠一下子更亮了。小白兔惊喜地说：“原来露珠像小镜子，会把春天照进去！”兔妈妈笑着告诉它：“露珠是空气里的水汽变的，喜欢在凉凉的早晨停在花草上。”\n\n没一会儿，露珠慢慢不见了。小白兔摸摸粉鼻子，认真点头：“我知道啦，一滴小小露珠里，也藏着春天的小秘密！”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_01_3f6922af.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_02_9ec55f89.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_03_64e02f34.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_04_88d34b00.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_05_2c2e0aba.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_06_6fd841cf.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_07_d0cadc41.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_01_3f6922af.png",
+      "text": "《儿童科普故事｜8岁的小白兔用粉鼻子和长耳朵探索雨后花园，原来一滴露珠里也藏着春天的小秘密。》",
+      "prompt": "儿童绘本封面，主题：儿童科普故事｜8岁的小白兔用粉鼻子和长耳朵探索雨后花园，原来一滴露珠里也藏着春天的小秘密。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_02_9ec55f89.png",
+      "text": "【镜头1】雨后的花园全景，叶片和花朵还带着湿润光泽。8岁的小白兔从画面一侧轻快地蹦进花园，身体小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一颤一颤。它眨着带高光的大杏眼，左右张望，边闻边轻声说：“春天藏在哪儿呢？”",
+      "prompt": "A rainy spring garden after the rain, wide shot, an 8-year-old little white rabbit hops into the garden, petite and lightweight body, slightly curled long ears, fluffy trembling tail, big glossy almond eyes, pink nose and tiny mouth, light pink cheeks, childlike innocence, sniffing flowers and looking around curiously, wet leaves sparkling, soft morning light, cinematic tracking shot, gentle push in, 4k, masterpiece, cinematic lighting, storybook style, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头1】雨后的花园全景，叶片和花朵还带着湿润光泽。8岁的小白兔从画面一侧轻快地蹦进花园，身体小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一颤一颤。它眨着带高光的大杏眼，左右张望，边闻边轻声说：“春天藏在哪儿呢？”"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_03_64e02f34.png",
+      "text": "【镜头2】小白兔在花丛间停下，用粉鼻子闻闻这儿、碰碰那儿，短短的小身子前倾，耳朵轻轻晃动。它认真寻找春天的踪迹，神情天真专注。",
+      "prompt": "Medium shot of the same 8-year-old white rabbit in a flower garden, petite light body, slightly curled long ears swaying softly, fluffy tail, glossy almond eyes, pink nose touching leaves and petals, tiny mouth, pale pink cheeks, leaning forward with a curious childlike expression, searching for spring among flowers, low angle tracking shot, soft breeze, fresh post-rain atmosphere, 4k, cinematic lighting, masterpiece, animated picture book aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头2】小白兔在花丛间停下，用粉鼻子闻闻这儿、碰碰那儿，短短的小身子前倾，耳朵轻轻晃动。它认真寻找春天的踪迹，神情天真专注。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_04_88d34b00.png",
+      "text": "【镜头3】叶尖上的一滴圆圆露珠特写。小白兔踮起脚，弯下短短的小身子，把脸轻轻凑近露珠，惊讶地说：“呀，我在里面变小啦！”露珠里映出小白兔的脸、蓝天、花瓣和一只小蚂蚁，像个亮闪闪的小世界。",
+      "prompt": "Close-up on a round dewdrop hanging from a leaf tip, the same 8-year-old little white rabbit tiptoes and bends its short body closer, big shiny almond eyes widened in surprise, pink nose near the droplet, slightly curled long ears, fluffy tail visible, reflection inside the dewdrop shows the rabbit's tiny face, blue sky, flower petals, and a small ant, sparkling miniature world, macro lens feel, slow push in, 4k, cinematic lighting, masterpiece, ultra detailed, magical realism\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头3】叶尖上的一滴圆圆露珠特写。小白兔踮起脚，弯下短短的小身子，把脸轻轻凑近露珠，惊讶地说：“呀，我在里面变小啦！”露珠里映出小白兔的脸、蓝天、花瓣和一只小蚂蚁，像个亮闪闪的小世界。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_05_2c2e0aba.png",
+      "text": "【镜头4】太阳从云后露出，金色晨光洒下来。露珠瞬间变得更亮，小白兔抬起头又看向露珠，满脸惊喜地说：“原来露珠像小镜子，会把春天照进去！”",
+      "prompt": "Medium shot, the sun comes out from behind clouds and warm golden morning light hits the garden, the dewdrop suddenly glows brighter, the same 8-year-old white rabbit looks up then back at the droplet with joyful surprise, glossy almond eyes, pink nose, tiny mouth speaking excitedly, slightly curled long ears catching light, fluffy tail, gentle low angle, slow push in, radiant highlights, 4k, cinematic lighting, masterpiece, heartwarming spring mood\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头4】太阳从云后露出，金色晨光洒下来。露珠瞬间变得更亮，小白兔抬起头又看向露珠，满脸惊喜地说：“原来露珠像小镜子，会把春天照进去！”"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_06_6fd841cf.png",
+      "text": "【镜头5】兔妈妈出现在小白兔身旁，微笑着俯身解释。小白兔抬头认真听，耳朵安静地竖着。兔妈妈温柔地说：“露珠是空气里的水汽变的，喜欢在凉凉的早晨停在花草上。”背景仍是明亮湿润的花园。",
+      "prompt": "Medium shot of the same childlike 8-year-old white rabbit beside a gentle rabbit mother in a bright wet spring garden, the little rabbit is petite with slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose and small mouth, light pink cheeks, looking up and listening carefully, rabbit mother bends down smiling warmly and explains dew formation, soft educational tone, stable frame with subtle push in, 4k, cinematic lighting, masterpiece, tender family atmosphere\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头5】兔妈妈出现在小白兔身旁，微笑着俯身解释。小白兔抬头认真听，耳朵安静地竖着。兔妈妈温柔地说：“露珠是空气里的水汽变的，喜欢在凉凉的早晨停在花草上。”背景仍是明亮湿润的花园。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/generated/page_07_d0cadc41.png",
+      "text": "【镜头6】过了一会儿，叶尖上的露珠慢慢消失。小白兔站在花叶前，伸爪摸摸粉鼻子，随后认真地点点头，露出明白了的笑容：“我知道啦，一滴小小露珠里，也藏着春天的小秘密！”晨光柔和，花园安静而温暖。",
+      "prompt": "Close-up of the same 8-year-old little white rabbit in the spring garden as the dewdrop fades away from the leaf tip, petite body, slightly curled long ears, fluffy tail, glossy almond eyes, pink nose and tiny mouth, pale pink cheeks, touching its nose with one paw and then nodding with a thoughtful smile, warm soft morning sunlight, calm magical educational ending, slow push in and gentle hold, 4k, cinematic lighting, masterpiece, storybook finish\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头6】过了一会儿，叶尖上的露珠慢慢消失。小白兔站在花叶前，伸爪摸摸粉鼻子，随后认真地点点头，露出明白了的笑容：“我知道啦，一滴小小露珠里，也藏着春天的小秘密！”晨光柔和，花园安静而温暖。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "儿童科普故事｜8岁的小白兔用粉鼻子和长耳朵探索雨后花园，原来一滴露珠里也藏着春天的小秘密。",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-03/book_68430d12-dea1-4d68-8f6a-30b476666e89/anchor/anchor_upload_e7c490f1.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "儿童科普故事｜8岁的小白兔用粉鼻子和长耳朵探索雨后花园，原来一滴露珠里也藏着春天的小秘密。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【镜头1】雨后的花园全景，叶片和花朵还带着湿润光泽。8岁的小白兔从画面一侧轻快地蹦进花园，身体小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一颤一颤。它眨着带高光的大杏眼，左右张望，边闻边轻声说：“春天藏在哪儿呢？”",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随，轻微缓慢推近",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "A rainy spring garden after the rain, wide shot, an 8-year-old little white rabbit hops into the garden, petite and lightweight body, slightly curled long ears, fluffy trembling tail, big glossy almond eyes, pink nose and tiny mouth, light pink cheeks, childlike innocence, sniffing flowers and looking around curiously, wet leaves sparkling, soft morning light, cinematic tracking shot, gentle push in, 4k, masterpiece, cinematic lighting, storybook style, shallow depth of field"
+    },
+    {
+      "description": "【镜头2】小白兔在花丛间停下，用粉鼻子闻闻这儿、碰碰那儿，短短的小身子前倾，耳朵轻轻晃动。它认真寻找春天的踪迹，神情天真专注。",
+      "shotType": "medium",
+      "cameraMovement": "低角度平稳跟随",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "Medium shot of the same 8-year-old white rabbit in a flower garden, petite light body, slightly curled long ears swaying softly, fluffy tail, glossy almond eyes, pink nose touching leaves and petals, tiny mouth, pale pink cheeks, leaning forward with a curious childlike expression, searching for spring among flowers, low angle tracking shot, soft breeze, fresh post-rain atmosphere, 4k, cinematic lighting, masterpiece, animated picture book aesthetic"
+    },
+    {
+      "description": "【镜头3】叶尖上的一滴圆圆露珠特写。小白兔踮起脚，弯下短短的小身子，把脸轻轻凑近露珠，惊讶地说：“呀，我在里面变小啦！”露珠里映出小白兔的脸、蓝天、花瓣和一只小蚂蚁，像个亮闪闪的小世界。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近到露珠反射",
+      "characters": [
+        "小白兔",
+        "小蚂蚁"
+      ],
+      "duration": 7,
+      "videoPrompt": "Close-up on a round dewdrop hanging from a leaf tip, the same 8-year-old little white rabbit tiptoes and bends its short body closer, big shiny almond eyes widened in surprise, pink nose near the droplet, slightly curled long ears, fluffy tail visible, reflection inside the dewdrop shows the rabbit's tiny face, blue sky, flower petals, and a small ant, sparkling miniature world, macro lens feel, slow push in, 4k, cinematic lighting, masterpiece, ultra detailed, magical realism"
+    },
+    {
+      "description": "【镜头4】太阳从云后露出，金色晨光洒下来。露珠瞬间变得更亮，小白兔抬起头又看向露珠，满脸惊喜地说：“原来露珠像小镜子，会把春天照进去！”",
+      "shotType": "medium",
+      "cameraMovement": "轻微仰拍，缓慢推近",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "Medium shot, the sun comes out from behind clouds and warm golden morning light hits the garden, the dewdrop suddenly glows brighter, the same 8-year-old white rabbit looks up then back at the droplet with joyful surprise, glossy almond eyes, pink nose, tiny mouth speaking excitedly, slightly curled long ears catching light, fluffy tail, gentle low angle, slow push in, radiant highlights, 4k, cinematic lighting, masterpiece, heartwarming spring mood"
+    },
+    {
+      "description": "【镜头5】兔妈妈出现在小白兔身旁，微笑着俯身解释。小白兔抬头认真听，耳朵安静地竖着。兔妈妈温柔地说：“露珠是空气里的水汽变的，喜欢在凉凉的早晨停在花草上。”背景仍是明亮湿润的花园。",
+      "shotType": "medium",
+      "cameraMovement": "固定镜头，轻微缓慢推近",
+      "characters": [
+        "小白兔",
+        "兔妈妈"
+      ],
+      "duration": 7,
+      "videoPrompt": "Medium shot of the same childlike 8-year-old white rabbit beside a gentle rabbit mother in a bright wet spring garden, the little rabbit is petite with slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose and small mouth, light pink cheeks, looking up and listening carefully, rabbit mother bends down smiling warmly and explains dew formation, soft educational tone, stable frame with subtle push in, 4k, cinematic lighting, masterpiece, tender family atmosphere"
+    },
+    {
+      "description": "【镜头6】过了一会儿，叶尖上的露珠慢慢消失。小白兔站在花叶前，伸爪摸摸粉鼻子，随后认真地点点头，露出明白了的笑容：“我知道啦，一滴小小露珠里，也藏着春天的小秘密！”晨光柔和，花园安静而温暖。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近后轻轻定格",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Close-up of the same 8-year-old little white rabbit in the spring garden as the dewdrop fades away from the leaf tip, petite body, slightly curled long ears, fluffy tail, glossy almond eyes, pink nose and tiny mouth, pale pink cheeks, touching its nose with one paw and then nodding with a thoughtful smile, warm soft morning sunlight, calm magical educational ending, slow push in and gentle hold, 4k, cinematic lighting, masterpiece, storybook finish"
+    }
+  ]
+}
