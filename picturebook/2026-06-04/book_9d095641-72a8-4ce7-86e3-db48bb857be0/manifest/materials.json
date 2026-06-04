@@ -1,0 +1,189 @@
+{
+  "topic": "孩子看完主动去表达爱｜面颊淡粉的小白兔为总说不出口的妈妈，画出一整本‘今天我很爱你’的温情绘本",
+  "script": "小白兔八岁啦，小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳。她有亮晶晶的大杏眼、粉鼻子小嘴巴，面颊总是淡淡粉粉的。她发现妈妈每天给她热牛奶、盖被子、等她回家，却总是红着脸，说不出“我爱你”。\n\n于是，小白兔偷偷画了一本小书，名字叫《今天我很爱你》。第一页画早餐，写着：“早上我很爱你。”第二页画雨伞，写着：“下雨我很爱你。”第三页画拥抱，写着：“你累的时候，我更爱你。”\n\n晚上，小白兔把小书塞进妈妈怀里。妈妈一页页翻着，眼睛亮亮的，最后一把抱住她，小声说：“今天，妈妈也很爱你。”\n\n小白兔笑了：原来爱说不出口，也可以画出来呀。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_01_f6d00272.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_02_090ff962.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_03_28be658f.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_04_03906cba.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_05_befeb657.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_06_b60cd38c.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_07_b30174a3.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_01_f6d00272.png",
+      "text": "《孩子看完主动去表达爱｜面颊淡粉的小白兔为总说不出口的妈妈，画出一整本‘今天我很爱你’的温情绘本》",
+      "prompt": "儿童绘本封面，主题：孩子看完主动去表达爱｜面颊淡粉的小白兔为总说不出口的妈妈，画出一整本‘今天我很爱你’的温情绘本\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_02_090ff962.png",
+      "text": "【镜头1】暖色儿童房全景。8岁的小白兔轻快地跳进画面，身形小巧轻盈，长耳朵微微卷着，蓬松小尾巴一跳一跳。她睁着亮晶晶的大杏眼，粉鼻子和小嘴巴微微上扬，淡粉的面颊透着童真。画外旁白：\"小白兔八岁啦。\"",
+      "prompt": "An 8-year-old little white rabbit girl, petite and light, slightly curled long ears, fluffy bouncing tail, big glossy almond eyes, pink nose and tiny mouth, soft pink cheeks, short childlike proportions, hopping happily in a cozy children's room, warm pastel storybook atmosphere, gentle movement, cute and innocent expression, cinematic framing, 4k, masterpiece, soft warm lighting, shallow depth of field, animated picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头1】暖色儿童房全景。8岁的小白兔轻快地跳进画面，身形小巧轻盈，长耳朵微微卷着，蓬松小尾巴一跳一跳。她睁着亮晶晶的大杏眼，粉鼻子和小嘴巴微微上扬，淡粉的面颊透着童真。画外旁白：\"小白兔八岁啦。\""
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_03_28be658f.png",
+      "text": "【镜头2】厨房与门口的组合中景。妈妈把热牛奶递给小白兔，又俯身给她盖好小被子，接着站在门边等她回家。小白兔安静看着这一切，发现妈妈每次照顾她时都脸红红的，嘴巴张了张，却没有说出“我爱你”。",
+      "prompt": "A caring rabbit mother tenderly serving warm milk, tucking a blanket around her 8-year-old little white rabbit daughter, then waiting by the doorway, mother blushing shyly and unable to say 'I love you'; the child watches quietly, petite body, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, cozy home interior, emotional domestic scene, cinematic lighting, 4k, masterpiece, medium shot, soft focus, heartwarming family atmosphere\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头2】厨房与门口的组合中景。妈妈把热牛奶递给小白兔，又俯身给她盖好小被子，接着站在门边等她回家。小白兔安静看着这一切，发现妈妈每次照顾她时都脸红红的，嘴巴张了张，却没有说出“我爱你”。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_04_03906cba.png",
+      "text": "【镜头3】书桌近景。小白兔偷偷趴在桌前做一本手绘小书，封面认真写上《今天我很爱你》。她一边画一边轻轻抿嘴笑，长耳朵垂在桌边，尾巴轻轻翘起，神情专注又害羞。",
+      "prompt": "Close-up of an 8-year-old little white rabbit girl secretly making a handmade picture book at a desk, writing the title 'Today I Love You Very Much', petite and light body, slightly curled long ears draping beside the desk, fluffy tail lifted slightly, big glossy almond eyes focused, pink nose and tiny mouth, soft pink cheeks, childlike concentration and shy smile, colored pencils and paper, warm lamp light, cinematic macro details, 4k, masterpiece, cozy storybook style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头3】书桌近景。小白兔偷偷趴在桌前做一本手绘小书，封面认真写上《今天我很爱你》。她一边画一边轻轻抿嘴笑，长耳朵垂在桌边，尾巴轻轻翘起，神情专注又害羞。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_05_befeb657.png",
+      "text": "【镜头4】小书内页特写。小白兔翻开自己画的三页：第一页是早餐，写着“早上我很爱你”；第二页是雨伞，写着“下雨我很爱你”；第三页是拥抱，写着“你累的时候，我更爱你”。她的小手一页页翻过，画面简洁清楚。",
+      "prompt": "Extreme close-up of a handmade picture book pages being turned by a small white rabbit child's paws: page one breakfast with handwritten words 'I love you in the morning', page two umbrella with 'I love you when it rains', page three hug with 'I love you even more when you are tired'; gentle paper texture, crayons, neat childlike drawings, warm intimate lighting, cinematic macro shot, 4k, masterpiece, soft shadows, emotional picture book aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头4】小书内页特写。小白兔翻开自己画的三页：第一页是早餐，写着“早上我很爱你”；第二页是雨伞，写着“下雨我很爱你”；第三页是拥抱，写着“你累的时候，我更爱你”。她的小手一页页翻过，画面简洁清楚。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_06_b60cd38c.png",
+      "text": "【镜头5】夜晚卧室中景。小白兔鼓起勇气，把小书轻轻塞进妈妈怀里。妈妈坐在床边一页页翻看，眼睛越来越亮。小白兔站在一旁，有点紧张地捏着小手，耳朵微卷着向后贴，期待地望着妈妈。",
+      "prompt": "At night in a cozy bedroom, an 8-year-old little white rabbit girl shyly places a handmade book into her mother's arms; the rabbit mother sits by the bed turning pages one by one, eyes growing bright with emotion; the child stands beside her nervously, petite and light, slightly curled long ears tilted back, fluffy tail still, big glossy almond eyes, pink nose, tiny mouth, soft pink cheeks, tender emotional pause, cinematic lighting, 4k, masterpiece, warm bedside lamp glow, family storybook mood\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头5】夜晚卧室中景。小白兔鼓起勇气，把小书轻轻塞进妈妈怀里。妈妈坐在床边一页页翻看，眼睛越来越亮。小白兔站在一旁，有点紧张地捏着小手，耳朵微卷着向后贴，期待地望着妈妈。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/generated/page_07_b30174a3.png",
+      "text": "【镜头6】温暖拥抱特写。妈妈合上小书，一把抱住小白兔，小声说：“今天，妈妈也很爱你。”小白兔在妈妈怀里开心地笑起来，眼睛弯弯发亮。画外旁白：\"原来爱说不出口，也可以画出来呀。\"结尾点出：孩子看完会主动去表达爱。",
+      "prompt": "Emotional close-up of a rabbit mother hugging her 8-year-old little white rabbit daughter tightly after closing the handmade book, whispering 'Today, Mommy loves you too'; the child smiles brightly in her arms, glossy almond eyes shining, pink nose, tiny mouth, soft pink cheeks, petite child body, slightly curled long ears, fluffy tail visible, warm affectionate embrace, tears of joy in the mother's eyes, cinematic close-up, 4k, masterpiece, soft golden lighting, shallow depth of field, touching family ending\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头6】温暖拥抱特写。妈妈合上小书，一把抱住小白兔，小声说：“今天，妈妈也很爱你。”小白兔在妈妈怀里开心地笑起来，眼睛弯弯发亮。画外旁白：\"原来爱说不出口，也可以画出来呀。\"结尾点出：孩子看完会主动去表达爱。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "孩子看完主动去表达爱｜面颊淡粉的小白兔为总说不出口的妈妈，画出一整本‘今天我很爱你’的温情绘本",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_9d095641-72a8-4ce7-86e3-db48bb857be0/anchor/anchor_upload_deb7348f.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "孩子看完主动去表达爱｜面颊淡粉的小白兔为总说不出口的妈妈，画出一整本‘今天我很爱你’的温情绘本 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【镜头1】暖色儿童房全景。8岁的小白兔轻快地跳进画面，身形小巧轻盈，长耳朵微微卷着，蓬松小尾巴一跳一跳。她睁着亮晶晶的大杏眼，粉鼻子和小嘴巴微微上扬，淡粉的面颊透着童真。画外旁白：\"小白兔八岁啦。\"",
+      "shotType": "wide",
+      "cameraMovement": "缓慢平移跟随",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "An 8-year-old little white rabbit girl, petite and light, slightly curled long ears, fluffy bouncing tail, big glossy almond eyes, pink nose and tiny mouth, soft pink cheeks, short childlike proportions, hopping happily in a cozy children's room, warm pastel storybook atmosphere, gentle movement, cute and innocent expression, cinematic framing, 4k, masterpiece, soft warm lighting, shallow depth of field, animated picture book style"
+    },
+    {
+      "description": "【镜头2】厨房与门口的组合中景。妈妈把热牛奶递给小白兔，又俯身给她盖好小被子，接着站在门边等她回家。小白兔安静看着这一切，发现妈妈每次照顾她时都脸红红的，嘴巴张了张，却没有说出“我爱你”。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小白兔",
+        "妈妈"
+      ],
+      "duration": 7,
+      "videoPrompt": "A caring rabbit mother tenderly serving warm milk, tucking a blanket around her 8-year-old little white rabbit daughter, then waiting by the doorway, mother blushing shyly and unable to say 'I love you'; the child watches quietly, petite body, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, cozy home interior, emotional domestic scene, cinematic lighting, 4k, masterpiece, medium shot, soft focus, heartwarming family atmosphere"
+    },
+    {
+      "description": "【镜头3】书桌近景。小白兔偷偷趴在桌前做一本手绘小书，封面认真写上《今天我很爱你》。她一边画一边轻轻抿嘴笑，长耳朵垂在桌边，尾巴轻轻翘起，神情专注又害羞。",
+      "shotType": "closeup",
+      "cameraMovement": "俯拍缓慢推近",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close-up of an 8-year-old little white rabbit girl secretly making a handmade picture book at a desk, writing the title 'Today I Love You Very Much', petite and light body, slightly curled long ears draping beside the desk, fluffy tail lifted slightly, big glossy almond eyes focused, pink nose and tiny mouth, soft pink cheeks, childlike concentration and shy smile, colored pencils and paper, warm lamp light, cinematic macro details, 4k, masterpiece, cozy storybook style"
+    },
+    {
+      "description": "【镜头4】小书内页特写。小白兔翻开自己画的三页：第一页是早餐，写着“早上我很爱你”；第二页是雨伞，写着“下雨我很爱你”；第三页是拥抱，写着“你累的时候，我更爱你”。她的小手一页页翻过，画面简洁清楚。",
+      "shotType": "extreme_closeup",
+      "cameraMovement": "定镜头轻微下移",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "Extreme close-up of a handmade picture book pages being turned by a small white rabbit child's paws: page one breakfast with handwritten words 'I love you in the morning', page two umbrella with 'I love you when it rains', page three hug with 'I love you even more when you are tired'; gentle paper texture, crayons, neat childlike drawings, warm intimate lighting, cinematic macro shot, 4k, masterpiece, soft shadows, emotional picture book aesthetic"
+    },
+    {
+      "description": "【镜头5】夜晚卧室中景。小白兔鼓起勇气，把小书轻轻塞进妈妈怀里。妈妈坐在床边一页页翻看，眼睛越来越亮。小白兔站在一旁，有点紧张地捏着小手，耳朵微卷着向后贴，期待地望着妈妈。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小白兔",
+        "妈妈"
+      ],
+      "duration": 6,
+      "videoPrompt": "At night in a cozy bedroom, an 8-year-old little white rabbit girl shyly places a handmade book into her mother's arms; the rabbit mother sits by the bed turning pages one by one, eyes growing bright with emotion; the child stands beside her nervously, petite and light, slightly curled long ears tilted back, fluffy tail still, big glossy almond eyes, pink nose, tiny mouth, soft pink cheeks, tender emotional pause, cinematic lighting, 4k, masterpiece, warm bedside lamp glow, family storybook mood"
+    },
+    {
+      "description": "【镜头6】温暖拥抱特写。妈妈合上小书，一把抱住小白兔，小声说：“今天，妈妈也很爱你。”小白兔在妈妈怀里开心地笑起来，眼睛弯弯发亮。画外旁白：\"原来爱说不出口，也可以画出来呀。\"结尾点出：孩子看完会主动去表达爱。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近后定格",
+      "characters": [
+        "小白兔",
+        "妈妈"
+      ],
+      "duration": 7,
+      "videoPrompt": "Emotional close-up of a rabbit mother hugging her 8-year-old little white rabbit daughter tightly after closing the handmade book, whispering 'Today, Mommy loves you too'; the child smiles brightly in her arms, glossy almond eyes shining, pink nose, tiny mouth, soft pink cheeks, petite child body, slightly curled long ears, fluffy tail visible, warm affectionate embrace, tears of joy in the mother's eyes, cinematic close-up, 4k, masterpiece, soft golden lighting, shallow depth of field, touching family ending"
+    }
+  ]
+}
