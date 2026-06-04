@@ -1,0 +1,190 @@
+{
+  "topic": "人民日报都爱的安全启蒙｜大杏眼小白兔掉进‘假装很浅’的池塘边，学会保护自己的防溺水绘本",
+  "script": "大杏眼的小白兔朵朵，8岁啦。它小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，粉鼻小嘴配着淡粉脸颊，可爱极了。\n\n这天，朵朵在公园追蝴蝶，跑到池塘边。池水亮晶晶的，看起来“浅浅的”，朵朵刚想伸脚试试，青蛙叔叔急忙叫：“别靠近！有些池塘会假装很浅，其实一下就滑进去！”\n\n朵朵低头一看，岸边长满滑滑的青苔。它后退一步，拿来长树枝试了试，呀，水一下就没过树枝大半截！\n\n忽然，小松鼠也想往前看。朵朵连忙拉住它，大声说：“不能自己去水边，不推不挤，不捡掉进水里的东西，快去找大人！”\n\n兔妈妈赶来，夸朵朵真勇敢。朵朵眨着亮晶晶的大杏眼说：“水边要离远远，安全第一，才能开心玩！”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_01_7e673527.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_02_23620552.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_03_30fab4d1.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_04_7c3ee3d2.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_05_b1a7db9e.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_06_aba1b74d.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_07_88c90118.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_01_7e673527.png",
+      "text": "《人民日报都爱的安全启蒙｜大杏眼小白兔掉进‘假装很浅’的池塘边，学会保护自己的防溺水绘本》",
+      "prompt": "儿童绘本封面，主题：人民日报都爱的安全启蒙｜大杏眼小白兔掉进‘假装很浅’的池塘边，学会保护自己的防溺水绘本\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_02_23620552.png",
+      "text": "【镜头1】公园草地上，8岁的小白兔朵朵快乐地追着蝴蝶奔跑。它小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，大杏眼亮晶晶，粉鼻小嘴配着淡粉脸颊，童真又可爱。阳光明亮，先建立主角形象与轻松氛围。",
+      "prompt": "An 8-year-old cute white rabbit girl named Duoduo running through a sunny park chasing butterflies, petite and lightweight body, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose and tiny mouth, soft blush cheeks, childlike innocence, green lawn and flowers, warm cheerful atmosphere, smooth tracking shot, cinematic lighting, 4k, masterpiece, animated picture book style, shallow depth of field, soft natural sunlight\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头1】公园草地上，8岁的小白兔朵朵快乐地追着蝴蝶奔跑。它小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，大杏眼亮晶晶，粉鼻小嘴配着淡粉脸颊，童真又可爱。阳光明亮，先建立主角形象与轻松氛围。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_03_30fab4d1.png",
+      "text": "【镜头2】朵朵追着蝴蝶来到池塘边，看到池水亮晶晶、表面看起来浅浅的。它好奇地探出身子，刚想伸脚去试，动作停在岸边，表现出“想靠近”的危险瞬间。",
+      "prompt": "Duoduo, the same 8-year-old white rabbit girl, stopping at the edge of a sparkling pond in a park, leaning forward curiously and about to test the water with one foot, petite body, curled ears, fluffy tail, big highlighted almond eyes, pink nose, tiny mouth, light pink cheeks, innocent but cautious expression, shimmering water that looks deceptively shallow, cinematic push-in, 4k, masterpiece, soft daylight, storybook animation, detailed environment\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头2】朵朵追着蝴蝶来到池塘边，看到池水亮晶晶、表面看起来浅浅的。它好奇地探出身子，刚想伸脚去试，动作停在岸边，表现出“想靠近”的危险瞬间。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_04_7c3ee3d2.png",
+      "text": "【镜头3】一旁的青蛙叔叔急忙大声提醒：“别靠近！有些池塘会假装很浅，其实一下就滑进去！”朵朵立刻停住，睁大杏眼看向池边。画面带出岸边滑滑的青苔，明确危险来源。",
+      "prompt": "A wise frog uncle urgently warning Duoduo near the pond, saying do not get close because some ponds only look shallow, Duoduo freezes in surprise with wide sparkling almond eyes, slippery green moss visible along the pond edge, same petite 8-year-old white rabbit girl with curled ears and fluffy tail, clear safety storytelling, cinematic lighting, 4k, masterpiece, animated family picture book style, subtle camera tilt revealing danger\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头3】一旁的青蛙叔叔急忙大声提醒：“别靠近！有些池塘会假装很浅，其实一下就滑进去！”朵朵立刻停住，睁大杏眼看向池边。画面带出岸边滑滑的青苔，明确危险来源。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_05_b1a7db9e.png",
+      "text": "【镜头4】朵朵低头仔细看见岸边满是青苔，马上后退一步，拿来一根长树枝伸进水里试探。结果树枝一下就没入大半截，朵朵露出惊讶表情，明白水并不浅。",
+      "prompt": "Close view of Duoduo testing pond depth with a long stick after stepping back safely, the stick quickly sinking deep into the water, slippery moss covering the bank, Duoduo looks surprised and learns the danger, same 8-year-old petite white rabbit girl, slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose and tiny mouth, blush cheeks, educational visual clarity, top-down composition, cinematic detail, 4k, masterpiece, soft daylight\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头4】朵朵低头仔细看见岸边满是青苔，马上后退一步，拿来一根长树枝伸进水里试探。结果树枝一下就没入大半截，朵朵露出惊讶表情，明白水并不浅。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_06_aba1b74d.png",
+      "text": "【镜头5】忽然，小松鼠也想凑到水边看。朵朵连忙伸手拉住它，坚定地大声说：“不能自己去水边，不推不挤，不捡掉进水里的东西，快去找大人！”动作明确，突出主动劝阻与安全规则。",
+      "prompt": "Duoduo quickly reaches out and gently pulls back a little squirrel who is about to move toward the pond, she speaks firmly about water safety rules: never go alone, no pushing, do not pick up things that fall into the water, go find an adult, same white rabbit girl age 8 with petite body, curled ears, fluffy tail, bright almond eyes, pink nose, tiny mouth, blush cheeks, clear protective action, family safety theme, cinematic animation, 4k, masterpiece, crisp expressions, daylight park setting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头5】忽然，小松鼠也想凑到水边看。朵朵连忙伸手拉住它，坚定地大声说：“不能自己去水边，不推不挤，不捡掉进水里的东西，快去找大人！”动作明确，突出主动劝阻与安全规则。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/generated/page_07_88c90118.png",
+      "text": "【镜头6】兔妈妈赶来，温柔地夸朵朵真勇敢。朵朵眨着亮晶晶的大杏眼，对大家认真地说：“水边要离远远，安全第一，才能开心玩！”结尾温暖明亮，形成亲子绘本式安全总结。",
+      "prompt": "Warm ending scene in the park: rabbit mother arrives and praises Duoduo for being brave, Duoduo faces everyone with sparkling almond eyes and says staying far from water comes first for safety and fun, same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, pink nose, tiny mouth, blush cheeks, loving mother rabbit nearby, little squirrel listening, bright uplifting mood, cinematic slow push-in, 4k, masterpiece, children’s picture book animation, soft golden daylight\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头6】兔妈妈赶来，温柔地夸朵朵真勇敢。朵朵眨着亮晶晶的大杏眼，对大家认真地说：“水边要离远远，安全第一，才能开心玩！”结尾温暖明亮，形成亲子绘本式安全总结。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "人民日报都爱的安全启蒙｜大杏眼小白兔掉进‘假装很浅’的池塘边，学会保护自己的防溺水绘本",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_af0c69cb-66ee-4fc7-8048-2f978ad32c81/anchor/anchor_upload_f42014cc.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "人民日报都爱的安全启蒙｜大杏眼小白兔掉进‘假装很浅’的池塘边，学会保护自己的防溺水绘本 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【镜头1】公园草地上，8岁的小白兔朵朵快乐地追着蝴蝶奔跑。它小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，大杏眼亮晶晶，粉鼻小嘴配着淡粉脸颊，童真又可爱。阳光明亮，先建立主角形象与轻松氛围。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "朵朵"
+      ],
+      "duration": 5,
+      "videoPrompt": "An 8-year-old cute white rabbit girl named Duoduo running through a sunny park chasing butterflies, petite and lightweight body, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose and tiny mouth, soft blush cheeks, childlike innocence, green lawn and flowers, warm cheerful atmosphere, smooth tracking shot, cinematic lighting, 4k, masterpiece, animated picture book style, shallow depth of field, soft natural sunlight"
+    },
+    {
+      "description": "【镜头2】朵朵追着蝴蝶来到池塘边，看到池水亮晶晶、表面看起来浅浅的。它好奇地探出身子，刚想伸脚去试，动作停在岸边，表现出“想靠近”的危险瞬间。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "朵朵"
+      ],
+      "duration": 4,
+      "videoPrompt": "Duoduo, the same 8-year-old white rabbit girl, stopping at the edge of a sparkling pond in a park, leaning forward curiously and about to test the water with one foot, petite body, curled ears, fluffy tail, big highlighted almond eyes, pink nose, tiny mouth, light pink cheeks, innocent but cautious expression, shimmering water that looks deceptively shallow, cinematic push-in, 4k, masterpiece, soft daylight, storybook animation, detailed environment"
+    },
+    {
+      "description": "【镜头3】一旁的青蛙叔叔急忙大声提醒：“别靠近！有些池塘会假装很浅，其实一下就滑进去！”朵朵立刻停住，睁大杏眼看向池边。画面带出岸边滑滑的青苔，明确危险来源。",
+      "shotType": "medium",
+      "cameraMovement": "低角度仰拍后轻微摇镜到池边青苔",
+      "characters": [
+        "朵朵",
+        "青蛙叔叔"
+      ],
+      "duration": 5,
+      "videoPrompt": "A wise frog uncle urgently warning Duoduo near the pond, saying do not get close because some ponds only look shallow, Duoduo freezes in surprise with wide sparkling almond eyes, slippery green moss visible along the pond edge, same petite 8-year-old white rabbit girl with curled ears and fluffy tail, clear safety storytelling, cinematic lighting, 4k, masterpiece, animated family picture book style, subtle camera tilt revealing danger"
+    },
+    {
+      "description": "【镜头4】朵朵低头仔细看见岸边满是青苔，马上后退一步，拿来一根长树枝伸进水里试探。结果树枝一下就没入大半截，朵朵露出惊讶表情，明白水并不浅。",
+      "shotType": "closeup",
+      "cameraMovement": "俯拍定镜",
+      "characters": [
+        "朵朵"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close view of Duoduo testing pond depth with a long stick after stepping back safely, the stick quickly sinking deep into the water, slippery moss covering the bank, Duoduo looks surprised and learns the danger, same 8-year-old petite white rabbit girl, slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose and tiny mouth, blush cheeks, educational visual clarity, top-down composition, cinematic detail, 4k, masterpiece, soft daylight"
+    },
+    {
+      "description": "【镜头5】忽然，小松鼠也想凑到水边看。朵朵连忙伸手拉住它，坚定地大声说：“不能自己去水边，不推不挤，不捡掉进水里的东西，快去找大人！”动作明确，突出主动劝阻与安全规则。",
+      "shotType": "medium",
+      "cameraMovement": "快速平移后定格",
+      "characters": [
+        "朵朵",
+        "小松鼠"
+      ],
+      "duration": 6,
+      "videoPrompt": "Duoduo quickly reaches out and gently pulls back a little squirrel who is about to move toward the pond, she speaks firmly about water safety rules: never go alone, no pushing, do not pick up things that fall into the water, go find an adult, same white rabbit girl age 8 with petite body, curled ears, fluffy tail, bright almond eyes, pink nose, tiny mouth, blush cheeks, clear protective action, family safety theme, cinematic animation, 4k, masterpiece, crisp expressions, daylight park setting"
+    },
+    {
+      "description": "【镜头6】兔妈妈赶来，温柔地夸朵朵真勇敢。朵朵眨着亮晶晶的大杏眼，对大家认真地说：“水边要离远远，安全第一，才能开心玩！”结尾温暖明亮，形成亲子绘本式安全总结。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "朵朵",
+        "兔妈妈",
+        "小松鼠"
+      ],
+      "duration": 5,
+      "videoPrompt": "Warm ending scene in the park: rabbit mother arrives and praises Duoduo for being brave, Duoduo faces everyone with sparkling almond eyes and says staying far from water comes first for safety and fun, same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, pink nose, tiny mouth, blush cheeks, loving mother rabbit nearby, little squirrel listening, bright uplifting mood, cinematic slow push-in, 4k, masterpiece, children’s picture book animation, soft golden daylight"
+    }
+  ]
+}
