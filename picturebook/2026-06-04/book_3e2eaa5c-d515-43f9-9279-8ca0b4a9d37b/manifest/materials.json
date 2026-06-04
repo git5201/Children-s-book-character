@@ -1,0 +1,191 @@
+{
+  "topic": "看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本",
+  "script": "晚上，窗外黑黑的，小朋友抱着被子，小声说：“我怕黑……”\n\n这时，8岁的小白兔蹦到床边。它小巧轻盈，长耳朵微微卷着，尾巴像一团小云朵。它眨着亮晶晶的大杏眼，粉鼻子一动一动，笑着说：“别怕，我的耳朵会发光！”\n\n呼——两只长耳朵亮起暖暖的光，像两盏小月灯。它带着小朋友照一照衣柜：“是外套在打瞌睡。”照一照窗帘：“是风在玩躲猫猫。”照到墙角时，黑影忽然变大了，小朋友紧紧拉住小白兔。\n\n小白兔轻轻拍拍他：“我们一起数，1、2、3！”耳朵“嗖”地更亮了。原来，墙角只是一个倒着的小板凳。\n\n小朋友扑哧笑了，不怕了。小白兔钻进被窝边，轻声说：“黑夜不可怕，勇气会发光。”小朋友闭上眼，带着暖暖的光，甜甜睡着了。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_01_b9bff71e.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_02_27aad0b1.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_03_23718f8f.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_04_995bbe59.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_05_db322c13.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_06_47d19214.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_07_dd2f45bc.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_01_b9bff71e.png",
+      "text": "《看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本》",
+      "prompt": "儿童绘本封面，主题：看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_02_27aad0b1.png",
+      "text": "夜晚的儿童卧室里，窗外一片漆黑。小朋友抱着被子坐在床上，神情紧张，小声说：“我怕黑……”房间里只有微弱的夜色轮廓，衣柜、窗帘和墙角都藏在阴影里。",
+      "prompt": "A dark cozy children's bedroom at night, black window outside, an 8-year-old child sitting on the bed hugging a blanket, looking scared and whispering 'I'm afraid of the dark', wardrobe curtains and corner hidden in shadow, soft moonless ambience, cinematic framing, slow push-in, 4k, masterpiece, cinematic lighting, storybook style, gentle emotional tone\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜晚的儿童卧室里，窗外一片漆黑。小朋友抱着被子坐在床上，神情紧张，小声说：“我怕黑……”房间里只有微弱的夜色轮廓，衣柜、窗帘和墙角都藏在阴影里。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_03_23718f8f.png",
+      "text": "床边忽然跳来一只8岁的小白兔。它小巧轻盈，长耳朵微微卷着，尾巴像一团小云朵，大杏眼亮晶晶，粉鼻子一动一动，笑着对小朋友说：“别怕，我的耳朵会发光！”",
+      "prompt": "A small lightweight 8-year-old white rabbit hopping to the bedside, slightly curled long ears, fluffy cloud-like tail, big glossy almond eyes with highlights, tiny pink nose twitching, small mouth, light pink cheeks, short soft fur, smiling at the child and saying 'Don't be afraid, my ears can glow!', warm intimate bedroom scene, medium shot, smooth tracking, 4k, masterpiece, cinematic lighting, whimsical family picture book aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "床边忽然跳来一只8岁的小白兔。它小巧轻盈，长耳朵微微卷着，尾巴像一团小云朵，大杏眼亮晶晶，粉鼻子一动一动，笑着对小朋友说：“别怕，我的耳朵会发光！”"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_04_995bbe59.png",
+      "text": "小白兔的两只长耳朵“呼——”地亮起暖暖的光，像两盏小月灯。暖光照亮床边和小朋友的脸，小朋友惊讶地看着它，房间气氛一下变得柔和起来。",
+      "prompt": "Close-up of the white rabbit's slightly curled long ears glowing with warm golden light like two tiny moon lamps, soft light illuminating the child's surprised face and the bedside, rabbit with big sparkling almond eyes, pink nose, small mouth, pale pink cheeks, fluffy tail visible, magical yet cozy atmosphere, gentle close push-in, 4k, masterpiece, cinematic lighting, magical realism, highly detailed\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小白兔的两只长耳朵“呼——”地亮起暖暖的光，像两盏小月灯。暖光照亮床边和小朋友的脸，小朋友惊讶地看着它，房间气氛一下变得柔和起来。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_05_db322c13.png",
+      "text": "小白兔带着小朋友一起查看黑暗。耳朵先照向衣柜，小白兔说：“是外套在打瞌睡。”又照向窗帘，说：“是风在玩躲猫猫。”小朋友跟着视线望过去，慢慢放松下来。",
+      "prompt": "The glowing white rabbit guides the child to inspect the dark room, warm ear-light shining toward the wardrobe where hanging coats look sleepy, then panning to curtains moving gently in the wind as if playing hide-and-seek, the child watching and relaxing, rabbit remains small and agile with curled long ears, fluffy tail, glossy almond eyes, pink nose, soft cheeks, medium shot with side pan, 4k, masterpiece, cinematic lighting, charming storybook animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小白兔带着小朋友一起查看黑暗。耳朵先照向衣柜，小白兔说：“是外套在打瞌睡。”又照向窗帘，说：“是风在玩躲猫猫。”小朋友跟着视线望过去，慢慢放松下来。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_06_47d19214.png",
+      "text": "耳朵的光照到墙角时，黑影忽然变大，小朋友一下紧紧拉住小白兔。小白兔轻轻拍拍他，说：“我们一起数，1、2、3！”话音刚落，耳朵“嗖”地更亮了，黑影真相显现——原来只是一个倒着的小板凳。",
+      "prompt": "In the bedroom corner, a shadow suddenly looks bigger, the child grabs the little white rabbit tightly, the rabbit gently pats the child and says 'Let's count together, 1, 2, 3!', then its glowing ears flare brighter and reveal the truth: only an upside-down small stool, wide shot shifting to reveal, rabbit consistently small and light, curled long ears, fluffy tail, big highlighted almond eyes, twitching pink nose, warm brave mood, 4k, masterpiece, cinematic lighting, suspense to relief\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "耳朵的光照到墙角时，黑影忽然变大，小朋友一下紧紧拉住小白兔。小白兔轻轻拍拍他，说：“我们一起数，1、2、3！”话音刚落，耳朵“嗖”地更亮了，黑影真相显现——原来只是一个倒着的小板凳。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/generated/page_07_dd2f45bc.png",
+      "text": "小朋友扑哧笑了，终于不怕了。小白兔钻进被窝边，轻声说：“黑夜不可怕，勇气会发光。”在暖暖耳光陪伴下，小朋友闭上眼睛，安稳甜甜地睡着。",
+      "prompt": "A tender bedtime close-up: the child giggles in relief and lies down peacefully, the small white rabbit nestles beside the blanket and softly says 'The night isn't scary, courage will glow', warm ear-light surrounding them, child closing eyes and falling asleep sweetly, rabbit with slightly curled glowing ears, fluffy cloud-like tail, shiny almond eyes, tiny pink nose, soft pink cheeks, cozy dreamy mood, slow pull-back, 4k, masterpiece, cinematic lighting, heartwarming picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小朋友扑哧笑了，终于不怕了。小白兔钻进被窝边，轻声说：“黑夜不可怕，勇气会发光。”在暖暖耳光陪伴下，小朋友闭上眼睛，安稳甜甜地睡着。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_3e2eaa5c-d515-43f9-9279-8ca0b4a9d37b/anchor/anchor_upload_b3d6fb86.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "夜晚的儿童卧室里，窗外一片漆黑。小朋友抱着被子坐在床上，神情紧张，小声说：“我怕黑……”房间里只有微弱的夜色轮廓，衣柜、窗帘和墙角都藏在阴影里。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小朋友"
+      ],
+      "duration": 5,
+      "videoPrompt": "A dark cozy children's bedroom at night, black window outside, an 8-year-old child sitting on the bed hugging a blanket, looking scared and whispering 'I'm afraid of the dark', wardrobe curtains and corner hidden in shadow, soft moonless ambience, cinematic framing, slow push-in, 4k, masterpiece, cinematic lighting, storybook style, gentle emotional tone"
+    },
+    {
+      "description": "床边忽然跳来一只8岁的小白兔。它小巧轻盈，长耳朵微微卷着，尾巴像一团小云朵，大杏眼亮晶晶，粉鼻子一动一动，笑着对小朋友说：“别怕，我的耳朵会发光！”",
+      "shotType": "medium",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "小朋友",
+        "小白兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "A small lightweight 8-year-old white rabbit hopping to the bedside, slightly curled long ears, fluffy cloud-like tail, big glossy almond eyes with highlights, tiny pink nose twitching, small mouth, light pink cheeks, short soft fur, smiling at the child and saying 'Don't be afraid, my ears can glow!', warm intimate bedroom scene, medium shot, smooth tracking, 4k, masterpiece, cinematic lighting, whimsical family picture book aesthetic"
+    },
+    {
+      "description": "小白兔的两只长耳朵“呼——”地亮起暖暖的光，像两盏小月灯。暖光照亮床边和小朋友的脸，小朋友惊讶地看着它，房间气氛一下变得柔和起来。",
+      "shotType": "closeup",
+      "cameraMovement": "轻微推近",
+      "characters": [
+        "小朋友",
+        "小白兔"
+      ],
+      "duration": 4,
+      "videoPrompt": "Close-up of the white rabbit's slightly curled long ears glowing with warm golden light like two tiny moon lamps, soft light illuminating the child's surprised face and the bedside, rabbit with big sparkling almond eyes, pink nose, small mouth, pale pink cheeks, fluffy tail visible, magical yet cozy atmosphere, gentle close push-in, 4k, masterpiece, cinematic lighting, magical realism, highly detailed"
+    },
+    {
+      "description": "小白兔带着小朋友一起查看黑暗。耳朵先照向衣柜，小白兔说：“是外套在打瞌睡。”又照向窗帘，说：“是风在玩躲猫猫。”小朋友跟着视线望过去，慢慢放松下来。",
+      "shotType": "medium",
+      "cameraMovement": "平移扫视",
+      "characters": [
+        "小朋友",
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "The glowing white rabbit guides the child to inspect the dark room, warm ear-light shining toward the wardrobe where hanging coats look sleepy, then panning to curtains moving gently in the wind as if playing hide-and-seek, the child watching and relaxing, rabbit remains small and agile with curled long ears, fluffy tail, glossy almond eyes, pink nose, soft cheeks, medium shot with side pan, 4k, masterpiece, cinematic lighting, charming storybook animation"
+    },
+    {
+      "description": "耳朵的光照到墙角时，黑影忽然变大，小朋友一下紧紧拉住小白兔。小白兔轻轻拍拍他，说：“我们一起数，1、2、3！”话音刚落，耳朵“嗖”地更亮了，黑影真相显现——原来只是一个倒着的小板凳。",
+      "shotType": "wide",
+      "cameraMovement": "先轻微摇镜到墙角，再快速推近揭示",
+      "characters": [
+        "小朋友",
+        "小白兔"
+      ],
+      "duration": 7,
+      "videoPrompt": "In the bedroom corner, a shadow suddenly looks bigger, the child grabs the little white rabbit tightly, the rabbit gently pats the child and says 'Let's count together, 1, 2, 3!', then its glowing ears flare brighter and reveal the truth: only an upside-down small stool, wide shot shifting to reveal, rabbit consistently small and light, curled long ears, fluffy tail, big highlighted almond eyes, twitching pink nose, warm brave mood, 4k, masterpiece, cinematic lighting, suspense to relief"
+    },
+    {
+      "description": "小朋友扑哧笑了，终于不怕了。小白兔钻进被窝边，轻声说：“黑夜不可怕，勇气会发光。”在暖暖耳光陪伴下，小朋友闭上眼睛，安稳甜甜地睡着。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢拉远",
+      "characters": [
+        "小朋友",
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "A tender bedtime close-up: the child giggles in relief and lies down peacefully, the small white rabbit nestles beside the blanket and softly says 'The night isn't scary, courage will glow', warm ear-light surrounding them, child closing eyes and falling asleep sweetly, rabbit with slightly curled glowing ears, fluffy cloud-like tail, shiny almond eyes, tiny pink nose, soft pink cheeks, cozy dreamy mood, slow pull-back, 4k, masterpiece, cinematic lighting, heartwarming picture book style"
+    }
+  ]
+}
