@@ -1,0 +1,188 @@
+{
+  "topic": "想象力爆棚！｜粉鼻小嘴的小白兔坐上雨滴列车，在云朵邮局给全城孩子送梦想的奇幻绘本",
+  "script": "清晨，小白兔米米照了照水洼：大杏眼亮晶晶，粉鼻小嘴一动一动，长耳朵微微卷着，蓬松的小尾巴像一团小云。今天，云朵邮局来信啦——“请坐雨滴列车，给全城孩子送梦想！”\n\n米米“嗖”地跳上透明的雨滴列车。车轮是水花，铃声是“叮咚叮咚”的小雨点。到了云朵邮局，邮差风伯伯递给她一大袋梦：有会唱歌的种子、会飞的画笔，还有勇敢星星奖章。\n\n可是半路上，乌云把梦袋吹开了，梦想飘得满天都是！米米一点也不慌，踮起脚，用长耳朵接住星星梦，用小尾巴扫一扫，收回画笔梦，还大声说：“每个孩子都该有自己的梦！”\n\n最后，米米把梦想一个个送到窗前。全城孩子笑着睡着了。米米也明白了：只要心里有光，小小的自己，也能送出大大的希望。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_01_2c9ba3dd.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_02_a704d6a8.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_03_90968a68.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_04_d0afa949.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_05_e8705c60.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_06_7f4b188b.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_07_208192e4.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_01_2c9ba3dd.png",
+      "text": "《想象力爆棚！｜粉鼻小嘴的小白兔坐上雨滴列车，在云朵邮局给全城孩子送梦想的奇幻绘本》",
+      "prompt": "儿童绘本封面，主题：想象力爆棚！｜粉鼻小嘴的小白兔坐上雨滴列车，在云朵邮局给全城孩子送梦想的奇幻绘本\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_02_a704d6a8.png",
+      "text": "清晨的草地边，小白兔米米站在一汪水洼前低头照看自己。画面清楚呈现她的大杏眼亮晶晶、粉鼻小嘴轻轻动着、长耳朵微微卷起、蓬松小尾巴像小云朵。她露出期待的神情，晨光柔和洒下，建立主角形象。",
+      "prompt": "Mimi, a small anthropomorphic white rabbit girl with an 8-year-old childlike innocence, petite and light body, slightly curled long ears, fluffy cloud-like tail, big sparkling almond eyes with catchlight, pink nose and tiny mouth, faint pink cheeks, standing by a puddle at sunrise and looking at her reflection, gentle blinking and subtle nose movement, dreamy picture book style, soft morning mist, warm golden dawn light, cinematic lighting, shallow depth of field, close-up, slow push-in, 4k, masterpiece, highly detailed, whimsical children's story aesthetic\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "清晨的草地边，小白兔米米站在一汪水洼前低头照看自己。画面清楚呈现她的大杏眼亮晶晶、粉鼻小嘴轻轻动着、长耳朵微微卷起、蓬松小尾巴像小云朵。她露出期待的神情，晨光柔和洒下，建立主角形象。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_03_90968a68.png",
+      "text": "水洼旁飘来一封来自云朵邮局的信，米米伸出小手接住并打开。信上写着“请坐雨滴列车，给全城孩子送梦想！”，她眼睛一下子亮起来，耳朵微微竖起，准备出发。",
+      "prompt": "Mimi, the same small white rabbit girl, age-8 childlike, petite and agile, curled long ears, fluffy tail, big shining almond eyes, pink nose, tiny mouth, pale pink cheeks, catching a floating letter from the Cloud Post Office beside a puddle, opening it and reading with excited expression, ears lifting in surprise, magical envelope hovering in morning air, soft pastel sky, whimsical fantasy environment, medium shot, gentle side pan then hold, cinematic lighting, 4k, masterpiece, storybook illustration feel, crisp character continuity\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "水洼旁飘来一封来自云朵邮局的信，米米伸出小手接住并打开。信上写着“请坐雨滴列车，给全城孩子送梦想！”，她眼睛一下子亮起来，耳朵微微竖起，准备出发。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_04_d0afa949.png",
+      "text": "米米“嗖”地跳上透明的雨滴列车。列车穿行在空中，车轮溅起水花，铃声像小雨点“叮咚叮咚”。镜头带出前方的云朵邮局，米米扶着车窗，神情兴奋又专注。",
+      "prompt": "Mimi, the same petite anthropomorphic white rabbit girl with slightly curled long ears and fluffy tail, jumping onto a transparent raindrop train, water-splash wheels spinning, tiny rain bells chiming, she holds the window frame with bright sparkling almond eyes and eager smile, flying through the sky toward a fluffy cloud post office, expansive fantasy city below, dynamic splash effects, wide shot, tracking shot, cinematic motion, luminous pastel clouds, volumetric light, 4k, masterpiece, magical realism, children's picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "米米“嗖”地跳上透明的雨滴列车。列车穿行在空中，车轮溅起水花，铃声像小雨点“叮咚叮咚”。镜头带出前方的云朵邮局，米米扶着车窗，神情兴奋又专注。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_05_e8705c60.png",
+      "text": "云朵邮局门前，邮差风伯伯把一大袋“梦”递给米米。袋口微微打开，露出会唱歌的种子、会飞的画笔、勇敢星星奖章。米米双手接过梦袋，认真地点头，正式开始送信任务。",
+      "prompt": "At the Cloud Post Office, Mimi, the same small white rabbit girl, 8-year-old childlike energy, petite frame, curled long ears, fluffy tail, big glossy almond eyes, pink nose and tiny mouth, receives a large bag of dreams from Uncle Wind, a kind elderly breeze postman made of soft swirling clouds and scarf-like wind trails, the bag slightly open showing singing seeds, flying paintbrushes, and a brave star medal, Mimi accepts it with both hands and nods seriously, medium shot, slow push-in, soft glowing cloud architecture, magical particles, cinematic lighting, 4k, masterpiece, highly detailed fantasy picture book look\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "云朵邮局门前，邮差风伯伯把一大袋“梦”递给米米。袋口微微打开，露出会唱歌的种子、会飞的画笔、勇敢星星奖章。米米双手接过梦袋，认真地点头，正式开始送信任务。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_06_7f4b188b.png",
+      "text": "半路上突起乌云，狂风把梦袋吹开，梦想飘满天空。米米一点也不慌：她踮起脚，用微卷长耳朵接住星星梦，再用蓬松小尾巴一扫，收回画笔梦，同时大声说：“每个孩子都该有自己的梦！”",
+      "prompt": "Mimi, the same petite white rabbit girl with childlike age 8 innocence, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, faint pink cheeks, in a windy sky under dark storm clouds as a dream bag bursts open and magical dreams fly everywhere, she stands on tiptoe, catches a glowing star-dream with her long ears, sweeps flying paintbrush dreams back with her fluffy tail, brave determined face, mouth open speaking, dramatic contrast between dark clouds and glowing dreams, wide shot, low-angle tracking, cinematic lighting, dynamic motion blur, 4k, masterpiece, inspirational fantasy scene\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "半路上突起乌云，狂风把梦袋吹开，梦想飘满天空。米米一点也不慌：她踮起脚，用微卷长耳朵接住星星梦，再用蓬松小尾巴一扫，收回画笔梦，同时大声说：“每个孩子都该有自己的梦！”"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/generated/page_07_208192e4.png",
+      "text": "夜晚的城市窗前，米米把梦想一个个轻轻送到孩子们的窗边。屋内的孩子们抱着梦甜甜睡去，整座城安静发光。最后米米停在月光里，抱着空空的梦袋微笑，明白小小的自己也能送出大大的希望。",
+      "prompt": "Nighttime over a cozy city, Mimi, the same small anthropomorphic white rabbit girl with curled long ears, fluffy tail, big luminous almond eyes, pink nose and tiny mouth, gently delivering glowing dreams one by one to children's windows, inside the windows children smile and fall asleep peacefully, the whole city softly illuminated, Mimi floating in moonlight with an empty dream bag and a warm satisfied smile, hopeful emotional ending, wide shot, slow pull-back, moonlit cinematic lighting, dreamy blue and gold palette, 4k, masterpiece, poetic fantasy picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜晚的城市窗前，米米把梦想一个个轻轻送到孩子们的窗边。屋内的孩子们抱着梦甜甜睡去，整座城安静发光。最后米米停在月光里，抱着空空的梦袋微笑，明白小小的自己也能送出大大的希望。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "想象力爆棚！｜粉鼻小嘴的小白兔坐上雨滴列车，在云朵邮局给全城孩子送梦想的奇幻绘本",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_ca272243-1153-4163-9ad0-5dedba6a0ef3/anchor/anchor_upload_11501c58.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "想象力爆棚！｜粉鼻小嘴的小白兔坐上雨滴列车，在云朵邮局给全城孩子送梦想的奇幻绘本 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "清晨的草地边，小白兔米米站在一汪水洼前低头照看自己。画面清楚呈现她的大杏眼亮晶晶、粉鼻小嘴轻轻动着、长耳朵微微卷起、蓬松小尾巴像小云朵。她露出期待的神情，晨光柔和洒下，建立主角形象。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Mimi, a small anthropomorphic white rabbit girl with an 8-year-old childlike innocence, petite and light body, slightly curled long ears, fluffy cloud-like tail, big sparkling almond eyes with catchlight, pink nose and tiny mouth, faint pink cheeks, standing by a puddle at sunrise and looking at her reflection, gentle blinking and subtle nose movement, dreamy picture book style, soft morning mist, warm golden dawn light, cinematic lighting, shallow depth of field, close-up, slow push-in, 4k, masterpiece, highly detailed, whimsical children's story aesthetic"
+    },
+    {
+      "description": "水洼旁飘来一封来自云朵邮局的信，米米伸出小手接住并打开。信上写着“请坐雨滴列车，给全城孩子送梦想！”，她眼睛一下子亮起来，耳朵微微竖起，准备出发。",
+      "shotType": "medium",
+      "cameraMovement": "轻微平移后定格",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Mimi, the same small white rabbit girl, age-8 childlike, petite and agile, curled long ears, fluffy tail, big shining almond eyes, pink nose, tiny mouth, pale pink cheeks, catching a floating letter from the Cloud Post Office beside a puddle, opening it and reading with excited expression, ears lifting in surprise, magical envelope hovering in morning air, soft pastel sky, whimsical fantasy environment, medium shot, gentle side pan then hold, cinematic lighting, 4k, masterpiece, storybook illustration feel, crisp character continuity"
+    },
+    {
+      "description": "米米“嗖”地跳上透明的雨滴列车。列车穿行在空中，车轮溅起水花，铃声像小雨点“叮咚叮咚”。镜头带出前方的云朵邮局，米米扶着车窗，神情兴奋又专注。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "米米"
+      ],
+      "duration": 6,
+      "videoPrompt": "Mimi, the same petite anthropomorphic white rabbit girl with slightly curled long ears and fluffy tail, jumping onto a transparent raindrop train, water-splash wheels spinning, tiny rain bells chiming, she holds the window frame with bright sparkling almond eyes and eager smile, flying through the sky toward a fluffy cloud post office, expansive fantasy city below, dynamic splash effects, wide shot, tracking shot, cinematic motion, luminous pastel clouds, volumetric light, 4k, masterpiece, magical realism, children's picture book style"
+    },
+    {
+      "description": "云朵邮局门前，邮差风伯伯把一大袋“梦”递给米米。袋口微微打开，露出会唱歌的种子、会飞的画笔、勇敢星星奖章。米米双手接过梦袋，认真地点头，正式开始送信任务。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米",
+        "风伯伯"
+      ],
+      "duration": 6,
+      "videoPrompt": "At the Cloud Post Office, Mimi, the same small white rabbit girl, 8-year-old childlike energy, petite frame, curled long ears, fluffy tail, big glossy almond eyes, pink nose and tiny mouth, receives a large bag of dreams from Uncle Wind, a kind elderly breeze postman made of soft swirling clouds and scarf-like wind trails, the bag slightly open showing singing seeds, flying paintbrushes, and a brave star medal, Mimi accepts it with both hands and nods seriously, medium shot, slow push-in, soft glowing cloud architecture, magical particles, cinematic lighting, 4k, masterpiece, highly detailed fantasy picture book look"
+    },
+    {
+      "description": "半路上突起乌云，狂风把梦袋吹开，梦想飘满天空。米米一点也不慌：她踮起脚，用微卷长耳朵接住星星梦，再用蓬松小尾巴一扫，收回画笔梦，同时大声说：“每个孩子都该有自己的梦！”",
+      "shotType": "wide",
+      "cameraMovement": "低角度仰拍并跟随动作",
+      "characters": [
+        "米米"
+      ],
+      "duration": 8,
+      "videoPrompt": "Mimi, the same petite white rabbit girl with childlike age 8 innocence, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, faint pink cheeks, in a windy sky under dark storm clouds as a dream bag bursts open and magical dreams fly everywhere, she stands on tiptoe, catches a glowing star-dream with her long ears, sweeps flying paintbrush dreams back with her fluffy tail, brave determined face, mouth open speaking, dramatic contrast between dark clouds and glowing dreams, wide shot, low-angle tracking, cinematic lighting, dynamic motion blur, 4k, masterpiece, inspirational fantasy scene"
+    },
+    {
+      "description": "夜晚的城市窗前，米米把梦想一个个轻轻送到孩子们的窗边。屋内的孩子们抱着梦甜甜睡去，整座城安静发光。最后米米停在月光里，抱着空空的梦袋微笑，明白小小的自己也能送出大大的希望。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢拉远",
+      "characters": [
+        "米米",
+        "孩子们"
+      ],
+      "duration": 7,
+      "videoPrompt": "Nighttime over a cozy city, Mimi, the same small anthropomorphic white rabbit girl with curled long ears, fluffy tail, big luminous almond eyes, pink nose and tiny mouth, gently delivering glowing dreams one by one to children's windows, inside the windows children smile and fall asleep peacefully, the whole city softly illuminated, Mimi floating in moonlight with an empty dream bag and a warm satisfied smile, hopeful emotional ending, wide shot, slow pull-back, moonlit cinematic lighting, dreamy blue and gold palette, 4k, masterpiece, poetic fantasy picture book style"
+    }
+  ]
+}
