@@ -1,0 +1,191 @@
+{
+  "topic": "看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本",
+  "script": "晚上，月亮躲进云里，小朋友豆豆抱着被子，小声说：“我怕黑，房间里是不是有怪兽呀？”这时，8岁的小白兔朵朵轻轻跳来。她小巧轻盈，长耳朵微微卷着，尾巴像小绒球，大杏眼亮晶晶，粉鼻子一动一动。\n\n朵朵眨眨眼，说：“别怕，我的耳朵会发光，我们一起去看看！”呼——她的长耳朵亮起暖暖的光，床底下是滚出来的小皮球，窗帘后面是摇摇晃晃的小外套，衣柜边“咚”一声，原来是小熊玩偶倒了。\n\n豆豆笑了：“原来黑夜没有怪兽呀！”朵朵把光轻轻放进豆豆手心：“勇气不是不害怕，是害怕时也愿意看看。”豆豆点点头，关灯前小声说：“晚安，黑夜。晚安，勇气。”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_01_c2d914c2.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_02_51ce461d.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_03_4e676639.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_04_5c55073b.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_05_906d6899.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_06_f39d9e82.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_07_442708f9.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_01_c2d914c2.png",
+      "text": "《看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本》",
+      "prompt": "儿童绘本封面，主题：看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_02_51ce461d.png",
+      "text": "夜晚的儿童房里，月亮被云遮住，房间昏暗安静。豆豆抱着被子缩在床上，小声说：“我怕黑，房间里是不是有怪兽呀？”镜头交代床、窗帘、衣柜和床底这些可能引发想象的角落，营造轻微紧张但温柔的亲子绘本氛围。",
+      "prompt": "A cozy children's bedroom at night, the moon hidden behind clouds, dim and gentle darkness, Doudou sitting on the bed hugging a blanket and whispering in fear, visible curtain, wardrobe, and under-bed shadows, warm storybook mood with slight suspense, cinematic composition, soft ambient shadows, 4k, masterpiece, cinematic lighting, animated picture book style, subtle camera push-in, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜晚的儿童房里，月亮被云遮住，房间昏暗安静。豆豆抱着被子缩在床上，小声说：“我怕黑，房间里是不是有怪兽呀？”镜头交代床、窗帘、衣柜和床底这些可能引发想象的角落，营造轻微紧张但温柔的亲子绘本氛围。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_03_4e676639.png",
+      "text": "朵朵轻轻跳进房间，停在床边，抬头看向豆豆。清楚表现她的固定形象：8岁左右童真感，小巧轻盈，长耳朵微微卷着，尾巴像小绒球，短毛柔软，大杏眼亮晶晶带高光，粉鼻子一动一动，面颊淡粉，小嘴微弯，神情温柔可靠。",
+      "prompt": "Duoduo, an 8-year-old childlike little white rabbit, petite and lightweight, slightly curled long ears, fluffy pom-pom tail, soft short fur, big sparkling almond eyes with highlights, tiny pink nose twitching, small mouth, light pink cheeks, gently hopping to the bedside and looking up at Doudou, tender and reassuring expression, cozy dark bedroom, cinematic storybook framing, 4k, masterpiece, cinematic lighting, soft rim light, side tracking shot\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "朵朵轻轻跳进房间，停在床边，抬头看向豆豆。清楚表现她的固定形象：8岁左右童真感，小巧轻盈，长耳朵微微卷着，尾巴像小绒球，短毛柔软，大杏眼亮晶晶带高光，粉鼻子一动一动，面颊淡粉，小嘴微弯，神情温柔可靠。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_04_5c55073b.png",
+      "text": "朵朵眨眨眼，轻声安慰豆豆：“别怕，我的耳朵会发光，我们一起去看看！”她微微抬起头，长耳朵开始亮起暖暖的光，豆豆惊讶又期待地看着她，房间里的黑暗被一点点驱散。",
+      "prompt": "Close-up of Duoduo, a petite childlike white rabbit about 8 years old, slightly curled long ears beginning to glow with warm golden light, fluffy tail visible behind, big almond eyes sparkling, pink nose twitching, soft short fur, light pink cheeks, speaking gently to comfort Doudou, Doudou watching with surprise and hope, darkness slowly softened by ear light, cinematic close-up, warm glow, 4k, masterpiece, cinematic lighting, emotional focus, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "朵朵眨眨眼，轻声安慰豆豆：“别怕，我的耳朵会发光，我们一起去看看！”她微微抬起头，长耳朵开始亮起暖暖的光，豆豆惊讶又期待地看着她，房间里的黑暗被一点点驱散。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_05_906d6899.png",
+      "text": "朵朵带着发光的耳朵先照向床底，暖光扫过后，一个小皮球慢慢滚了出来。豆豆从床边探头看，原本害怕的表情开始松开。动作明确，重点突出“黑暗里的未知其实是熟悉的小东西”。",
+      "prompt": "Duoduo, the small white rabbit with slightly curled glowing ears, shining warm light under the bed, a small toy ball rolling out from the darkness, Doudou leaning from the bed to look, fear turning into curiosity, soft golden illumination on floor and bed frame, low-angle tracking shot, family picture book style, 4k, masterpiece, cinematic lighting, detailed character consistency, gentle suspense resolved\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "朵朵带着发光的耳朵先照向床底，暖光扫过后，一个小皮球慢慢滚了出来。豆豆从床边探头看，原本害怕的表情开始松开。动作明确，重点突出“黑暗里的未知其实是熟悉的小东西”。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_06_f39d9e82.png",
+      "text": "朵朵继续查看窗帘后和衣柜边：窗帘后摇摇晃晃的是一件小外套，衣柜边“咚”一声，原来是小熊玩偶倒了。朵朵回头看豆豆，像在说“你看，没事的”，豆豆忍不住笑起来。",
+      "prompt": "Wide shot inside the bedroom, Duoduo the petite white rabbit with glowing curled ears investigating behind the curtain and beside the wardrobe, revealing a swaying little coat and a teddy bear that has fallen with a soft thump, Doudou smiling in relief, warm ear light transforming scary shadows into harmless objects, whimsical family-friendly storybook scene, 4k, masterpiece, cinematic lighting, smooth pan shot, clear staging, cozy nighttime atmosphere\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "朵朵继续查看窗帘后和衣柜边：窗帘后摇摇晃晃的是一件小外套，衣柜边“咚”一声，原来是小熊玩偶倒了。朵朵回头看豆豆，像在说“你看，没事的”，豆豆忍不住笑起来。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/generated/page_07_442708f9.png",
+      "text": "气氛彻底放松下来。豆豆笑着说：“原来黑夜没有怪兽呀！”朵朵把一团暖暖的光轻轻放进豆豆手心，说：“勇气不是不害怕，是害怕时也愿意看看。”最后豆豆点点头，关灯前小声说：“晚安，黑夜。晚安，勇气。”",
+      "prompt": "Tender close-up of Doudou and Duoduo at bedside, Duoduo the childlike petite white rabbit with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, small mouth and soft pink cheeks, gently placing a warm glowing light into Doudou's hands, Doudou smiling with newfound courage, bedtime emotional climax, soft golden glow against dark room, cinematic intimate framing, 4k, masterpiece, cinematic lighting, emotional storytelling, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "气氛彻底放松下来。豆豆笑着说：“原来黑夜没有怪兽呀！”朵朵把一团暖暖的光轻轻放进豆豆手心，说：“勇气不是不害怕，是害怕时也愿意看看。”最后豆豆点点头，关灯前小声说：“晚安，黑夜。晚安，勇气。”"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_0ff7ebbc-87b6-42da-896d-77259bcbf088/anchor/anchor_upload_426d1dcc.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "看了100遍都不腻｜8岁小白兔用会发光的长耳朵，帮怕黑的小朋友找回勇气的晚安绘本 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "夜晚的儿童房里，月亮被云遮住，房间昏暗安静。豆豆抱着被子缩在床上，小声说：“我怕黑，房间里是不是有怪兽呀？”镜头交代床、窗帘、衣柜和床底这些可能引发想象的角落，营造轻微紧张但温柔的亲子绘本氛围。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "豆豆"
+      ],
+      "duration": 5,
+      "videoPrompt": "A cozy children's bedroom at night, the moon hidden behind clouds, dim and gentle darkness, Doudou sitting on the bed hugging a blanket and whispering in fear, visible curtain, wardrobe, and under-bed shadows, warm storybook mood with slight suspense, cinematic composition, soft ambient shadows, 4k, masterpiece, cinematic lighting, animated picture book style, subtle camera push-in, shallow depth of field"
+    },
+    {
+      "description": "朵朵轻轻跳进房间，停在床边，抬头看向豆豆。清楚表现她的固定形象：8岁左右童真感，小巧轻盈，长耳朵微微卷着，尾巴像小绒球，短毛柔软，大杏眼亮晶晶带高光，粉鼻子一动一动，面颊淡粉，小嘴微弯，神情温柔可靠。",
+      "shotType": "medium",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "朵朵",
+        "豆豆"
+      ],
+      "duration": 4,
+      "videoPrompt": "Duoduo, an 8-year-old childlike little white rabbit, petite and lightweight, slightly curled long ears, fluffy pom-pom tail, soft short fur, big sparkling almond eyes with highlights, tiny pink nose twitching, small mouth, light pink cheeks, gently hopping to the bedside and looking up at Doudou, tender and reassuring expression, cozy dark bedroom, cinematic storybook framing, 4k, masterpiece, cinematic lighting, soft rim light, side tracking shot"
+    },
+    {
+      "description": "朵朵眨眨眼，轻声安慰豆豆：“别怕，我的耳朵会发光，我们一起去看看！”她微微抬起头，长耳朵开始亮起暖暖的光，豆豆惊讶又期待地看着她，房间里的黑暗被一点点驱散。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "朵朵",
+        "豆豆"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close-up of Duoduo, a petite childlike white rabbit about 8 years old, slightly curled long ears beginning to glow with warm golden light, fluffy tail visible behind, big almond eyes sparkling, pink nose twitching, soft short fur, light pink cheeks, speaking gently to comfort Doudou, Doudou watching with surprise and hope, darkness slowly softened by ear light, cinematic close-up, warm glow, 4k, masterpiece, cinematic lighting, emotional focus, shallow depth of field"
+    },
+    {
+      "description": "朵朵带着发光的耳朵先照向床底，暖光扫过后，一个小皮球慢慢滚了出来。豆豆从床边探头看，原本害怕的表情开始松开。动作明确，重点突出“黑暗里的未知其实是熟悉的小东西”。",
+      "shotType": "medium",
+      "cameraMovement": "低角度平移",
+      "characters": [
+        "朵朵",
+        "豆豆"
+      ],
+      "duration": 4,
+      "videoPrompt": "Duoduo, the small white rabbit with slightly curled glowing ears, shining warm light under the bed, a small toy ball rolling out from the darkness, Doudou leaning from the bed to look, fear turning into curiosity, soft golden illumination on floor and bed frame, low-angle tracking shot, family picture book style, 4k, masterpiece, cinematic lighting, detailed character consistency, gentle suspense resolved"
+    },
+    {
+      "description": "朵朵继续查看窗帘后和衣柜边：窗帘后摇摇晃晃的是一件小外套，衣柜边“咚”一声，原来是小熊玩偶倒了。朵朵回头看豆豆，像在说“你看，没事的”，豆豆忍不住笑起来。",
+      "shotType": "wide",
+      "cameraMovement": "平移扫视",
+      "characters": [
+        "朵朵",
+        "豆豆"
+      ],
+      "duration": 6,
+      "videoPrompt": "Wide shot inside the bedroom, Duoduo the petite white rabbit with glowing curled ears investigating behind the curtain and beside the wardrobe, revealing a swaying little coat and a teddy bear that has fallen with a soft thump, Doudou smiling in relief, warm ear light transforming scary shadows into harmless objects, whimsical family-friendly storybook scene, 4k, masterpiece, cinematic lighting, smooth pan shot, clear staging, cozy nighttime atmosphere"
+    },
+    {
+      "description": "气氛彻底放松下来。豆豆笑着说：“原来黑夜没有怪兽呀！”朵朵把一团暖暖的光轻轻放进豆豆手心，说：“勇气不是不害怕，是害怕时也愿意看看。”最后豆豆点点头，关灯前小声说：“晚安，黑夜。晚安，勇气。”",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢定格式推近",
+      "characters": [
+        "朵朵",
+        "豆豆"
+      ],
+      "duration": 6,
+      "videoPrompt": "Tender close-up of Doudou and Duoduo at bedside, Duoduo the childlike petite white rabbit with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, small mouth and soft pink cheeks, gently placing a warm glowing light into Doudou's hands, Doudou smiling with newfound courage, bedtime emotional climax, soft golden glow against dark room, cinematic intimate framing, 4k, masterpiece, cinematic lighting, emotional storytelling, shallow depth of field"
+    }
+  ]
+}
