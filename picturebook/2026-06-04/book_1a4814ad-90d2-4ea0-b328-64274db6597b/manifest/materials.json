@@ -1,0 +1,188 @@
+{
+  "topic": "别再催孩子收拾了！｜小巧轻盈、尾巴蓬松的小白兔把乱糟糟房间变成寻宝地图的习惯养成绘本",
+  "script": "小白兔团团今年8岁，个子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一蹦一跳。她有亮晶晶的大杏眼、粉粉的小鼻子和小嘴巴，脸颊总是淡淡粉粉的。\n\n这天，团团的房间乱糟糟：积木躺地上，绘本钻进被子里，袜子跑到椅子下。妈妈刚想催，团团忽然眨眨眼：“把房间变成寻宝地图吧！”\n\n她贴上小标签：积木城堡、绘本山洞、衣服小火车。每收好一样，就能找到一颗“星星宝石”。团团蹦来蹦去，小尾巴一晃一晃，不一会儿，地板空出来啦！\n\n最后，她在枕头边找到最大的一颗星星。原来，宝藏不是玩具，是“自己会收拾”的好习惯。妈妈笑着说：“以后不催啦，团团自己就是小小寻宝家！”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_01_f8551b88.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_02_11c0046b.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_03_23786fdb.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_04_af6c443c.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_05_9d6b2d42.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_06_5f981368.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_07_4d97f24d.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_01_f8551b88.png",
+      "text": "《别再催孩子收拾了！｜小巧轻盈、尾巴蓬松的小白兔把乱糟糟房间变成寻宝地图的习惯养成绘本》",
+      "prompt": "儿童绘本封面，主题：别再催孩子收拾了！｜小巧轻盈、尾巴蓬松的小白兔把乱糟糟房间变成寻宝地图的习惯养成绘本\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_02_11c0046b.png",
+      "text": "【镜头1】团团站在自己乱糟糟的房间中央，左右看看：地上散着积木，绘本半钻进被子里，袜子躲在椅子下。她是8岁左右的小白兔女孩，个子小巧轻盈，微卷长耳朵垂在两侧，蓬松小尾巴轻轻翘着，大杏眼亮晶晶，粉鼻小嘴，脸颊淡粉，带着童真又有点发愁的表情。",
+      "prompt": "Tuantuan, an 8-year-old anthropomorphic white rabbit girl, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes with catchlight, pink tiny nose and small mouth, soft pink cheeks, childlike innocence, standing in a messy bedroom full of blocks on the floor, picture books under the blanket, socks under a chair, warm cozy family room, pastel storybook style, cinematic composition, 4k, masterpiece, soft natural window light, gentle camera pan and slow dolly in, animated family film look\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头1】团团站在自己乱糟糟的房间中央，左右看看：地上散着积木，绘本半钻进被子里，袜子躲在椅子下。她是8岁左右的小白兔女孩，个子小巧轻盈，微卷长耳朵垂在两侧，蓬松小尾巴轻轻翘着，大杏眼亮晶晶，粉鼻小嘴，脸颊淡粉，带着童真又有点发愁的表情。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_03_23786fdb.png",
+      "text": "【镜头2】妈妈出现在门口，刚想开口催促。团团忽然抬头，眨眨亮晶晶的大眼睛，举起一根手指，灵机一动地说：“把房间变成寻宝地图吧！”妈妈停住动作，露出意外的神情。",
+      "prompt": "Inside a warm children's bedroom, Tuantuan, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, small mouth, and rosy cheeks, suddenly looks up with a clever smile and blinks, raising one finger as if she has an idea; mother rabbit stands at the doorway about to remind her, then pauses in surprise. Storybook animation, soft pastel palette, cinematic lighting, 4k, masterpiece, medium shot, slow push-in, expressive acting, family-friendly atmosphere\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头2】妈妈出现在门口，刚想开口催促。团团忽然抬头，眨眨亮晶晶的大眼睛，举起一根手指，灵机一动地说：“把房间变成寻宝地图吧！”妈妈停住动作，露出意外的神情。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_04_af6c443c.png",
+      "text": "【镜头3】团团开始动手做“寻宝地图”。她蹲在地上，把小标签一张张贴到不同区域：积木旁贴“积木城堡”，床边绘本处贴“绘本山洞”，衣服堆旁贴“衣服小火车”。她动作麻利，小尾巴随着身体一晃一晃。",
+      "prompt": "Tuantuan, the petite 8-year-old white rabbit girl with curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, and soft pink cheeks, crouches and places cute labels around her room: 'block castle', 'book cave', 'clothes train'. She moves quickly and playfully, tail swaying side to side. Cozy bedroom, handmade labels, imaginative treasure-map mood, pastel children’s illustration aesthetic, cinematic lighting, 4k, masterpiece, tracking side movement, crisp focus, lively family animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头3】团团开始动手做“寻宝地图”。她蹲在地上，把小标签一张张贴到不同区域：积木旁贴“积木城堡”，床边绘本处贴“绘本山洞”，衣服堆旁贴“衣服小火车”。她动作麻利，小尾巴随着身体一晃一晃。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_05_9d6b2d42.png",
+      "text": "【镜头4】团团进入“寻宝模式”，蹦蹦跳跳地把积木收进盒子，把绘本一本本放回书架，把衣服抱起来放好。每整理好一类物品，她就开心地举起一颗找到的“星星宝石”，眼睛闪闪发亮。",
+      "prompt": "Energetic clean-up montage: Tuantuan, the same small and light 8-year-old white rabbit girl with slightly curled long ears, fluffy bouncing tail, shining almond eyes, pink nose and mouth, rosy cheeks, hops around the room tidying blocks into a box, placing picture books onto a shelf, carrying clothes neatly away. After each task, she lifts a glowing star gem with delight. Dynamic playful motion, low-angle tracking, whimsical treasure-hunt feeling, cinematic lighting, 4k, masterpiece, animated family film, bright warm atmosphere\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头4】团团进入“寻宝模式”，蹦蹦跳跳地把积木收进盒子，把绘本一本本放回书架，把衣服抱起来放好。每整理好一类物品，她就开心地举起一颗找到的“星星宝石”，眼睛闪闪发亮。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_06_5f981368.png",
+      "text": "【镜头5】房间一下子整洁起来，地板空出来了。团团跪坐在床边，轻轻掀开枕头，在枕头旁发现最大的一颗星星。她双手捧起“宝石”，大杏眼里满是惊喜和自豪，长耳朵微微扬起。",
+      "prompt": "Clean cozy bedroom now tidy and open, Tuantuan, the same 8-year-old petite white rabbit girl with gently curled long ears, fluffy tail, sparkling almond eyes, pink tiny nose, small mouth, rosy cheeks, kneels by the bed and discovers the biggest glowing star gem beside the pillow. She holds it carefully with both hands, eyes full of wonder and pride. Close-up emotional reveal, soft magical glow, cinematic lighting, shallow depth of field, 4k, masterpiece, warm storybook animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头5】房间一下子整洁起来，地板空出来了。团团跪坐在床边，轻轻掀开枕头，在枕头旁发现最大的一颗星星。她双手捧起“宝石”，大杏眼里满是惊喜和自豪，长耳朵微微扬起。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/generated/page_07_4d97f24d.png",
+      "text": "【镜头6】妈妈走进整洁的房间，微笑看着团团。团团抱着最大星星站在床边，神气地挺起小身板。画面带出故事结论：宝藏不是玩具，是“自己会收拾”的好习惯。妈妈笑着说：“以后不催啦，团团自己就是小小寻宝家！”",
+      "prompt": "Final warm family moment in a neat bedroom: Tuantuan, the same childlike 8-year-old white rabbit girl, petite and light with slightly curled long ears, fluffy tail, bright almond eyes, pink nose, tiny mouth, and rosy cheeks, stands proudly holding the largest star gem. Mother rabbit smiles at her with approval. The mood conveys that the real treasure is the good habit of cleaning up by herself. Gentle ending shot, slow pull back, cinematic lighting, 4k, masterpiece, pastel storybook style, heartwarming family animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头6】妈妈走进整洁的房间，微笑看着团团。团团抱着最大星星站在床边，神气地挺起小身板。画面带出故事结论：宝藏不是玩具，是“自己会收拾”的好习惯。妈妈笑着说：“以后不催啦，团团自己就是小小寻宝家！”"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "别再催孩子收拾了！｜小巧轻盈、尾巴蓬松的小白兔把乱糟糟房间变成寻宝地图的习惯养成绘本",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_1a4814ad-90d2-4ea0-b328-64274db6597b/anchor/anchor_upload_b3226182.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "别再催孩子收拾了！｜小巧轻盈、尾巴蓬松的小白兔把乱糟糟房间变成寻宝地图的习惯养成绘本 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【镜头1】团团站在自己乱糟糟的房间中央，左右看看：地上散着积木，绘本半钻进被子里，袜子躲在椅子下。她是8岁左右的小白兔女孩，个子小巧轻盈，微卷长耳朵垂在两侧，蓬松小尾巴轻轻翘着，大杏眼亮晶晶，粉鼻小嘴，脸颊淡粉，带着童真又有点发愁的表情。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢横向平移后轻微推近",
+      "characters": [
+        "团团"
+      ],
+      "duration": 4,
+      "videoPrompt": "Tuantuan, an 8-year-old anthropomorphic white rabbit girl, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes with catchlight, pink tiny nose and small mouth, soft pink cheeks, childlike innocence, standing in a messy bedroom full of blocks on the floor, picture books under the blanket, socks under a chair, warm cozy family room, pastel storybook style, cinematic composition, 4k, masterpiece, soft natural window light, gentle camera pan and slow dolly in, animated family film look"
+    },
+    {
+      "description": "【镜头2】妈妈出现在门口，刚想开口催促。团团忽然抬头，眨眨亮晶晶的大眼睛，举起一根手指，灵机一动地说：“把房间变成寻宝地图吧！”妈妈停住动作，露出意外的神情。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近，定格在团团表情上",
+      "characters": [
+        "团团",
+        "妈妈"
+      ],
+      "duration": 4,
+      "videoPrompt": "Inside a warm children's bedroom, Tuantuan, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, small mouth, and rosy cheeks, suddenly looks up with a clever smile and blinks, raising one finger as if she has an idea; mother rabbit stands at the doorway about to remind her, then pauses in surprise. Storybook animation, soft pastel palette, cinematic lighting, 4k, masterpiece, medium shot, slow push-in, expressive acting, family-friendly atmosphere"
+    },
+    {
+      "description": "【镜头3】团团开始动手做“寻宝地图”。她蹲在地上，把小标签一张张贴到不同区域：积木旁贴“积木城堡”，床边绘本处贴“绘本山洞”，衣服堆旁贴“衣服小火车”。她动作麻利，小尾巴随着身体一晃一晃。",
+      "shotType": "medium",
+      "cameraMovement": "平移跟随团团贴标签的动作",
+      "characters": [
+        "团团"
+      ],
+      "duration": 5,
+      "videoPrompt": "Tuantuan, the petite 8-year-old white rabbit girl with curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, and soft pink cheeks, crouches and places cute labels around her room: 'block castle', 'book cave', 'clothes train'. She moves quickly and playfully, tail swaying side to side. Cozy bedroom, handmade labels, imaginative treasure-map mood, pastel children’s illustration aesthetic, cinematic lighting, 4k, masterpiece, tracking side movement, crisp focus, lively family animation"
+    },
+    {
+      "description": "【镜头4】团团进入“寻宝模式”，蹦蹦跳跳地把积木收进盒子，把绘本一本本放回书架，把衣服抱起来放好。每整理好一类物品，她就开心地举起一颗找到的“星星宝石”，眼睛闪闪发亮。",
+      "shotType": "wide",
+      "cameraMovement": "低角度跟随加轻快摇移",
+      "characters": [
+        "团团"
+      ],
+      "duration": 6,
+      "videoPrompt": "Energetic clean-up montage: Tuantuan, the same small and light 8-year-old white rabbit girl with slightly curled long ears, fluffy bouncing tail, shining almond eyes, pink nose and mouth, rosy cheeks, hops around the room tidying blocks into a box, placing picture books onto a shelf, carrying clothes neatly away. After each task, she lifts a glowing star gem with delight. Dynamic playful motion, low-angle tracking, whimsical treasure-hunt feeling, cinematic lighting, 4k, masterpiece, animated family film, bright warm atmosphere"
+    },
+    {
+      "description": "【镜头5】房间一下子整洁起来，地板空出来了。团团跪坐在床边，轻轻掀开枕头，在枕头旁发现最大的一颗星星。她双手捧起“宝石”，大杏眼里满是惊喜和自豪，长耳朵微微扬起。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近到星星和表情",
+      "characters": [
+        "团团"
+      ],
+      "duration": 4,
+      "videoPrompt": "Clean cozy bedroom now tidy and open, Tuantuan, the same 8-year-old petite white rabbit girl with gently curled long ears, fluffy tail, sparkling almond eyes, pink tiny nose, small mouth, rosy cheeks, kneels by the bed and discovers the biggest glowing star gem beside the pillow. She holds it carefully with both hands, eyes full of wonder and pride. Close-up emotional reveal, soft magical glow, cinematic lighting, shallow depth of field, 4k, masterpiece, warm storybook animation"
+    },
+    {
+      "description": "【镜头6】妈妈走进整洁的房间，微笑看着团团。团团抱着最大星星站在床边，神气地挺起小身板。画面带出故事结论：宝藏不是玩具，是“自己会收拾”的好习惯。妈妈笑着说：“以后不催啦，团团自己就是小小寻宝家！”",
+      "shotType": "medium",
+      "cameraMovement": "缓慢拉远收尾",
+      "characters": [
+        "团团",
+        "妈妈"
+      ],
+      "duration": 5,
+      "videoPrompt": "Final warm family moment in a neat bedroom: Tuantuan, the same childlike 8-year-old white rabbit girl, petite and light with slightly curled long ears, fluffy tail, bright almond eyes, pink nose, tiny mouth, and rosy cheeks, stands proudly holding the largest star gem. Mother rabbit smiles at her with approval. The mood conveys that the real treasure is the good habit of cleaning up by herself. Gentle ending shot, slow pull back, cinematic lighting, 4k, masterpiece, pastel storybook style, heartwarming family animation"
+    }
+  ]
+}
