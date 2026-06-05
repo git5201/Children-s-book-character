@@ -1,0 +1,190 @@
+{
+  "topic": "相见恨晚😭粉鼻小嘴的小白兔把第一枚胡萝卜金币花在哪儿，原来这就是孩子最好的财商课",
+  "script": "小白兔米米8岁啦。她小巧轻盈，长耳微卷，尾巴蓬松，眨着亮晶晶的大杏眼，抱着自己挣来的第一枚胡萝卜金币，粉鼻小嘴开心得一抖一抖。\n\n“买糖果？买蝴蝶结？”米米一路想，一路蹦。走到集市口，她看见山羊爷爷的菜摊倒了，胡萝卜滚了一地，顾客都走开了。\n\n米米停住了。她摸摸金币，小声说：“这是我第一枚呀……”可又看看着急的爷爷，她把金币递过去：“爷爷，我买一小包胡萝卜种子！”\n\n山羊爷爷愣住了：“你不买零食吗？”\n米米笑了：“种子会长大，能变成更多胡萝卜！”\n\n春天过去，种子发芽啦。米米帮爷爷浇水、拔草。到了收获日，地里冒出一大片橙橙的胡萝卜。爷爷送给米米一篮子，还分给她好多枚胡萝卜金币。\n\n米米抱着金币说：“原来，钱花在会长大的地方，最香甜！”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_01_af0984f6.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_02_9c954e6c.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_03_f4503fee.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_04_28303471.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_05_a0e2089d.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_06_be03824f.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_07_abbe3df4.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_01_af0984f6.png",
+      "text": "《相见恨晚😭粉鼻小嘴的小白兔把第一枚胡萝卜金币花在哪儿，原来这就是孩子最好的财商课》",
+      "prompt": "儿童绘本封面，主题：相见恨晚😭粉鼻小嘴的小白兔把第一枚胡萝卜金币花在哪儿，原来这就是孩子最好的财商课\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_02_9c954e6c.png",
+      "text": "【镜头1】集市外的小路上，8岁的小白兔米米蹦跳着出场。她小巧轻盈，长耳微卷，尾巴蓬松，大杏眼亮晶晶，面颊淡粉，粉鼻小嘴轻轻发抖。她双手抱着自己挣来的第一枚胡萝卜金币，边走边开心地想：“买糖果？买蝴蝶结？”画面突出她第一次拥有金币的兴奋与童真。",
+      "prompt": "An 8-year-old anthropomorphic white bunny girl named Mimi hopping along a market road, petite and lightweight body, slightly curled long ears, fluffy tail, big glossy almond eyes with catchlight, soft pink cheeks, pink nose and tiny mouth, holding her first carrot-shaped gold coin with both hands, joyful and innocent expression, spring daytime, warm pastel storybook world, medium shot, side tracking shot, cinematic lighting, shallow depth of field, 4k, masterpiece, animated picture book style, clean motion, childlike wonder\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头1】集市外的小路上，8岁的小白兔米米蹦跳着出场。她小巧轻盈，长耳微卷，尾巴蓬松，大杏眼亮晶晶，面颊淡粉，粉鼻小嘴轻轻发抖。她双手抱着自己挣来的第一枚胡萝卜金币，边走边开心地想：“买糖果？买蝴蝶结？”画面突出她第一次拥有金币的兴奋与童真。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_03_f4503fee.png",
+      "text": "【镜头2】米米来到集市口，突然看见山羊爷爷的菜摊倒了。胡萝卜滚了一地，摊布歪斜，顾客纷纷避开。米米立刻停住脚步，身体微微前倾，惊讶地睁大大杏眼，热闹的集市和凌乱的摊位形成对比。",
+      "prompt": "Wide storybook market entrance scene, 8-year-old white bunny girl Mimi stopping suddenly in foreground, petite body, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose and tiny mouth, soft pink cheeks; she sees an elderly goat vendor with a collapsed vegetable stall, carrots rolling everywhere, customers stepping away, lively market background, spring daylight, slow dolly in, cinematic composition, 4k, masterpiece, whimsical children's picture book animation, warm natural lighting, clear emotional contrast\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头2】米米来到集市口，突然看见山羊爷爷的菜摊倒了。胡萝卜滚了一地，摊布歪斜，顾客纷纷避开。米米立刻停住脚步，身体微微前倾，惊讶地睁大大杏眼，热闹的集市和凌乱的摊位形成对比。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_04_28303471.png",
+      "text": "【镜头3】米米低头看看手里的胡萝卜金币，又看看着急收拾的山羊爷爷。她用小手摸了摸金币，小声说：“这是我第一枚呀……”粉鼻小嘴轻轻抿住，眼神里有不舍，也有认真思考，表现她内心的小小挣扎。",
+      "prompt": "Close-up of Mimi the 8-year-old anthropomorphic white bunny girl, petite, slightly curled long ears framing the face, fluffy tail barely visible, big almond eyes with bright highlights, pink nose, tiny mouth, soft pink cheeks, looking down at a carrot gold coin in her paw, touching it gently with hesitation, then glancing offscreen toward the worried goat vendor, emotional inner conflict, soft spring light, subtle camera tilt down and hold, cinematic close-up, 4k, masterpiece, expressive facial animation, storybook style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头3】米米低头看看手里的胡萝卜金币，又看看着急收拾的山羊爷爷。她用小手摸了摸金币，小声说：“这是我第一枚呀……”粉鼻小嘴轻轻抿住，眼神里有不舍，也有认真思考，表现她内心的小小挣扎。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_05_a0e2089d.png",
+      "text": "【镜头4】米米抬起头，走到山羊爷爷面前，把金币递过去，认真地说：“爷爷，我买一小包胡萝卜种子！”山羊爷爷愣住，问：“你不买零食吗？”米米露出明亮笑容回答：“种子会长大，能变成更多胡萝卜！”动作简洁明确，突出善良与智慧。",
+      "prompt": "Medium two-shot in a market stall scene, Mimi the 8-year-old white bunny girl, petite and light, slightly curled long ears, fluffy tail, big shining almond eyes, pink nose and tiny mouth, soft pink cheeks, extending her carrot gold coin toward an elderly goat vendor; the goat looks surprised while holding a small bag of carrot seeds. Mimi smiles brightly as if saying seeds will grow into more carrots. Warm spring daylight, gentle emotional focus, slow push-in, cinematic lighting, 4k, masterpiece, children's picture book aesthetic, clear hand gesture, expressive faces\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头4】米米抬起头，走到山羊爷爷面前，把金币递过去，认真地说：“爷爷，我买一小包胡萝卜种子！”山羊爷爷愣住，问：“你不买零食吗？”米米露出明亮笑容回答：“种子会长大，能变成更多胡萝卜！”动作简洁明确，突出善良与智慧。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_06_be03824f.png",
+      "text": "【镜头5】时间流转到春天之后。田地里，胡萝卜种子发芽成长。米米在地里帮山羊爷爷浇水、拔草，动作利落认真。随后画面过渡到收获日，一大片橙橙的胡萝卜从地里冒出来，山羊爷爷开心地把一篮胡萝卜和好多枚胡萝卜金币送给米米。",
+      "prompt": "Wide farm field montage, Mimi the 8-year-old anthropomorphic white bunny girl consistently designed with petite body, slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose and tiny mouth, soft pink cheeks, helping an elderly goat farmer water sprouts and pull weeds in spring; transition to harvest day with a huge patch of bright orange carrots, the goat gifting Mimi a basket of carrots and many carrot gold coins, cheerful rural setting, lateral tracking shot with montage feel, golden daylight, cinematic lighting, 4k, masterpiece, vibrant storybook animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头5】时间流转到春天之后。田地里，胡萝卜种子发芽成长。米米在地里帮山羊爷爷浇水、拔草，动作利落认真。随后画面过渡到收获日，一大片橙橙的胡萝卜从地里冒出来，山羊爷爷开心地把一篮胡萝卜和好多枚胡萝卜金币送给米米。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/generated/page_07_abbe3df4.png",
+      "text": "【镜头6】收获后的田边，米米抱着一篮胡萝卜和好多枚胡萝卜金币，低头闻着胡萝卜，笑得眼睛弯弯，粉鼻小嘴开心得一抖一抖。她抬头说：“原来，钱花在会长大的地方，最香甜！”画面温暖收束，突出成长感与回味。",
+      "prompt": "Close-up ending shot of Mimi, an 8-year-old white bunny girl, petite and lightweight, slightly curled long ears, fluffy tail, big highlighted almond eyes, pink nose and tiny mouth trembling with joy, soft pink cheeks, hugging a basket of carrots and several carrot gold coins, smelling the carrots and smiling warmly as if speaking about money spent on things that grow, sunset glow in the field, warm emotional finish, slow push-in, cinematic lighting, 4k, masterpiece, heartwarming children's picture book style, crisp facial detail\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "【镜头6】收获后的田边，米米抱着一篮胡萝卜和好多枚胡萝卜金币，低头闻着胡萝卜，笑得眼睛弯弯，粉鼻小嘴开心得一抖一抖。她抬头说：“原来，钱花在会长大的地方，最香甜！”画面温暖收束，突出成长感与回味。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "相见恨晚😭粉鼻小嘴的小白兔把第一枚胡萝卜金币花在哪儿，原来这就是孩子最好的财商课",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_64516112-3134-49c9-9df8-a070a362d3b3/anchor/anchor_upload_3736c6d8.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "相见恨晚😭粉鼻小嘴的小白兔把第一枚胡萝卜金币花在哪儿，原来这就是孩子最好的财商课 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "【镜头1】集市外的小路上，8岁的小白兔米米蹦跳着出场。她小巧轻盈，长耳微卷，尾巴蓬松，大杏眼亮晶晶，面颊淡粉，粉鼻小嘴轻轻发抖。她双手抱着自己挣来的第一枚胡萝卜金币，边走边开心地想：“买糖果？买蝴蝶结？”画面突出她第一次拥有金币的兴奋与童真。",
+      "shotType": "medium",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "米米"
+      ],
+      "duration": 6,
+      "videoPrompt": "An 8-year-old anthropomorphic white bunny girl named Mimi hopping along a market road, petite and lightweight body, slightly curled long ears, fluffy tail, big glossy almond eyes with catchlight, soft pink cheeks, pink nose and tiny mouth, holding her first carrot-shaped gold coin with both hands, joyful and innocent expression, spring daytime, warm pastel storybook world, medium shot, side tracking shot, cinematic lighting, shallow depth of field, 4k, masterpiece, animated picture book style, clean motion, childlike wonder"
+    },
+    {
+      "description": "【镜头2】米米来到集市口，突然看见山羊爷爷的菜摊倒了。胡萝卜滚了一地，摊布歪斜，顾客纷纷避开。米米立刻停住脚步，身体微微前倾，惊讶地睁大大杏眼，热闹的集市和凌乱的摊位形成对比。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米",
+        "山羊爷爷",
+        "顾客"
+      ],
+      "duration": 6,
+      "videoPrompt": "Wide storybook market entrance scene, 8-year-old white bunny girl Mimi stopping suddenly in foreground, petite body, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose and tiny mouth, soft pink cheeks; she sees an elderly goat vendor with a collapsed vegetable stall, carrots rolling everywhere, customers stepping away, lively market background, spring daylight, slow dolly in, cinematic composition, 4k, masterpiece, whimsical children's picture book animation, warm natural lighting, clear emotional contrast"
+    },
+    {
+      "description": "【镜头3】米米低头看看手里的胡萝卜金币，又看看着急收拾的山羊爷爷。她用小手摸了摸金币，小声说：“这是我第一枚呀……”粉鼻小嘴轻轻抿住，眼神里有不舍，也有认真思考，表现她内心的小小挣扎。",
+      "shotType": "closeup",
+      "cameraMovement": "轻微下摇后定格",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close-up of Mimi the 8-year-old anthropomorphic white bunny girl, petite, slightly curled long ears framing the face, fluffy tail barely visible, big almond eyes with bright highlights, pink nose, tiny mouth, soft pink cheeks, looking down at a carrot gold coin in her paw, touching it gently with hesitation, then glancing offscreen toward the worried goat vendor, emotional inner conflict, soft spring light, subtle camera tilt down and hold, cinematic close-up, 4k, masterpiece, expressive facial animation, storybook style"
+    },
+    {
+      "description": "【镜头4】米米抬起头，走到山羊爷爷面前，把金币递过去，认真地说：“爷爷，我买一小包胡萝卜种子！”山羊爷爷愣住，问：“你不买零食吗？”米米露出明亮笑容回答：“种子会长大，能变成更多胡萝卜！”动作简洁明确，突出善良与智慧。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米",
+        "山羊爷爷"
+      ],
+      "duration": 8,
+      "videoPrompt": "Medium two-shot in a market stall scene, Mimi the 8-year-old white bunny girl, petite and light, slightly curled long ears, fluffy tail, big shining almond eyes, pink nose and tiny mouth, soft pink cheeks, extending her carrot gold coin toward an elderly goat vendor; the goat looks surprised while holding a small bag of carrot seeds. Mimi smiles brightly as if saying seeds will grow into more carrots. Warm spring daylight, gentle emotional focus, slow push-in, cinematic lighting, 4k, masterpiece, children's picture book aesthetic, clear hand gesture, expressive faces"
+    },
+    {
+      "description": "【镜头5】时间流转到春天之后。田地里，胡萝卜种子发芽成长。米米在地里帮山羊爷爷浇水、拔草，动作利落认真。随后画面过渡到收获日，一大片橙橙的胡萝卜从地里冒出来，山羊爷爷开心地把一篮胡萝卜和好多枚胡萝卜金币送给米米。",
+      "shotType": "wide",
+      "cameraMovement": "横向平移并带轻微时间蒙太奇转场",
+      "characters": [
+        "米米",
+        "山羊爷爷"
+      ],
+      "duration": 8,
+      "videoPrompt": "Wide farm field montage, Mimi the 8-year-old anthropomorphic white bunny girl consistently designed with petite body, slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose and tiny mouth, soft pink cheeks, helping an elderly goat farmer water sprouts and pull weeds in spring; transition to harvest day with a huge patch of bright orange carrots, the goat gifting Mimi a basket of carrots and many carrot gold coins, cheerful rural setting, lateral tracking shot with montage feel, golden daylight, cinematic lighting, 4k, masterpiece, vibrant storybook animation"
+    },
+    {
+      "description": "【镜头6】收获后的田边，米米抱着一篮胡萝卜和好多枚胡萝卜金币，低头闻着胡萝卜，笑得眼睛弯弯，粉鼻小嘴开心得一抖一抖。她抬头说：“原来，钱花在会长大的地方，最香甜！”画面温暖收束，突出成长感与回味。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "米米"
+      ],
+      "duration": 6,
+      "videoPrompt": "Close-up ending shot of Mimi, an 8-year-old white bunny girl, petite and lightweight, slightly curled long ears, fluffy tail, big highlighted almond eyes, pink nose and tiny mouth trembling with joy, soft pink cheeks, hugging a basket of carrots and several carrot gold coins, smelling the carrots and smiling warmly as if speaking about money spent on things that grow, sunset glow in the field, warm emotional finish, slow push-in, cinematic lighting, 4k, masterpiece, heartwarming children's picture book style, crisp facial detail"
+    }
+  ]
+}
