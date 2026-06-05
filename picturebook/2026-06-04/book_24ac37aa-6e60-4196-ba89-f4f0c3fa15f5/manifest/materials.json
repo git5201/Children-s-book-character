@@ -1,0 +1,186 @@
+{
+  "topic": "读到停不下来🤩小巧轻盈、长耳微卷的小白兔挑战21天早睡计划，孩子看完竟主动关灯",
+  "script": "小白兔糯糯8岁啦，个子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴像棉花球。她有一双亮晶晶的大杏眼，粉鼻子、小嘴巴，淡粉的脸蛋总是笑眯眯的。\n\n可是，糯糯最近总爱晚睡。晚上她一会儿搭积木，一会儿数星星，第二天就直打哈欠。\n\n“我要挑战21天早睡计划！”糯糯拍拍胸口。第一天，她刷完牙就关小灯；第五天，她听完故事就钻进被窝；第十天，她忍住不玩玩具，还对月亮说：“晚安！”\n\n到了第十五天，糯糯差点想偷偷爬起来，可她摸摸卷卷耳朵，小声说：“坚持一下，明天会更有精神。”\n\n第21天早晨，糯糯一下子跳下床，跑得像风一样快，画画、唱歌、玩游戏都更有劲了。\n\n她开心地甩甩小尾巴：“原来早睡真的有魔法呀！”从那天起，每到晚上，糯糯都会主动关灯，说一声：“晚安，做个甜甜的梦！”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_01_2ef81976.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_02_2c7b0706.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_03_37686d12.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_04_31e35746.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_05_9a54926a.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_06_aef1bf18.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_07_1ac304ad.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_01_2ef81976.png",
+      "text": "《读到停不下来🤩小巧轻盈、长耳微卷的小白兔挑战21天早睡计划，孩子看完竟主动关灯》",
+      "prompt": "儿童绘本封面，主题：读到停不下来🤩小巧轻盈、长耳微卷的小白兔挑战21天早睡计划，孩子看完竟主动关灯\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_02_2c7b0706.png",
+      "text": "温馨儿童房内，8岁的小白兔糯糯坐在床边回头看向镜头，露出笑眯眯的表情。她个子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴像棉花球，大杏眼亮晶晶，粉鼻子、小嘴巴，淡粉脸蛋十分可爱。镜头先建立她的外形与童真气质。",
+      "prompt": "An 8-year-old cute bunny girl Nuonuo in a cozy children's bedroom, petite and light body, slightly curled long ears, fluffy cotton-ball tail, sparkling big almond eyes with catchlight, pink nose, tiny mouth, soft light pink cheeks, smiling sweetly at camera, childlike innocence, pastel storybook style, warm bedside lamp, soft textures, medium shot, slow push-in, 4k, cinematic lighting, masterpiece, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "温馨儿童房内，8岁的小白兔糯糯坐在床边回头看向镜头，露出笑眯眯的表情。她个子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴像棉花球，大杏眼亮晶晶，粉鼻子、小嘴巴，淡粉脸蛋十分可爱。镜头先建立她的外形与童真气质。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_03_37686d12.png",
+      "text": "夜晚，糯糯一会儿蹲在地毯上搭积木，一会儿趴在窗边数星星；画面切到第二天早晨，她困得直打哈欠，眼皮发沉。通过简洁对比表现她总爱晚睡的状态。",
+      "prompt": "Wide shot of Nuonuo, an 8-year-old bunny girl, petite, slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose and small mouth, first building blocks on a bedroom rug at night, then leaning by the window counting stars, then a morning cut where she yawns sleepily with droopy eyelids, cozy moonlight mixed with dim lamp light, playful but tired mood, gentle pan follow, 4k, cinematic lighting, storybook animation, masterpiece\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜晚，糯糯一会儿蹲在地毯上搭积木，一会儿趴在窗边数星星；画面切到第二天早晨，她困得直打哈欠，眼皮发沉。通过简洁对比表现她总爱晚睡的状态。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_04_31e35746.png",
+      "text": "糯糯站在床上拍拍胸口，认真宣布：“我要挑战21天早睡计划！”随后用连续动作表现前几天的进步：第一天刷完牙就关小灯；第五天听完故事后，立刻钻进被窝，只露出卷卷耳朵。",
+      "prompt": "Medium shot sequence of Nuonuo, a petite 8-year-old bunny girl with curled long ears, fluffy tail, bright almond eyes, pink nose, tiny mouth, soft pink cheeks, standing on bed and patting her chest with determination, saying she will start a 21-day early sleep challenge, then brushing teeth, turning off a small lamp on day one, and on day five slipping under the blanket after story time with only her curled ears visible, warm bedtime atmosphere, slow lateral move, 4k, cinematic lighting, masterpiece, family picture book style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "糯糯站在床上拍拍胸口，认真宣布：“我要挑战21天早睡计划！”随后用连续动作表现前几天的进步：第一天刷完牙就关小灯；第五天听完故事后，立刻钻进被窝，只露出卷卷耳朵。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_05_9a54926a.png",
+      "text": "第十天夜里，糯糯看着玩具却忍住不玩，走到窗前对月亮轻声说：“晚安！”到了第十五天，她差点偷偷爬起来，但又停住，摸摸自己卷卷耳朵，小声鼓励：“坚持一下，明天会更有精神。”",
+      "prompt": "Nuonuo, the 8-year-old bunny girl, petite and light, curled long ears, fluffy tail, glittering almond eyes, pink nose, small mouth, pink cheeks, stands near her toys at night but resists touching them, then walks to the window and softly says good night to the moon, later on day fifteen she almost sneaks out of bed, pauses, touches her curled ear and encourages herself quietly, moonlight, gentle emotional bedtime mood, medium shot, slow push-in, 4k, cinematic lighting, masterpiece, soft focus\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "第十天夜里，糯糯看着玩具却忍住不玩，走到窗前对月亮轻声说：“晚安！”到了第十五天，她差点偷偷爬起来，但又停住，摸摸自己卷卷耳朵，小声鼓励：“坚持一下，明天会更有精神。”"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_06_aef1bf18.png",
+      "text": "第21天早晨，阳光洒进房间，糯糯一下子跳下床，轻快地冲出画面。接着用连续动作表现她活力满满：画画时手臂有劲，唱歌时笑得灿烂，玩游戏时跑得像风一样快。",
+      "prompt": "Bright morning sunlight fills the room as Nuonuo, an 8-year-old petite bunny girl with slightly curled long ears, fluffy cotton tail, shining almond eyes, pink nose, tiny mouth, rosy cheeks, jumps out of bed energetically, then runs, draws, sings, and plays with strong lively movement, joyful success after healthy sleep, wide shot, low-angle start then follow movement, vibrant warm daylight, 4k, cinematic lighting, masterpiece, dynamic child-friendly animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "第21天早晨，阳光洒进房间，糯糯一下子跳下床，轻快地冲出画面。接着用连续动作表现她活力满满：画画时手臂有劲，唱歌时笑得灿烂，玩游戏时跑得像风一样快。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/generated/page_07_1ac304ad.png",
+      "text": "夜晚再次来到，糯糯开心地甩甩小尾巴，说：“原来早睡真的有魔法呀！”她主动走到床边关灯，房间变得安静柔和。最后她钻进被窝，轻声说：“晚安，做个甜甜的梦！”",
+      "prompt": "Close-up bedtime ending with Nuonuo, an 8-year-old bunny girl, petite, curled long ears, fluffy tail wagging happily, sparkling almond eyes, pink nose, tiny mouth, pale pink cheeks, smiling and saying early sleep is magic, then reaching to switch off the light, slipping under the blanket and whispering good night, calm cozy night mood, soft warm-to-dark transition, slow move in and hold, 4k, cinematic lighting, masterpiece, intimate family storybook style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "夜晚再次来到，糯糯开心地甩甩小尾巴，说：“原来早睡真的有魔法呀！”她主动走到床边关灯，房间变得安静柔和。最后她钻进被窝，轻声说：“晚安，做个甜甜的梦！”"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "读到停不下来🤩小巧轻盈、长耳微卷的小白兔挑战21天早睡计划，孩子看完竟主动关灯",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_24ac37aa-6e60-4196-ba89-f4f0c3fa15f5/anchor/anchor_upload_678064ca.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "读到停不下来🤩小巧轻盈、长耳微卷的小白兔挑战21天早睡计划，孩子看完竟主动关灯 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "温馨儿童房内，8岁的小白兔糯糯坐在床边回头看向镜头，露出笑眯眯的表情。她个子小巧轻盈，长耳朵微微卷着，蓬松的小尾巴像棉花球，大杏眼亮晶晶，粉鼻子、小嘴巴，淡粉脸蛋十分可爱。镜头先建立她的外形与童真气质。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "糯糯"
+      ],
+      "duration": 5,
+      "videoPrompt": "An 8-year-old cute bunny girl Nuonuo in a cozy children's bedroom, petite and light body, slightly curled long ears, fluffy cotton-ball tail, sparkling big almond eyes with catchlight, pink nose, tiny mouth, soft light pink cheeks, smiling sweetly at camera, childlike innocence, pastel storybook style, warm bedside lamp, soft textures, medium shot, slow push-in, 4k, cinematic lighting, masterpiece, shallow depth of field"
+    },
+    {
+      "description": "夜晚，糯糯一会儿蹲在地毯上搭积木，一会儿趴在窗边数星星；画面切到第二天早晨，她困得直打哈欠，眼皮发沉。通过简洁对比表现她总爱晚睡的状态。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随+轻微切换构图",
+      "characters": [
+        "糯糯"
+      ],
+      "duration": 7,
+      "videoPrompt": "Wide shot of Nuonuo, an 8-year-old bunny girl, petite, slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose and small mouth, first building blocks on a bedroom rug at night, then leaning by the window counting stars, then a morning cut where she yawns sleepily with droopy eyelids, cozy moonlight mixed with dim lamp light, playful but tired mood, gentle pan follow, 4k, cinematic lighting, storybook animation, masterpiece"
+    },
+    {
+      "description": "糯糯站在床上拍拍胸口，认真宣布：“我要挑战21天早睡计划！”随后用连续动作表现前几天的进步：第一天刷完牙就关小灯；第五天听完故事后，立刻钻进被窝，只露出卷卷耳朵。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢横移",
+      "characters": [
+        "糯糯"
+      ],
+      "duration": 7,
+      "videoPrompt": "Medium shot sequence of Nuonuo, a petite 8-year-old bunny girl with curled long ears, fluffy tail, bright almond eyes, pink nose, tiny mouth, soft pink cheeks, standing on bed and patting her chest with determination, saying she will start a 21-day early sleep challenge, then brushing teeth, turning off a small lamp on day one, and on day five slipping under the blanket after story time with only her curled ears visible, warm bedtime atmosphere, slow lateral move, 4k, cinematic lighting, masterpiece, family picture book style"
+    },
+    {
+      "description": "第十天夜里，糯糯看着玩具却忍住不玩，走到窗前对月亮轻声说：“晚安！”到了第十五天，她差点偷偷爬起来，但又停住，摸摸自己卷卷耳朵，小声鼓励：“坚持一下，明天会更有精神。”",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "糯糯"
+      ],
+      "duration": 8,
+      "videoPrompt": "Nuonuo, the 8-year-old bunny girl, petite and light, curled long ears, fluffy tail, glittering almond eyes, pink nose, small mouth, pink cheeks, stands near her toys at night but resists touching them, then walks to the window and softly says good night to the moon, later on day fifteen she almost sneaks out of bed, pauses, touches her curled ear and encourages herself quietly, moonlight, gentle emotional bedtime mood, medium shot, slow push-in, 4k, cinematic lighting, masterpiece, soft focus"
+    },
+    {
+      "description": "第21天早晨，阳光洒进房间，糯糯一下子跳下床，轻快地冲出画面。接着用连续动作表现她活力满满：画画时手臂有劲，唱歌时笑得灿烂，玩游戏时跑得像风一样快。",
+      "shotType": "wide",
+      "cameraMovement": "低角度仰拍后跟随移动",
+      "characters": [
+        "糯糯"
+      ],
+      "duration": 7,
+      "videoPrompt": "Bright morning sunlight fills the room as Nuonuo, an 8-year-old petite bunny girl with slightly curled long ears, fluffy cotton tail, shining almond eyes, pink nose, tiny mouth, rosy cheeks, jumps out of bed energetically, then runs, draws, sings, and plays with strong lively movement, joyful success after healthy sleep, wide shot, low-angle start then follow movement, vibrant warm daylight, 4k, cinematic lighting, masterpiece, dynamic child-friendly animation"
+    },
+    {
+      "description": "夜晚再次来到，糯糯开心地甩甩小尾巴，说：“原来早睡真的有魔法呀！”她主动走到床边关灯，房间变得安静柔和。最后她钻进被窝，轻声说：“晚安，做个甜甜的梦！”",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢拉近后静止",
+      "characters": [
+        "糯糯"
+      ],
+      "duration": 6,
+      "videoPrompt": "Close-up bedtime ending with Nuonuo, an 8-year-old bunny girl, petite, curled long ears, fluffy tail wagging happily, sparkling almond eyes, pink nose, tiny mouth, pale pink cheeks, smiling and saying early sleep is magic, then reaching to switch off the light, slipping under the blanket and whispering good night, calm cozy night mood, soft warm-to-dark transition, slow move in and hold, 4k, cinematic lighting, masterpiece, intimate family storybook style"
+    }
+  ]
+}
