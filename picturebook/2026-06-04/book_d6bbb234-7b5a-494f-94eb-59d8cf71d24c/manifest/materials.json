@@ -1,0 +1,193 @@
+{
+  "topic": "爆哭推荐｜8岁小白兔总说“我不要”之后，才发现勇敢表达不愿意也没关系",
+  "script": "8岁的小白兔米米，小巧轻盈，长耳朵微微卷着，尾巴像小云团。她有一双亮晶晶的大杏眼，粉鼻子、小小嘴，脸颊总是淡淡粉粉的。\n\n这天，大家邀米米去玩“高高跳树桩”。米米一听，耳朵一下垂下来，小声说：“我不要……”大家都愣住了。\n\n原来，米米以前摔过一跤，一看到高树桩，心里就咚咚跳。小鹿说：“不想玩，也可以告诉我们呀。”米米鼓起勇气，大声说：“我现在害怕，不想跳高的，我想先看一看！”\n\n大家没有笑她，还一起把游戏改成了“矮矮跳石头”。米米先试小石头，再试大石头，最后开心得尾巴一抖一抖。\n\n米米明白了：勇敢，不是硬着头皮去做；敢把“我不想”“我害怕”说出来，也很了不起。",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_01_eb0983ef.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_02_15f294dd.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_03_c3601edd.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_04_8a03b952.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_05_408b55a6.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_06_1171ed85.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_07_6a905b81.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_01_eb0983ef.png",
+      "text": "《爆哭推荐｜8岁小白兔总说“我不要”之后，才发现勇敢表达不愿意也没关系》",
+      "prompt": "儿童绘本封面，主题：爆哭推荐｜8岁小白兔总说“我不要”之后，才发现勇敢表达不愿意也没关系\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_02_15f294dd.png",
+      "text": "林间空地，阳光暖暖地洒下来。8岁的小白兔米米站在前景，身形小巧轻盈，长耳朵微微卷着，尾巴像小云团，亮晶晶的大杏眼、粉鼻子、小小嘴，脸颊淡淡粉粉。后方的小伙伴们围在树桩边，开心地招呼她一起玩“高高跳树桩”。",
+      "prompt": "An 8-year-old little white rabbit girl named Mimi, petite and light, slightly curled long ears, fluffy cloud-like tail, big sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, childlike proportions, standing in a sunny forest clearing while animal friends invite her to play jumping on tall tree stumps, warm cheerful atmosphere, gentle forest light, storybook style, cinematic composition, 4k, masterpiece, soft depth of field, wide shot, smooth pan and slow dolly in\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "林间空地，阳光暖暖地洒下来。8岁的小白兔米米站在前景，身形小巧轻盈，长耳朵微微卷着，尾巴像小云团，亮晶晶的大杏眼、粉鼻子、小小嘴，脸颊淡淡粉粉。后方的小伙伴们围在树桩边，开心地招呼她一起玩“高高跳树桩”。"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_03_c3601edd.png",
+      "text": "米米一听到“高高跳树桩”，耳朵一下垂下来，双手轻轻缩在胸前，眼神发怯，小声说：“我不要……”周围的小伙伴都愣住，动作停下来，看向她。",
+      "prompt": "Mimi, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, pale pink cheeks, reacts fearfully when hearing about jumping tall stumps, ears droop, hands drawn to chest, shy expression, softly says no, friends freeze in surprise around her, emotional children’s picture book scene, cinematic lighting, 4k, masterpiece, medium shot, slow push in, expressive character acting\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "米米一听到“高高跳树桩”，耳朵一下垂下来，双手轻轻缩在胸前，眼神发怯，小声说：“我不要……”周围的小伙伴都愣住，动作停下来，看向她。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_04_8a03b952.png",
+      "text": "镜头切到米米看着高树桩的反应：前景是高高的树桩，后景中的米米微微后退，杏眼睁大，脸上紧张，仿佛想起曾经摔倒的经历，心里咚咚跳。",
+      "prompt": "Close emotional shot of Mimi, the same 8-year-old little white rabbit girl, petite body, slightly curled long ears, fluffy cloud-like tail, large glossy almond eyes, pink nose, tiny mouth, blush cheeks, staring at a tall tree stump with fear, stepping back slightly as if recalling a past fall, heartbeat tension, low-angle view of the stump then rack focus to her frightened face, soft dramatic forest light, cinematic lighting, 4k, masterpiece, closeup, shallow depth of field\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "镜头切到米米看着高树桩的反应：前景是高高的树桩，后景中的米米微微后退，杏眼睁大，脸上紧张，仿佛想起曾经摔倒的经历，心里咚咚跳。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_05_408b55a6.png",
+      "text": "小鹿温柔地站在米米身边说：“不想玩，也可以告诉我们呀。”米米抬起头，鼓起勇气，站直一点，大声说：“我现在害怕，不想跳高的，我想先看一看！”",
+      "prompt": "Mimi, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, pink cheeks, stands beside a gentle young deer friend in the forest. The deer kindly tells her it is okay to say she does not want to play. Mimi lifts her head, gathers courage, straightens her posture, and clearly says she is scared and wants to watch first. Warm supportive mood, children’s storybook aesthetic, cinematic lighting, 4k, masterpiece, medium shot, subtle dolly in, natural facial animation\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小鹿温柔地站在米米身边说：“不想玩，也可以告诉我们呀。”米米抬起头，鼓起勇气，站直一点，大声说：“我现在害怕，不想跳高的，我想先看一看！”"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_06_1171ed85.png",
+      "text": "大家没有笑米米，反而把游戏改成了“矮矮跳石头”。米米先站在一块很小的石头前，小心地试着跳过去，落地稳稳的；旁边的小伙伴们微笑鼓励。",
+      "prompt": "Mimi, the same 8-year-old little white rabbit girl, petite and light, slightly curled long ears, fluffy tail, big shining almond eyes, pink nose, tiny mouth, rosy cheeks, now plays a gentler game of jumping over low stones with supportive animal friends smiling nearby. She carefully tries a small stone first and lands steadily. Positive encouraging atmosphere, bright forest clearing, cinematic lighting, 4k, masterpiece, wide shot, smooth tracking pan, lively children’s illustration style\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "大家没有笑米米，反而把游戏改成了“矮矮跳石头”。米米先站在一块很小的石头前，小心地试着跳过去，落地稳稳的；旁边的小伙伴们微笑鼓励。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/generated/page_07_6a905b81.png",
+      "text": "米米接着试大一点的石头，成功跳过后开心地笑起来，尾巴一抖一抖，耳朵也轻轻扬起。画面停在她自信明亮的表情上，传达她明白了：勇敢不只是硬着头皮去做，敢说“我不想”“我害怕”也很了不起。",
+      "prompt": "Mimi, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy cloud-like tail, bright almond eyes with catchlights, pink nose, tiny mouth, soft pink cheeks, successfully jumps a bigger stone and beams with confidence, tail bouncing happily, ears lifting gently. End on her joyful face, expressing that speaking fear honestly is also bravery. Warm uplifting storybook mood, golden forest light, cinematic lighting, 4k, masterpiece, closeup, slow dolly in, emotional finale\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "米米接着试大一点的石头，成功跳过后开心地笑起来，尾巴一抖一抖，耳朵也轻轻扬起。画面停在她自信明亮的表情上，传达她明白了：勇敢不只是硬着头皮去做，敢说“我不想”“我害怕”也很了不起。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "爆哭推荐｜8岁小白兔总说“我不要”之后，才发现勇敢表达不愿意也没关系",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_d6bbb234-7b5a-494f-94eb-59d8cf71d24c/anchor/anchor_upload_59da3fef.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "爆哭推荐｜8岁小白兔总说“我不要”之后，才发现勇敢表达不愿意也没关系 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "林间空地，阳光暖暖地洒下来。8岁的小白兔米米站在前景，身形小巧轻盈，长耳朵微微卷着，尾巴像小云团，亮晶晶的大杏眼、粉鼻子、小小嘴，脸颊淡淡粉粉。后方的小伙伴们围在树桩边，开心地招呼她一起玩“高高跳树桩”。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢平移带出环境后轻微推近米米",
+      "characters": [
+        "米米",
+        "小鹿",
+        "大家"
+      ],
+      "duration": 5,
+      "videoPrompt": "An 8-year-old little white rabbit girl named Mimi, petite and light, slightly curled long ears, fluffy cloud-like tail, big sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, childlike proportions, standing in a sunny forest clearing while animal friends invite her to play jumping on tall tree stumps, warm cheerful atmosphere, gentle forest light, storybook style, cinematic composition, 4k, masterpiece, soft depth of field, wide shot, smooth pan and slow dolly in"
+    },
+    {
+      "description": "米米一听到“高高跳树桩”，耳朵一下垂下来，双手轻轻缩在胸前，眼神发怯，小声说：“我不要……”周围的小伙伴都愣住，动作停下来，看向她。",
+      "shotType": "medium",
+      "cameraMovement": "缓慢推近，定格在米米的退缩动作上",
+      "characters": [
+        "米米",
+        "小鹿",
+        "大家"
+      ],
+      "duration": 4,
+      "videoPrompt": "Mimi, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, pale pink cheeks, reacts fearfully when hearing about jumping tall stumps, ears droop, hands drawn to chest, shy expression, softly says no, friends freeze in surprise around her, emotional children’s picture book scene, cinematic lighting, 4k, masterpiece, medium shot, slow push in, expressive character acting"
+    },
+    {
+      "description": "镜头切到米米看着高树桩的反应：前景是高高的树桩，后景中的米米微微后退，杏眼睁大，脸上紧张，仿佛想起曾经摔倒的经历，心里咚咚跳。",
+      "shotType": "closeup",
+      "cameraMovement": "低角度对树桩轻微仰拍后转焦到米米脸上",
+      "characters": [
+        "米米"
+      ],
+      "duration": 4,
+      "videoPrompt": "Close emotional shot of Mimi, the same 8-year-old little white rabbit girl, petite body, slightly curled long ears, fluffy cloud-like tail, large glossy almond eyes, pink nose, tiny mouth, blush cheeks, staring at a tall tree stump with fear, stepping back slightly as if recalling a past fall, heartbeat tension, low-angle view of the stump then rack focus to her frightened face, soft dramatic forest light, cinematic lighting, 4k, masterpiece, closeup, shallow depth of field"
+    },
+    {
+      "description": "小鹿温柔地站在米米身边说：“不想玩，也可以告诉我们呀。”米米抬起头，鼓起勇气，站直一点，大声说：“我现在害怕，不想跳高的，我想先看一看！”",
+      "shotType": "medium",
+      "cameraMovement": "先平稳对准小鹿，再轻轻推近米米说话的表情",
+      "characters": [
+        "米米",
+        "小鹿"
+      ],
+      "duration": 6,
+      "videoPrompt": "Mimi, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy tail, sparkling almond eyes, pink nose, tiny mouth, pink cheeks, stands beside a gentle young deer friend in the forest. The deer kindly tells her it is okay to say she does not want to play. Mimi lifts her head, gathers courage, straightens her posture, and clearly says she is scared and wants to watch first. Warm supportive mood, children’s storybook aesthetic, cinematic lighting, 4k, masterpiece, medium shot, subtle dolly in, natural facial animation"
+    },
+    {
+      "description": "大家没有笑米米，反而把游戏改成了“矮矮跳石头”。米米先站在一块很小的石头前，小心地试着跳过去，落地稳稳的；旁边的小伙伴们微笑鼓励。",
+      "shotType": "wide",
+      "cameraMovement": "平移跟随米米从起跳到落地",
+      "characters": [
+        "米米",
+        "小鹿",
+        "大家"
+      ],
+      "duration": 5,
+      "videoPrompt": "Mimi, the same 8-year-old little white rabbit girl, petite and light, slightly curled long ears, fluffy tail, big shining almond eyes, pink nose, tiny mouth, rosy cheeks, now plays a gentler game of jumping over low stones with supportive animal friends smiling nearby. She carefully tries a small stone first and lands steadily. Positive encouraging atmosphere, bright forest clearing, cinematic lighting, 4k, masterpiece, wide shot, smooth tracking pan, lively children’s illustration style"
+    },
+    {
+      "description": "米米接着试大一点的石头，成功跳过后开心地笑起来，尾巴一抖一抖，耳朵也轻轻扬起。画面停在她自信明亮的表情上，传达她明白了：勇敢不只是硬着头皮去做，敢说“我不想”“我害怕”也很了不起。",
+      "shotType": "closeup",
+      "cameraMovement": "缓慢推近到米米开心自信的脸部特写",
+      "characters": [
+        "米米"
+      ],
+      "duration": 5,
+      "videoPrompt": "Mimi, the same 8-year-old petite white rabbit girl with slightly curled long ears, fluffy cloud-like tail, bright almond eyes with catchlights, pink nose, tiny mouth, soft pink cheeks, successfully jumps a bigger stone and beams with confidence, tail bouncing happily, ears lifting gently. End on her joyful face, expressing that speaking fear honestly is also bravery. Warm uplifting storybook mood, golden forest light, cinematic lighting, 4k, masterpiece, closeup, slow dolly in, emotional finale"
+    }
+  ]
+}
