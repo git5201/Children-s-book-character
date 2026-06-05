@@ -1,0 +1,188 @@
+{
+  "topic": "原创暖心绘本《总说来不及的小白兔》：尾巴蓬松的小白兔在一连串慌张日常里，学会耐心、整理和慢慢把事情做好。",
+  "script": "清晨，8岁左右的小白兔一骨碌爬起来。她小巧轻盈，长耳朵微微卷着，蓬松的尾巴一跳一跳。大杏眼亮晶晶，可她一边穿鞋一边喊：“来不及啦，来不及啦！”\n\n她急着出门，胡萝卜画笔忘在床上，小水壶落在门边，连要送给奶奶的小花卡也压在书底下。跑到半路，她粉鼻子一抽，愣住了：“哎呀，又忘了！”\n\n小白兔急得眼圈红红。这时，兔奶奶笑着说：“别慌，慢一点，先想一想，再一样一样做。”小白兔深呼吸，竖起短短的小手指：先背包，再水壶，再画笔，最后小花卡。\n\n她慢慢整理，轻轻检查，果然一件都不少。到了奶奶家，她把卡片递过去，奶奶夸她：“今天可真能干。”小白兔摸摸蓬松的小尾巴，笑眯眯地说：“慢一点，就来得及！”",
+  "aspectRatio": "3:4",
+  "imageCount": 7,
+  "images": [
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_01_8110f080.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_02_41ea8a34.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_03_d7ab08ab.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_04_c8609f53.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_05_13a81191.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_06_aa04dcce.png",
+    "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_07_1e4581ec.png"
+  ],
+  "referenceImages": [],
+  "pages": [
+    {
+      "pageNumber": 1,
+      "role": "cover",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_01_8110f080.png",
+      "text": "《原创暖心绘本《总说来不及的小白兔》：尾巴蓬松的小白兔在一连串慌张日常里，学会耐心、整理和慢慢把事情做好。》",
+      "prompt": "儿童绘本封面，主题：原创暖心绘本《总说来不及的小白兔》：尾巴蓬松的小白兔在一连串慌张日常里，学会耐心、整理和慢慢把事情做好。\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 1 幅；封面主视觉\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff."
+    },
+    {
+      "pageNumber": 2,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_02_41ea8a34.png",
+      "text": "清晨的卧室里，8岁左右的小白兔一骨碌从床上爬起来。她小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，大杏眼亮晶晶，一边急急忙忙穿鞋一边喊：“来不及啦，来不及啦！”",
+      "prompt": "A warm picture-book style rabbit girl, around 8 years old, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose and tiny mouth, soft pink cheeks, short little fingers, wakes up in a cozy bedroom at dawn and hurriedly puts on her shoes, shouting in panic. Morning golden light through the window, tidy children's room, whimsical storybook mood, cinematic composition, slow push-in, 4k, masterpiece, cinematic lighting, soft depth of field, animated family film style.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 2 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "清晨的卧室里，8岁左右的小白兔一骨碌从床上爬起来。她小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，大杏眼亮晶晶，一边急急忙忙穿鞋一边喊：“来不及啦，来不及啦！”"
+    },
+    {
+      "pageNumber": 3,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_03_d7ab08ab.png",
+      "text": "小白兔急着冲向门口，屋里却落下了好几样东西：胡萝卜画笔忘在床上，小水壶落在门边，要送给奶奶的小花卡压在书底下。她的动作飞快，神情慌张。",
+      "prompt": "An 8-year-old rabbit girl, petite and agile, slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose, small mouth, pale pink cheeks, short fingers, dashes toward the door in a rush while forgetting important items behind: a carrot-shaped paintbrush on the bed, a small water bottle by the doorway, and a flower card trapped under a book. Fast anxious movement, playful but clear visual storytelling, warm indoor morning light, side tracking shot, 4k, cinematic lighting, masterpiece, detailed storybook animation, motion blur accents.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 3 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小白兔急着冲向门口，屋里却落下了好几样东西：胡萝卜画笔忘在床上，小水壶落在门边，要送给奶奶的小花卡压在书底下。她的动作飞快，神情慌张。"
+    },
+    {
+      "pageNumber": 4,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_04_c8609f53.png",
+      "text": "跑到半路的小白兔忽然停住，粉鼻子轻轻一抽，愣在原地：“哎呀，又忘了！”她低头想起自己漏带东西，眼圈开始红红的，急得快要哭出来。",
+      "prompt": "Close-up of a young rabbit girl, about 8 years old, petite, with slightly curled long ears, fluffy tail partly visible, large shining almond eyes filling with tears, pink twitching nose, tiny mouth, soft pink cheeks, short fingers held close to chest. She suddenly stops on the path and realizes she forgot something again, whispering in distress. Emotional childlike expression, gentle outdoor morning background, shallow focus, subtle handheld pause then slow push-in, cinematic lighting, 4k, masterpiece, tender animated film aesthetic.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 4 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "跑到半路的小白兔忽然停住，粉鼻子轻轻一抽，愣在原地：“哎呀，又忘了！”她低头想起自己漏带东西，眼圈开始红红的，急得快要哭出来。"
+    },
+    {
+      "pageNumber": 5,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_05_13a81191.png",
+      "text": "兔奶奶出现在一旁，温柔地笑着安慰她：“别慌，慢一点，先想一想，再一样一样做。”小白兔抬头看着奶奶，情绪慢慢安定下来。",
+      "prompt": "A sweet grandmother rabbit stands beside the young rabbit girl and smiles kindly, comforting her. The child rabbit is about 8 years old, petite and light, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, short fingers; she looks up, calming down. Grandmother rabbit has a warm elder presence and gentle smile. Soft morning outdoor light, nurturing family atmosphere, low-angle gentle lateral move, cinematic framing, 4k, masterpiece, storybook animation, warm cinematic lighting.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 5 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "兔奶奶出现在一旁，温柔地笑着安慰她：“别慌，慢一点，先想一想，再一样一样做。”小白兔抬头看着奶奶，情绪慢慢安定下来。"
+    },
+    {
+      "pageNumber": 6,
+      "role": "inside",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_06_aa04dcce.png",
+      "text": "小白兔深呼吸，竖起短短的小手指认真整理顺序：先背包，再水壶，再画笔，最后小花卡。接着她慢慢收拾、轻轻检查，把东西一样一样放好，确认一件都不少。",
+      "prompt": "The rabbit girl, around 8 years old, petite and nimble, slightly curled long ears, fluffy tail, bright almond eyes, pink nose, small mouth, light pink cheeks, short little fingers, takes a deep breath and counts on her fingers: backpack, water bottle, carrot paintbrush, flower card. Then she carefully organizes each item in order and checks them slowly. Calm focused expression, clear educational action, warm cozy atmosphere, static shot with subtle push-in, 4k, cinematic lighting, masterpiece, charming picture-book animation, crisp prop details.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 6 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "小白兔深呼吸，竖起短短的小手指认真整理顺序：先背包，再水壶，再画笔，最后小花卡。接着她慢慢收拾、轻轻检查，把东西一样一样放好，确认一件都不少。"
+    },
+    {
+      "pageNumber": 7,
+      "role": "ending",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/generated/page_07_1e4581ec.png",
+      "text": "到了奶奶家门前，小白兔把小花卡双手递给兔奶奶。奶奶夸她：“今天可真能干。”小白兔摸摸自己蓬松的小尾巴，笑眯眯地说：“慢一点，就来得及！”画面温暖收束。",
+      "prompt": "Outside grandmother rabbit's house, the young rabbit girl, about 8 years old, petite and graceful, slightly curled long ears, fluffy tail, large sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, short fingers, politely hands over a flower card with both hands. Grandmother rabbit praises her warmly, and the child touches her fluffy tail and smiles proudly. Sunny gentle morning, cozy home entrance, heartwarming ending, slow pull-back shot, cinematic lighting, 4k, masterpiece, family-friendly storybook animation, soft golden color palette.\n画面比例 3:4\n固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短\nStyle: Hand-painted watercolor children's picture book illustration. Texture: Visible paper fiber, mild pigment granulation, subtle brush pressure variation, slight edge bleed, natural stroke jitter. Palette: Soft warm palette with restrained saturation and low digital gloss.\n构图变化标识：第 7 幅；叙事内页\n优先真实手绘感，避免过度锐化与数字涂抹感。\nAvoid AI-looking artifacts: over-smooth surfaces, plastic skin, repeated micro-patterns, duplicated objects, warped fingers, fused edges, random gibberish text, logo, watermark. Prefer natural imperfections and human-made variation: tiny asymmetry, uneven pigment density, non-uniform outlines, realistic shadow falloff.",
+      "shotDescription": "到了奶奶家门前，小白兔把小花卡双手递给兔奶奶。奶奶夸她：“今天可真能干。”小白兔摸摸自己蓬松的小尾巴，笑眯眯地说：“慢一点，就来得及！”画面温暖收束。"
+    }
+  ],
+  "characterBible": {
+    "protagonist": "原创暖心绘本《总说来不及的小白兔》：尾巴蓬松的小白兔在一连串慌张日常里，学会耐心、整理和慢慢把事情做好。",
+    "visualAnchor": "人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "source": "character_asset",
+    "referenceImageCount": 1,
+    "consistencyPrompt": "固定使用已保存角色资产作为视觉锚点。角色设定：人；年龄感/8岁左右童真；体态/小巧轻盈、长耳微卷、尾巴蓬松；脸部特征/大杏眼高光、粉鼻小嘴、面颊淡粉、短",
+    "anchorImageUrl": "https://cdn.jsdelivr.net/gh/git5201/Children-s-book-character@main/picturebook/2026-06-04/book_5a1bb346-e91d-42e6-a4f0-5ee7c33c39b0/anchor/anchor_upload_66b24bf2.png"
+  },
+  "qualityGate": {
+    "status": "PASS",
+    "score": 100,
+    "checks": [
+      {
+        "key": "images_complete",
+        "label": "素材数量",
+        "passed": true,
+        "detail": "生成 7/7 张图片"
+      },
+      {
+        "key": "page_structure",
+        "label": "绘本页结构",
+        "passed": true,
+        "detail": "已生成 7 页，含封面、内页与结尾标记"
+      },
+      {
+        "key": "character_anchor",
+        "label": "角色一致性锚点",
+        "passed": true,
+        "detail": "原创暖心绘本《总说来不及的小白兔》：尾巴蓬松的小白兔在一连串慌张日常里，学会耐心、整理和慢慢把事情做好。 · 脚本启发式锚定"
+      },
+      {
+        "key": "copy_ready",
+        "label": "平台文案",
+        "passed": true,
+        "detail": "小红书与抖音图文文案已生成"
+      },
+      {
+        "key": "aspect_ratio",
+        "label": "画幅配置",
+        "passed": true,
+        "detail": "当前画幅 3:4"
+      },
+      {
+        "key": "shot_coverage",
+        "label": "分镜覆盖",
+        "passed": true,
+        "detail": "已拆解 6 个分镜"
+      }
+    ],
+    "summary": "发布包通过基础质量门禁，可进入发布前人工审看。"
+  },
+  "shots": [
+    {
+      "description": "清晨的卧室里，8岁左右的小白兔一骨碌从床上爬起来。她小巧轻盈，长耳朵微微卷着，蓬松的小尾巴一跳一跳，大杏眼亮晶晶，一边急急忙忙穿鞋一边喊：“来不及啦，来不及啦！”",
+      "shotType": "wide",
+      "cameraMovement": "缓慢推近",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "A warm picture-book style rabbit girl, around 8 years old, petite and light, slightly curled long ears, fluffy bouncing tail, big sparkling almond eyes, pink nose and tiny mouth, soft pink cheeks, short little fingers, wakes up in a cozy bedroom at dawn and hurriedly puts on her shoes, shouting in panic. Morning golden light through the window, tidy children's room, whimsical storybook mood, cinematic composition, slow push-in, 4k, masterpiece, cinematic lighting, soft depth of field, animated family film style."
+    },
+    {
+      "description": "小白兔急着冲向门口，屋里却落下了好几样东西：胡萝卜画笔忘在床上，小水壶落在门边，要送给奶奶的小花卡压在书底下。她的动作飞快，神情慌张。",
+      "shotType": "medium",
+      "cameraMovement": "平移跟随",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 6,
+      "videoPrompt": "An 8-year-old rabbit girl, petite and agile, slightly curled long ears, fluffy tail, big glossy almond eyes, pink nose, small mouth, pale pink cheeks, short fingers, dashes toward the door in a rush while forgetting important items behind: a carrot-shaped paintbrush on the bed, a small water bottle by the doorway, and a flower card trapped under a book. Fast anxious movement, playful but clear visual storytelling, warm indoor morning light, side tracking shot, 4k, cinematic lighting, masterpiece, detailed storybook animation, motion blur accents."
+    },
+    {
+      "description": "跑到半路的小白兔忽然停住，粉鼻子轻轻一抽，愣在原地：“哎呀，又忘了！”她低头想起自己漏带东西，眼圈开始红红的，急得快要哭出来。",
+      "shotType": "closeup",
+      "cameraMovement": "轻微手持停顿后缓慢推近",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 5,
+      "videoPrompt": "Close-up of a young rabbit girl, about 8 years old, petite, with slightly curled long ears, fluffy tail partly visible, large shining almond eyes filling with tears, pink twitching nose, tiny mouth, soft pink cheeks, short fingers held close to chest. She suddenly stops on the path and realizes she forgot something again, whispering in distress. Emotional childlike expression, gentle outdoor morning background, shallow focus, subtle handheld pause then slow push-in, cinematic lighting, 4k, masterpiece, tender animated film aesthetic."
+    },
+    {
+      "description": "兔奶奶出现在一旁，温柔地笑着安慰她：“别慌，慢一点，先想一想，再一样一样做。”小白兔抬头看着奶奶，情绪慢慢安定下来。",
+      "shotType": "medium",
+      "cameraMovement": "低角度轻缓平移",
+      "characters": [
+        "小白兔",
+        "兔奶奶"
+      ],
+      "duration": 6,
+      "videoPrompt": "A sweet grandmother rabbit stands beside the young rabbit girl and smiles kindly, comforting her. The child rabbit is about 8 years old, petite and light, slightly curled long ears, fluffy tail, big sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, short fingers; she looks up, calming down. Grandmother rabbit has a warm elder presence and gentle smile. Soft morning outdoor light, nurturing family atmosphere, low-angle gentle lateral move, cinematic framing, 4k, masterpiece, storybook animation, warm cinematic lighting."
+    },
+    {
+      "description": "小白兔深呼吸，竖起短短的小手指认真整理顺序：先背包，再水壶，再画笔，最后小花卡。接着她慢慢收拾、轻轻检查，把东西一样一样放好，确认一件都不少。",
+      "shotType": "medium",
+      "cameraMovement": "定镜后小幅推近",
+      "characters": [
+        "小白兔"
+      ],
+      "duration": 7,
+      "videoPrompt": "The rabbit girl, around 8 years old, petite and nimble, slightly curled long ears, fluffy tail, bright almond eyes, pink nose, small mouth, light pink cheeks, short little fingers, takes a deep breath and counts on her fingers: backpack, water bottle, carrot paintbrush, flower card. Then she carefully organizes each item in order and checks them slowly. Calm focused expression, clear educational action, warm cozy atmosphere, static shot with subtle push-in, 4k, cinematic lighting, masterpiece, charming picture-book animation, crisp prop details."
+    },
+    {
+      "description": "到了奶奶家门前，小白兔把小花卡双手递给兔奶奶。奶奶夸她：“今天可真能干。”小白兔摸摸自己蓬松的小尾巴，笑眯眯地说：“慢一点，就来得及！”画面温暖收束。",
+      "shotType": "wide",
+      "cameraMovement": "缓慢拉远",
+      "characters": [
+        "小白兔",
+        "兔奶奶"
+      ],
+      "duration": 7,
+      "videoPrompt": "Outside grandmother rabbit's house, the young rabbit girl, about 8 years old, petite and graceful, slightly curled long ears, fluffy tail, large sparkling almond eyes, pink nose, tiny mouth, soft pink cheeks, short fingers, politely hands over a flower card with both hands. Grandmother rabbit praises her warmly, and the child touches her fluffy tail and smiles proudly. Sunny gentle morning, cozy home entrance, heartwarming ending, slow pull-back shot, cinematic lighting, 4k, masterpiece, family-friendly storybook animation, soft golden color palette."
+    }
+  ]
+}
